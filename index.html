@@ -1,0 +1,177 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Global Ops & Tech Trends Hub</title>
+    <style>
+        :root {
+            --bg-color: #0d1117;
+            --panel-bg: #161b22;
+            --text-main: #c9d1d9;
+            --text-muted: #8b949e;
+            --accent-blue: #58a6ff;
+            --accent-green: #2ea043;
+            --border-color: #30363d;
+        }
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
+            background-color: var(--bg-color);
+            color: var(--text-main);
+            margin: 0;
+            padding: 40px 20px;
+            display: flex;
+            justify-content: center;
+        }
+        .dashboard {
+            width: 100%;
+            max-width: 900px;
+        }
+        .header {
+            border-bottom: 1px solid var(--border-color);
+            padding-bottom: 20px;
+            margin-bottom: 30px;
+            display: flex;
+            justify-content: space-between;
+            align-items: flex-end;
+        }
+        h1 {
+            margin: 0;
+            font-size: 24px;
+            font-weight: 600;
+            color: #ffffff;
+            letter-spacing: 0.5px;
+        }
+        .status-badge {
+            font-size: 12px;
+            font-family: monospace;
+            background-color: rgba(46, 160, 67, 0.15);
+            color: var(--accent-green);
+            padding: 4px 10px;
+            border-radius: 12px;
+            border: 1px solid var(--accent-green);
+        }
+        .last-updated {
+            font-size: 13px;
+            color: var(--text-muted);
+            margin-top: 8px;
+            font-family: monospace;
+        }
+        .article-card {
+            background-color: var(--panel-bg);
+            border: 1px solid var(--border-color);
+            border-radius: 8px;
+            padding: 20px;
+            margin-bottom: 16px;
+            transition: transform 0.2s, border-color 0.2s;
+        }
+        .article-card:hover {
+            transform: translateY(-2px);
+            border-color: var(--accent-blue);
+        }
+        .article-title {
+            margin: 0 0 10px 0;
+            font-size: 18px;
+        }
+        .article-title a {
+            color: var(--accent-blue);
+            text-decoration: none;
+            font-weight: 600;
+        }
+        .article-title a:hover {
+            text-decoration: underline;
+        }
+        .article-desc {
+            font-size: 14px;
+            color: var(--text-muted);
+            line-height: 1.5;
+            margin: 0;
+        }
+        .footer {
+            margin-top: 40px;
+            text-align: center;
+            font-size: 12px;
+            color: var(--text-muted);
+            border-top: 1px solid var(--border-color);
+            padding-top: 20px;
+        }
+    </style>
+</head>
+<body>
+
+<div class="dashboard">
+    <div class="header">
+        <div>
+            <h1>Global MarTech & Ops Trends</h1>
+            <div class="last-updated" id="updateTime">Syncing data...</div>
+        </div>
+        <div class="status-badge">● SYSTEM ACTIVE</div>
+    </div>
+
+    <div id="articles-container">
+        </div>
+
+    <div class="footer">
+        Automated Data Pipeline Built by RabbiLorraine233 | Deployed via GitHub Actions
+    </div>
+</div>
+
+<script>
+    // 这段代码负责读取我们将来要用 Python 自动生成的 data.json 文件
+    // 如果还没生成，它会先展示一组“演示数据”，让你看到效果！
+    
+    const container = document.getElementById('articles-container');
+    const timeLabel = document.getElementById('updateTime');
+
+    // 备用的演示数据（展现跨学科运营视角的英文标题）
+    const demoData = {
+        last_updated: "Demo Mode - Pending Automation",
+        articles: [
+            {
+                title: "How Automation is Redefining Product Operations in 2026",
+                url: "#",
+                description: "An in-depth analysis of how top tier MNCs are utilizing automated workflows to streamline user growth and cross-functional communication."
+            },
+            {
+                title: "Data-Driven Marketing: Beyond the Basics of A/B Testing",
+                url: "#",
+                description: "Exploring advanced metrics and semantic analysis to understand user behavior in the Web3 era."
+            },
+            {
+                title: "The Rise of the 'Technical Operator': Bridging Code and Content",
+                url: "#",
+                description: "Why modern companies are looking for hybrid talents who understand both algorithmic logic and human-centric storytelling."
+            }
+        ]
+    };
+
+    // 尝试去获取自动化生成的数据
+    fetch('data.json')
+        .then(response => {
+            if (!response.ok) throw new Error("No live data yet");
+            return response.json();
+        })
+        .then(data => renderData(data))
+        .catch(err => {
+            console.log("Loading demo data...");
+            renderData(demoData);
+        });
+
+    function renderData(data) {
+        timeLabel.innerText = "Last Automated Sync: " + data.last_updated;
+        container.innerHTML = "";
+        
+        data.articles.forEach(article => {
+            const card = document.createElement('div');
+            card.className = 'article-card';
+            card.innerHTML = `
+                <h3 class="article-title"><a href="${article.url}" target="_blank">${article.title}</a></h3>
+                <p class="article-desc">${article.description}</p>
+            `;
+            container.appendChild(card);
+        });
+    }
+</script>
+
+</body>
+</html>
