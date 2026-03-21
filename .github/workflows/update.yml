@@ -24,9 +24,10 @@ jobs:
     - name: 3. Run Fetch Script (执行你的大脑逻辑)
       run: python fetch_data.py
       
-    - name: 4. Commit and Push Changes (把抓到的数据存回仓库)
+    - name: 4. Commit and Push Changes
       run: |
         git config --local user.email "action@github.com"
         git config --local user.name "GitHub Action Bot"
         git add data.json
-        git diff --quiet && git diff --staged --quiet || (git commit -m "Auto-update global trends data" && git push)
+        git commit -m "Auto-update global trends data" || echo "No changes to commit"
+        git push || echo "No changes to push"
