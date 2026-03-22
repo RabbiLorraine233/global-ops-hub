@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-03-21 17:41:10 UTC",
+    "last_updated": "2026-03-22 02:03:51 UTC",
     "articles": [
         {
             "title": "I Replaced a \u20ac2000/month Marketing Stack with 10 Free n8n Workflows",
@@ -7,24 +7,24 @@
             "description": "My client was paying:   Mailchimp: \u20ac299/month HubSpot: \u20ac890/month Zapier: \u20ac199/month Buffer:..."
         },
         {
-            "title": "Automate Your Marketing Links with Dub.co and Node.js",
-            "url": "https://dev.to/dubco_tips/automate-your-marketing-links-with-dubco-and-nodejs-402",
-            "description": "Automate Your Marketing Links with Dub.co and Node.js   If you're running campaigns across..."
+            "title": "Product Hunt Launch: 7 Tactics That Got Us #1 (30 Times)",
+            "url": "https://dev.to/iris1031/product-hunt-launch-7-tactics-that-got-us-1-30-times-2gn",
+            "description": "Product Hunt Launch Success: Lessons from 30 Daily #1 Wins   Winning a Product Hunt launch..."
         },
         {
-            "title": "I Built a Simple System to Grow on \u5c0f\u7ea2\u4e66 (Xiaohongshu) \u2014 Here's the Template",
-            "url": "https://dev.to/guanfu_lab/i-built-a-simple-system-to-grow-on-xiao-hong-shu-xiaohongshu-heres-the-template-3ee6",
-            "description": "If you're trying to grow on \u5c0f\u7ea2\u4e66 (Xiaohongshu) but feel lost in the algorithm chaos \u2014 you're not..."
+            "title": "How I Got a Google Merchant Center Misrepresentation Suspension Lifted Without Contacting Support",
+            "url": "https://dev.to/ishant_sharma_marketer/how-i-got-a-google-merchant-center-misrepresentation-suspension-lifted-without-contacting-support-4607",
+            "description": "I've been running Google Ads for e-commerce clients since 2013. In that time I've seen Shopping..."
         },
         {
-            "title": "The Best Bitly Alternative in 2026 (Free Custom Domain Included)",
-            "url": "https://dev.to/dubco_tips/the-best-bitly-alternative-in-2026-free-custom-domain-included-4fke",
-            "description": "The Best Bitly Alternative in 2026 (Free Custom Domain Included)   You're building something..."
+            "title": "ChatGPT Just Launched an Ads Manager \u2014 Here Is Why Small Businesses Should Pay Attention",
+            "url": "https://dev.to/yousif_alias_c623bba6573f/chatgpt-just-launched-an-ads-manager-here-is-why-small-businesses-should-pay-attention-11hk",
+            "description": "ChatGPT just dropped an ads manager. Let that sink in.  OpenAI, the company behind the most used AI..."
         },
         {
-            "title": "GoHighLevel vs ClickFunnels: The Developer's Guide to Agency Platform Selection in 2026",
-            "url": "https://dev.to/robert_denim/gohighlevel-vs-clickfunnels-the-developers-guide-to-agency-platform-selection-in-2026-1hf",
-            "description": "Picture this: You're knee-deep in client projects, juggling multiple marketing tools, and your..."
+            "title": "The Developer\u2019s Curse: Why we can code a platform in a weekend but can't find 10 users in a month",
+            "url": "https://dev.to/ruthrasankar_s_04d66c14a3/the-developers-curse-why-we-can-code-a-platform-in-a-weekend-but-cant-find-10-users-in-a-month-2gaf",
+            "description": "The \"Technical Founder\u2019s Curse\" is a real phenomenon. When it comes to distribution, we just \"post to..."
         }
     ]
 }
