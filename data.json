@@ -1,30 +1,30 @@
 {
-    "last_updated": "2026-03-23 02:04:30 UTC",
+    "last_updated": "2026-03-24 01:56:05 UTC",
     "articles": [
         {
-            "title": "I Replaced a \u20ac2000/month Marketing Stack with 10 Free n8n Workflows",
-            "url": "https://dev.to/nevik_schmidt_3635afa2b85/i-replaced-a-eu2000month-marketing-stack-with-10-free-n8n-workflows-4am7",
-            "description": "My client was paying:   Mailchimp: \u20ac299/month HubSpot: \u20ac890/month Zapier: \u20ac199/month Buffer:..."
+            "title": "Open Source Marketing: The Complete Guide for 2026",
+            "url": "https://dev.to/iris1031/open-source-marketing-the-complete-guide-for-2026-jp3",
+            "description": "Open Source Marketing: The Complete Guide for 2026   Marketing open source software is..."
         },
         {
-            "title": "Product Hunt Launch: 7 Tactics That Got Us #1 (30 Times)",
-            "url": "https://dev.to/iris1031/product-hunt-launch-7-tactics-that-got-us-1-30-times-2gn",
-            "description": "Product Hunt Launch Success: Lessons from 30 Daily #1 Wins   Winning a Product Hunt launch..."
+            "title": "How AI Is Transforming the Photography Industry",
+            "url": "https://dev.to/savage_solutions/how-ai-is-transforming-the-photography-industry-402l",
+            "description": "How AI Is Transforming the Photography Industry: A Developer's Perspective   When I started..."
         },
         {
-            "title": "How I Got a Google Merchant Center Misrepresentation Suspension Lifted Without Contacting Support",
-            "url": "https://dev.to/ishant_sharma_marketer/how-i-got-a-google-merchant-center-misrepresentation-suspension-lifted-without-contacting-support-4607",
-            "description": "I've been running Google Ads for e-commerce clients since 2013. In that time I've seen Shopping..."
+            "title": "The Zero-Click Economy: Why Your Content Strategy Is Optimized for a World That No Longer Exists",
+            "url": "https://dev.to/alexandrebrt14sys/the-zero-click-economy-why-your-content-strategy-is-optimized-for-a-world-that-no-longer-exists-482i",
+            "description": "The rules of digital visibility have changed -- and most companies have not noticed.  For two..."
         },
         {
-            "title": "ChatGPT Just Launched an Ads Manager \u2014 Here Is Why Small Businesses Should Pay Attention",
-            "url": "https://dev.to/yousif_alias_c623bba6573f/chatgpt-just-launched-an-ads-manager-here-is-why-small-businesses-should-pay-attention-11hk",
-            "description": "ChatGPT just dropped an ads manager. Let that sink in.  OpenAI, the company behind the most used AI..."
+            "title": "The Invisible Brand Paradox: How Companies With Great Products Disappear in AI Search",
+            "url": "https://dev.to/alexandrebrt14sys/the-invisible-brand-paradox-how-companies-with-great-products-disappear-in-ai-search-307c",
+            "description": "There is a new kind of corporate crisis emerging -- one that does not show up in quarterly reports..."
         },
         {
-            "title": "The Developer\u2019s Curse: Why we can code a platform in a weekend but can't find 10 users in a month",
-            "url": "https://dev.to/ruthrasankar_s_04d66c14a3/the-developers-curse-why-we-can-code-a-platform-in-a-weekend-but-cant-find-10-users-in-a-month-2gaf",
-            "description": "The \"Technical Founder\u2019s Curse\" is a real phenomenon. When it comes to distribution, we just \"post to..."
+            "title": "How to Build Personalization into Crypto and DeFi Apps with Formo Profiles API",
+            "url": "https://dev.to/yos/how-to-build-personalization-into-crypto-and-defi-apps-with-formo-profiles-api-b9i",
+            "description": "Turn anonymous wallets into 360-degree user profiles for realtime perzonalization in crypto and DeFi. Formo's Profiles API delivers on-chain history, social identities, and behavioral data so crypto apps can personalize, segment, and convert faster."
         }
     ]
 }
