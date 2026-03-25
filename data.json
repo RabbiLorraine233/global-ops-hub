@@ -1,30 +1,30 @@
 {
-    "last_updated": "2026-03-24 01:56:05 UTC",
+    "last_updated": "2026-03-25 02:02:00 UTC",
     "articles": [
         {
-            "title": "Open Source Marketing: The Complete Guide for 2026",
-            "url": "https://dev.to/iris1031/open-source-marketing-the-complete-guide-for-2026-jp3",
-            "description": "Open Source Marketing: The Complete Guide for 2026   Marketing open source software is..."
+            "title": "How to Find Your First Customers (Before You Have a Product)",
+            "url": "https://dev.to/sclaydon/how-to-find-your-first-customers-before-you-have-a-product-23a4",
+            "description": "How to Find Your First Customers (Before You Have a Product)   Most founders think they need..."
+        },
+        {
+            "title": "I tested 4 lead generation tools in Q1 2026. One clearly won.",
+            "url": "https://dev.to/alexseller/i-tested-4-lead-generation-tools-in-q1-2026-one-clearly-won-40pn",
+            "description": "Every quarter I test new tools for our sales stack. This Q1 I compared Apollo, Clay, Lemlist, and..."
+        },
+        {
+            "title": "Social Media Automation That Actually Works (Not Just Scheduling)",
+            "url": "https://dev.to/eqhoids/social-media-automation-that-actually-works-not-just-scheduling-2f14",
+            "description": "Social Media Automation That Actually Works (Not Just Scheduling)   Let's face it: most..."
+        },
+        {
+            "title": "I lost 22% of my organic traffic in 6 months and Google never warned me. Here's what was actually happening.",
+            "url": "https://dev.to/om_prakash_3311f8a4576605/i-lost-22-of-my-organic-traffic-in-6-months-and-google-never-warned-me-heres-what-was-actually-51k0",
+            "description": "I noticed the drop in January. Not a dramatic cliff, just a slow bleed. Month over month, the numbers..."
         },
         {
             "title": "How AI Is Transforming the Photography Industry",
             "url": "https://dev.to/savage_solutions/how-ai-is-transforming-the-photography-industry-402l",
             "description": "How AI Is Transforming the Photography Industry: A Developer's Perspective   When I started..."
-        },
-        {
-            "title": "The Zero-Click Economy: Why Your Content Strategy Is Optimized for a World That No Longer Exists",
-            "url": "https://dev.to/alexandrebrt14sys/the-zero-click-economy-why-your-content-strategy-is-optimized-for-a-world-that-no-longer-exists-482i",
-            "description": "The rules of digital visibility have changed -- and most companies have not noticed.  For two..."
-        },
-        {
-            "title": "The Invisible Brand Paradox: How Companies With Great Products Disappear in AI Search",
-            "url": "https://dev.to/alexandrebrt14sys/the-invisible-brand-paradox-how-companies-with-great-products-disappear-in-ai-search-307c",
-            "description": "There is a new kind of corporate crisis emerging -- one that does not show up in quarterly reports..."
-        },
-        {
-            "title": "How to Build Personalization into Crypto and DeFi Apps with Formo Profiles API",
-            "url": "https://dev.to/yos/how-to-build-personalization-into-crypto-and-defi-apps-with-formo-profiles-api-b9i",
-            "description": "Turn anonymous wallets into 360-degree user profiles for realtime perzonalization in crypto and DeFi. Formo's Profiles API delivers on-chain history, social identities, and behavioral data so crypto apps can personalize, segment, and convert faster."
         }
     ]
 }
