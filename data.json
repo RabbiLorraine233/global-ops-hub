@@ -1,30 +1,30 @@
 {
-    "last_updated": "2026-03-25 02:02:00 UTC",
+    "last_updated": "2026-03-26 02:08:06 UTC",
     "articles": [
         {
-            "title": "How to Find Your First Customers (Before You Have a Product)",
-            "url": "https://dev.to/sclaydon/how-to-find-your-first-customers-before-you-have-a-product-23a4",
-            "description": "How to Find Your First Customers (Before You Have a Product)   Most founders think they need..."
+            "title": "SEO Meta Tags That Actually Rank: A Developer's Guide",
+            "url": "https://dev.to/belal_zahran/seo-meta-tags-that-actually-rank-a-developers-guide-1hj7",
+            "description": "Most developers treat meta tags like an afterthought. You build the app, deploy it, and maybe \u2014 if..."
         },
         {
-            "title": "I tested 4 lead generation tools in Q1 2026. One clearly won.",
-            "url": "https://dev.to/alexseller/i-tested-4-lead-generation-tools-in-q1-2026-one-clearly-won-40pn",
-            "description": "Every quarter I test new tools for our sales stack. This Q1 I compared Apollo, Clay, Lemlist, and..."
+            "title": "How to Do Competitor Analysis Without Spending $500/Month on Tools",
+            "url": "https://dev.to/belal_zahran/how-to-do-competitor-analysis-without-spending-500month-on-tools-3ndp",
+            "description": "When I started my first SaaS company, my co-founder suggested we buy a Crayon subscription for..."
         },
         {
-            "title": "Social Media Automation That Actually Works (Not Just Scheduling)",
-            "url": "https://dev.to/eqhoids/social-media-automation-that-actually-works-not-just-scheduling-2f14",
-            "description": "Social Media Automation That Actually Works (Not Just Scheduling)   Let's face it: most..."
+            "title": "How to Find Low-Competition Keywords Without Paying for Ahrefs",
+            "url": "https://dev.to/belal_zahran/how-to-find-low-competition-keywords-without-paying-for-ahrefs-4865",
+            "description": "Everyone says \"do keyword research.\" Then they recommend Ahrefs ($99/mo), SEMrush ($129/mo), or Moz..."
         },
         {
-            "title": "I lost 22% of my organic traffic in 6 months and Google never warned me. Here's what was actually happening.",
-            "url": "https://dev.to/om_prakash_3311f8a4576605/i-lost-22-of-my-organic-traffic-in-6-months-and-google-never-warned-me-heres-what-was-actually-51k0",
-            "description": "I noticed the drop in January. Not a dramatic cliff, just a slow bleed. Month over month, the numbers..."
+            "title": "Page Builders versus Custom Development: A Strategic Guide for Marketing Teams and Developers",
+            "url": "https://dev.to/jasonbiondo/page-builders-versus-custom-development-a-strategic-guide-for-marketing-teams-and-developers-201c",
+            "description": "Compare visual page builders and custom development for marketing teams. Learn when each approach wins, from campaign velocity to technical complexity"
         },
         {
-            "title": "How AI Is Transforming the Photography Industry",
-            "url": "https://dev.to/savage_solutions/how-ai-is-transforming-the-photography-industry-402l",
-            "description": "How AI Is Transforming the Photography Industry: A Developer's Perspective   When I started..."
+            "title": "Product Hunt Launch Playbook: The Definitive Guide (30x #1 Winner)",
+            "url": "https://dev.to/iris1031/product-hunt-launch-playbook-the-definitive-guide-30x-1-winner-48g5",
+            "description": "The complete Product Hunt launch playbook from someone who won #1 Daily 30 times. Strategy, tactics, timeline, and real examples."
         }
     ]
 }
