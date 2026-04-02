@@ -1,30 +1,30 @@
 {
-    "last_updated": "2026-04-01 02:26:49 UTC",
+    "last_updated": "2026-04-02 02:06:06 UTC",
     "articles": [
         {
-            "title": "Google AI Overviews Are Reshaping Search \u2014 Here\u2019s How to Get Your Business Cited",
-            "url": "https://dev.to/omnieclipse/google-ai-overviews-are-reshaping-search-heres-how-to-get-your-business-cited-1no8",
-            "description": "The CTR data on Google AI Overviews is the clearest signal yet that search marketing has permanently changed."
+            "title": "Part 2: Marketing New Apps Sucks (But Preparation Saves You)",
+            "url": "https://dev.to/chadders13/part-2-marketing-new-apps-sucks-but-preparation-saves-you-3o04",
+            "description": "While I spend most of my time deep in C#, SQL, and JavaScript building my open-source local AI tool..."
         },
         {
-            "title": "Buy Telegram Accounts Online \u2013 Premium PVA & Aged Accounts for Marketing Success",
-            "url": "https://dev.to/pvakingpro13hv/buy-telegram-accounts-online-premium-pva-aged-accounts-for-marketing-success-2b09",
-            "description": "Buy Telegram Accounts Online \u2013 Premium PVA &amp; Aged Accounts for Marketing Success In the..."
+            "title": "Builds & Bugs: Which RPG class are you as a developer?",
+            "url": "https://dev.to/pvsdev/builds-bugs-which-rpg-class-are-you-as-a-developer-4jl4",
+            "description": "Every developer's working days turn into routine sooner or later (even if everything feels..."
         },
         {
-            "title": "Buy Verified Telegram Accounts \u2013 High-Quality Aged & PVA Accounts for Promotion",
-            "url": "https://dev.to/pvakingpro13hv/buy-verified-telegram-accounts-high-quality-aged-pva-accounts-for-promotion-1m5i",
-            "description": "Buy Verified Telegram Accounts \u2013 High-Quality Aged &amp; PVA Accounts for Promotion Telegram has..."
+            "title": "How I Got 33K Google Impressions in 2 Weeks with Programmatic SEO",
+            "url": "https://dev.to/christina_sanchez_f16f40a/how-i-got-33k-google-impressions-in-2-weeks-with-programmatic-seo-fk8",
+            "description": "Two weeks ago I shared how I built a 10,000+ page SEO site with Next.js and PostgreSQL. Today I'm..."
         },
         {
-            "title": "Open Source as a Growth Engine: How Developers Are Using GitHub to Build Profitable Businesses in 2026",
-            "url": "https://dev.to/alexcloudstar/open-source-as-a-growth-engine-how-developers-are-using-github-to-build-profitable-businesses-in-2k82",
-            "description": "Open source is quietly becoming the best free marketing channel for bootstrapped founders. Your GitHub repo is a landing page, trust signal, and distribution engine rolled into one. Here is the playbook for turning open source contributions into paying customers, based on what is actually working in 2026."
+            "title": "The Art and Evolution of Food Blogging: More Than Just Pretty Plates",
+            "url": "https://dev.to/amna_0dc268cc3eed5b5d44f9/the-art-and-evolution-of-food-blogging-more-than-just-pretty-plates-2adc",
+            "description": "Food blogging has grown from a simple hobby into a powerful digital movement that shapes how we cook,..."
         },
         {
-            "title": "Conversion Rate Optimization for B2B in 2026 [CRO Framework]",
-            "url": "https://dev.to/2gelbuy/conversion-rate-optimization-for-b2b-in-2026-cro-framework-3k1m",
-            "description": "B2B CRO framework with real benchmarks: audit checklist, A/B testing playbook, landing page fixes, and the 5 mistakes killing 80% of conversions."
+            "title": "RAG Web Browser: Give Your AI Real-Time Web Access Without Hallucinations",
+            "url": "https://dev.to/2gelbuy/rag-web-browser-give-your-ai-real-time-web-access-without-hallucinations-4oo7",
+            "description": "Apify RAG Web Browser fetches and cleans web pages for LLM context. Structured text output for Claude, GPT-4, and any AI that needs real-time web data."
         }
     ]
 }
