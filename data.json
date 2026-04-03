@@ -1,30 +1,30 @@
 {
-    "last_updated": "2026-04-02 02:06:06 UTC",
+    "last_updated": "2026-04-03 02:07:28 UTC",
     "articles": [
         {
-            "title": "Part 2: Marketing New Apps Sucks (But Preparation Saves You)",
-            "url": "https://dev.to/chadders13/part-2-marketing-new-apps-sucks-but-preparation-saves-you-3o04",
-            "description": "While I spend most of my time deep in C#, SQL, and JavaScript building my open-source local AI tool..."
+            "title": "Stop using ChatGPT for your marketing content. Here's why it's making your brand invisible.",
+            "url": "https://dev.to/marian-mapaan/stop-using-chatgpt-for-your-marketing-content-heres-why-its-making-your-brand-invisible-4eo4",
+            "description": "Hot take, but I'll back it up.  ChatGPT is a remarkable tool. I use it every day. For research, for..."
         },
         {
-            "title": "Builds & Bugs: Which RPG class are you as a developer?",
-            "url": "https://dev.to/pvsdev/builds-bugs-which-rpg-class-are-you-as-a-developer-4jl4",
-            "description": "Every developer's working days turn into routine sooner or later (even if everything feels..."
+            "title": "Building a Scalable Lead Generation System From Scratch",
+            "url": "https://dev.to/ojiiz/building-a-scalable-lead-generation-system-from-scratch-545h",
+            "description": "Most people treat lead generation as a short-term activity. They send a few emails, post some..."
         },
         {
-            "title": "How I Got 33K Google Impressions in 2 Weeks with Programmatic SEO",
-            "url": "https://dev.to/christina_sanchez_f16f40a/how-i-got-33k-google-impressions-in-2-weeks-with-programmatic-seo-fk8",
-            "description": "Two weeks ago I shared how I built a 10,000+ page SEO site with Next.js and PostgreSQL. Today I'm..."
+            "title": "You Printed the QR Code. Then the URL Changed.",
+            "url": "https://dev.to/shaishav_patel_271fdcd61a/you-printed-the-qr-code-then-the-url-changed-3458",
+            "description": "You designed the flyer. You printed 500 copies. You stuck the QR code in the corner pointing to your..."
         },
         {
-            "title": "The Art and Evolution of Food Blogging: More Than Just Pretty Plates",
-            "url": "https://dev.to/amna_0dc268cc3eed5b5d44f9/the-art-and-evolution-of-food-blogging-more-than-just-pretty-plates-2adc",
-            "description": "Food blogging has grown from a simple hobby into a powerful digital movement that shapes how we cook,..."
+            "title": "Developer Marketing: How to Reach Technical Audiences in 2026",
+            "url": "https://dev.to/iris1031/developer-marketing-how-to-reach-technical-audiences-in-2026-33k2",
+            "description": "Developer marketing means reaching technical audiences who trust peer recommendations over ads...."
         },
         {
-            "title": "RAG Web Browser: Give Your AI Real-Time Web Access Without Hallucinations",
-            "url": "https://dev.to/2gelbuy/rag-web-browser-give-your-ai-real-time-web-access-without-hallucinations-4oo7",
-            "description": "Apify RAG Web Browser fetches and cleans web pages for LLM context. Structured text output for Claude, GPT-4, and any AI that needs real-time web data."
+            "title": "KOL Marketing Strategy: How to Find and Work with Influencers in 2026",
+            "url": "https://dev.to/iris1031/kol-marketing-strategy-how-to-find-and-work-with-influencers-in-2026-737",
+            "description": "TL;DR     KOL (Key Opinion Leader) marketing = working with influential people in niche..."
         }
     ]
 }
