@@ -1,30 +1,30 @@
 {
-    "last_updated": "2026-04-04 02:00:11 UTC",
+    "last_updated": "2026-04-05 02:13:39 UTC",
     "articles": [
         {
-            "title": "Stop using ChatGPT for your marketing content. Here's why it's making your brand invisible.",
-            "url": "https://dev.to/marian-mapaan/stop-using-chatgpt-for-your-marketing-content-heres-why-its-making-your-brand-invisible-4eo4",
-            "description": "Hot take, but I'll back it up.  ChatGPT is a remarkable tool. I use it every day. For research, for..."
+            "title": "I Gave an AI $0 and Asked It to Get My First Customer",
+            "url": "https://dev.to/admin_chainmail_6cfeeb3e6/i-gave-an-ai-0-and-asked-it-to-get-my-first-customer-4eef",
+            "description": "I'm a non-technical founder who builds things with AI. A few months ago I shipped ChainMail, a..."
         },
         {
-            "title": "Building a Scalable Lead Generation System From Scratch",
-            "url": "https://dev.to/ojiiz/building-a-scalable-lead-generation-system-from-scratch-545h",
-            "description": "Most people treat lead generation as a short-term activity. They send a few emails, post some..."
+            "title": "WordPress Alternative Analysis: When Hybrid Visual Builders Outperform Pure Headless CMS Architectures",
+            "url": "https://dev.to/jasonbiondo/wordpress-alternative-analysis-when-hybrid-visual-builders-outperform-pure-headless-cms-aep",
+            "description": "Analysis of when hybrid visual builders outperform pure headless CMS architectures. Compare React component workflows, content preview latency, and to"
         },
         {
-            "title": "You Printed the QR Code. Then the URL Changed.",
-            "url": "https://dev.to/shaishav_patel_271fdcd61a/you-printed-the-qr-code-then-the-url-changed-3458",
-            "description": "You designed the flyer. You printed 500 copies. You stuck the QR code in the corner pointing to your..."
+            "title": "Open Source Marketing with Zero Budget: How We Got 14 Stars in 4 Weeks",
+            "url": "https://dev.to/battyterm/open-source-marketing-with-zero-budget-how-we-got-14-stars-in-4-weeks-45m2",
+            "description": "No ads, no influencers, no Product Hunt. Just articles, replies, and showing up every day. The exact playbook for a Rust CLI tool."
         },
         {
-            "title": "Developer Marketing: How to Reach Technical Audiences in 2026",
-            "url": "https://dev.to/iris1031/developer-marketing-how-to-reach-technical-audiences-in-2026-33k2",
-            "description": "Developer marketing means reaching technical audiences who trust peer recommendations over ads...."
+            "title": "How do you actually manage your content's SEO performance?",
+            "url": "https://dev.to/bolgercarol/how-do-you-actually-manage-your-contents-seo-performance-4jn0",
+            "description": "I write about tech and I've been frustrated with piecing together Google Search Console,..."
         },
         {
-            "title": "KOL Marketing Strategy: How to Find and Work with Influencers in 2026",
-            "url": "https://dev.to/iris1031/kol-marketing-strategy-how-to-find-and-work-with-influencers-in-2026-737",
-            "description": "TL;DR     KOL (Key Opinion Leader) marketing = working with influential people in niche..."
+            "title": "Top 5 Skills Every Affiliate Marketing Manager Needs in 2026",
+            "url": "https://dev.to/__818d5b9656b2/top-5-skills-every-affiliate-marketing-manager-needs-in-2026-3nmo",
+            "description": "Essential skills for affiliate marketing managers in 2026"
         }
     ]
 }
