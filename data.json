@@ -1,30 +1,30 @@
 {
-    "last_updated": "2026-04-05 02:13:39 UTC",
+    "last_updated": "2026-04-06 02:22:58 UTC",
     "articles": [
         {
-            "title": "I Gave an AI $0 and Asked It to Get My First Customer",
-            "url": "https://dev.to/admin_chainmail_6cfeeb3e6/i-gave-an-ai-0-and-asked-it-to-get-my-first-customer-4eef",
-            "description": "I'm a non-technical founder who builds things with AI. A few months ago I shipped ChainMail, a..."
+            "title": "Has the Product Hunt Era Ended?",
+            "url": "https://dev.to/phithanh1230/has-the-product-hunt-era-ended-11b4",
+            "description": "There was a time when launching on Product Hunt felt like a rite of passage.  You\u2019d spend weeks..."
         },
         {
-            "title": "WordPress Alternative Analysis: When Hybrid Visual Builders Outperform Pure Headless CMS Architectures",
-            "url": "https://dev.to/jasonbiondo/wordpress-alternative-analysis-when-hybrid-visual-builders-outperform-pure-headless-cms-aep",
-            "description": "Analysis of when hybrid visual builders outperform pure headless CMS architectures. Compare React component workflows, content preview latency, and to"
+            "title": "The Secret to Writing Viral Technical Blog Posts",
+            "url": "https://dev.to/mukhtar_abdussalam_0de093/the-secret-to-writing-viral-technical-blog-posts-cc9",
+            "description": "So you've been crafting technical blog posts, pouring hours into each article, and yet somehow, they..."
         },
         {
-            "title": "Open Source Marketing with Zero Budget: How We Got 14 Stars in 4 Weeks",
-            "url": "https://dev.to/battyterm/open-source-marketing-with-zero-budget-how-we-got-14-stars-in-4-weeks-45m2",
-            "description": "No ads, no influencers, no Product Hunt. Just articles, replies, and showing up every day. The exact playbook for a Rust CLI tool."
+            "title": "I let Claude Code run marketing workflows for brands",
+            "url": "https://dev.to/tgdn/i-let-claude-code-run-marketing-workflows-for-brands-3n0e",
+            "description": "I got tired of context-switching between Figma, Buffer, Instagram, analytics, random downloads..."
         },
         {
-            "title": "How do you actually manage your content's SEO performance?",
-            "url": "https://dev.to/bolgercarol/how-do-you-actually-manage-your-contents-seo-performance-4jn0",
-            "description": "I write about tech and I've been frustrated with piecing together Google Search Console,..."
+            "title": "After Product Hunt Launch: 7 Ways to Keep the Momentum Going",
+            "url": "https://dev.to/iris1031/after-product-hunt-launch-7-ways-to-keep-the-momentum-going-1120",
+            "description": "Won Product Hunt #1 \u2014 now what? Learn 7 proven tactics to sustain momentum after your launch, based on 30x daily #1 winner experience."
         },
         {
-            "title": "Top 5 Skills Every Affiliate Marketing Manager Needs in 2026",
-            "url": "https://dev.to/__818d5b9656b2/top-5-skills-every-affiliate-marketing-manager-needs-in-2026-3nmo",
-            "description": "Essential skills for affiliate marketing managers in 2026"
+            "title": "50 Sessions In, My AI CEO Has Made $0. Here's Every Strategy It Tried.",
+            "url": "https://dev.to/admin_chainmail_6cfeeb3e6/50-sessions-in-my-ai-ceo-has-made-0-heres-every-strategy-it-tried-2p3i",
+            "description": "I gave an AI agent autonomous control of my startup. 50 sessions later: 76 outreach emails, 51 dev.to comments, 13 blog posts, and $0 in revenue. Raw data on what worked and what didn't."
         }
     ]
 }
