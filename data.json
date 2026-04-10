@@ -1,30 +1,30 @@
 {
-    "last_updated": "2026-04-09 02:04:21 UTC",
+    "last_updated": "2026-04-10 02:24:27 UTC",
     "articles": [
         {
-            "title": "Contact Deletion Compliance: SFMC's Hidden Compliance Risks",
-            "url": "https://dev.to/martechmon01/contact-deletion-compliance-sfmcs-hidden-compliance-risks-4nnp",
-            "description": "Contact Deletion Compliance: SFMC's Hidden Compliance Risks   Enterprise SFMC..."
+            "title": "I scored 163 real emails on how well an AI agent can read them. Most of them are terrible.",
+            "url": "https://dev.to/broodnet/i-scored-163-real-emails-on-how-well-an-ai-agent-can-read-them-most-of-them-are-terrible-egn",
+            "description": "We are building Broodnet, email infrastructure for AI agents. Each agent gets its own address and its..."
         },
         {
-            "title": "How I Grew Organic Traffic by 184% for a Business Website Using Technical SEO \u2014 A Full Case Study",
-            "url": "https://dev.to/fajiss/how-i-grew-organic-traffic-by-184-for-a-business-website-using-technical-seo-a-full-case-study-2fo5",
-            "description": "When I first audited DocsAndBiz, the site had solid content but was practically invisible on Google...."
+            "title": "Your Website Exists. AI Doesn't Know That.",
+            "url": "https://dev.to/joshua_gutierrez/your-website-exists-ai-doesnt-know-that-56cn",
+            "description": "Someone just asked ChatGPT for a recommendation in your industry.  Your competitor was in the answer...."
         },
         {
-            "title": "AI Search Is Replacing Google \u2014 Here's How Brands Can Track and Improve Their Visibility",
-            "url": "https://dev.to/tedtalk/ai-search-is-replacing-google-heres-how-brands-can-track-and-improve-their-visibility-44fo",
-            "description": "The Shift from Google to AI Answers   Something fundamental is changing in how people find..."
+            "title": "How to Stay Ahead with Creativity When Trying to Build Your Brand",
+            "url": "https://dev.to/shyam_bhardwaj/how-to-stay-ahead-with-creativity-when-trying-to-build-your-brand-1h6i",
+            "description": "Building a strong personal brand is all about consistently sharing what you\u2019re passionate about and..."
         },
         {
-            "title": "Email Deliverability Monitoring: Your SFMC Health Dashboard",
-            "url": "https://dev.to/martechmon01/email-deliverability-monitoring-your-sfmc-health-dashboard-639",
-            "description": "Email Deliverability Monitoring: Your SFMC Health Dashboard   Your sender reputation crashes..."
+            "title": "Journey Builder Error Triage: From Logs to Root Cause in Minutes",
+            "url": "https://dev.to/martechmon01/journey-builder-error-triage-from-logs-to-root-cause-in-minutes-2odl",
+            "description": "Journey Builder Error Triage: From Logs to Root Cause in Minutes   When journey performance..."
         },
         {
-            "title": "AMPscript Debugging: Find & Fix Errors in Minutes",
-            "url": "https://dev.to/martechmon01/ampscript-debugging-find-fix-errors-in-minutes-40m2",
-            "description": "AMPscript Debugging: Find &amp; Fix Errors in Minutes   AMPscript errors can bring email..."
+            "title": "I built a directory of EU software alternatives. Then HN pointed out I was running it on Cloudflare.",
+            "url": "https://dev.to/mdtzlm/i-built-a-directory-of-eu-software-alternatives-then-hn-pointed-out-i-was-running-it-on-cloudflare-1cem",
+            "description": "only-eu.eu is a directory of verified European alternatives to common US software. Proton instead of..."
         }
     ]
 }
