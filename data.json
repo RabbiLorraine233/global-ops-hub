@@ -1,30 +1,30 @@
 {
-    "last_updated": "2026-04-11 02:04:07 UTC",
+    "last_updated": "2026-04-12 02:26:11 UTC",
     "articles": [
         {
-            "title": "I Started Testing Free SEO Tools on My Site, Early Results and What I\u2019m Expecting",
-            "url": "https://dev.to/yunsoft/i-started-testing-free-seo-tools-on-my-site-early-results-and-what-im-expecting-110a",
-            "description": "I\u2019ve been working on growing traffic for my software company website, and like most people, I kept..."
+            "title": "Why 60 seconds beats a perfect message: an automation latency study",
+            "url": "https://dev.to/achiya-automation/why-60-seconds-beats-a-perfect-message-an-automation-latency-study-3gde",
+            "description": "A real Facebook-to-WhatsApp lead automation that taught me to optimize trigger-to-touch latency before optimizing copy."
         },
         {
-            "title": "Your Website Exists. AI Doesn't Know That.",
-            "url": "https://dev.to/joshua_gutierrez/your-website-exists-ai-doesnt-know-that-56cn",
-            "description": "Someone just asked ChatGPT for a recommendation in your industry.  Your competitor was in the answer...."
+            "title": "GEO (Generative Engine Optimization): How to Get ChatGPT, Perplexity, and Gemini to Recommend Your Business",
+            "url": "https://dev.to/vila_segura_34b9bdb2c9cd6/geo-generative-engine-optimization-how-to-get-chatgpt-perplexity-and-gemini-to-recommend-your-4m98",
+            "description": "The era of the \"Ten Blue Links\" is rapidly coming to an end. We are witnessing the most significant..."
         },
         {
-            "title": "Email/SMS for Ecommerce: 6 Platforms Compared (Real Pricing, Real Cases)",
-            "url": "https://dev.to/trackstack/emailsms-for-ecommerce-6-platforms-compared-real-pricing-real-cases-4f87",
-            "description": "Choosing an email platform for an online store isn't about newsletters \u2014 it's about automated..."
+            "title": "I Looked at My SaaS Conversion Data and Realized I Was Selling the Wrong Thing",
+            "url": "https://dev.to/zsky/i-looked-at-my-saas-conversion-data-and-realized-i-was-selling-the-wrong-thing-47f1",
+            "description": "I run an indie AI tool. Stripe data showed 9 of my last 11 paying customers picked the cheapest tier \u2014 and that completely changed how I think about pricing."
         },
         {
-            "title": "Journey Builder Error Triage: From Logs to Root Cause in Minutes",
-            "url": "https://dev.to/martechmon01/journey-builder-error-triage-from-logs-to-root-cause-in-minutes-2odl",
-            "description": "Journey Builder Error Triage: From Logs to Root Cause in Minutes   When journey performance..."
+            "title": "Why Pinterest Is the Last Honest Search Engine in 2026",
+            "url": "https://dev.to/zsky/why-pinterest-is-the-last-honest-search-engine-in-2026-4kpf",
+            "description": "Pinterest's save mechanic is structurally resistant to manipulation. Here's why it's the most underrated growth channel for indie founders, and how to use it without keyword-stuffing."
         },
         {
-            "title": "I built a directory of EU software alternatives. Then HN pointed out I was running it on Cloudflare.",
-            "url": "https://dev.to/mdtzlm/i-built-a-directory-of-eu-software-alternatives-then-hn-pointed-out-i-was-running-it-on-cloudflare-1cem",
-            "description": "only-eu.eu is a directory of verified European alternatives to common US software. Proton instead of..."
+            "title": "Why Your Brand Doesn't Show Up in ChatGPT (And How to Fix It)",
+            "url": "https://dev.to/ariellecpx/why-your-brand-doesnt-show-up-in-chatgpt-and-how-to-fix-it-3b21",
+            "description": "You've spent months building your product. Your website ranks on Google. But when someone asks..."
         }
     ]
 }
