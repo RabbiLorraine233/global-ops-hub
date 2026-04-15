@@ -1,30 +1,30 @@
 {
-    "last_updated": "2026-04-14 02:25:20 UTC",
+    "last_updated": "2026-04-15 02:23:10 UTC",
     "articles": [
         {
-            "title": "Why 60 seconds beats a perfect message: an automation latency study",
-            "url": "https://dev.to/achiya-automation/why-60-seconds-beats-a-perfect-message-an-automation-latency-study-3gde",
-            "description": "A real Facebook-to-WhatsApp lead automation that taught me to optimize trigger-to-touch latency before optimizing copy."
+            "title": "Why Your Free Trial Isn't Converting to Paid",
+            "url": "https://dev.to/alichherawalla/why-your-free-trial-isnt-converting-to-paid-3k0k",
+            "description": "The average SaaS free trial converts at 2-5%. If you're below that - or wondering if you should be above it - here's how to diagnose and fix it."
         },
         {
-            "title": "GEO (Generative Engine Optimization): How to Get ChatGPT, Perplexity, and Gemini to Recommend Your Business",
-            "url": "https://dev.to/vila_segura_34b9bdb2c9cd6/geo-generative-engine-optimization-how-to-get-chatgpt-perplexity-and-gemini-to-recommend-your-4m98",
-            "description": "The era of the \"Ten Blue Links\" is rapidly coming to an end. We are witnessing the most significant..."
+            "title": "SFMC Journey Builder: API Rate Limits & Contact Throughput",
+            "url": "https://dev.to/martechmon01/sfmc-journey-builder-api-rate-limits-contact-throughput-3jj3",
+            "description": "SFMC Journey Builder: API Rate Limits &amp; Contact Throughput   Journey Builder's seamless..."
         },
         {
-            "title": "I Looked at My SaaS Conversion Data and Realized I Was Selling the Wrong Thing",
-            "url": "https://dev.to/zsky/i-looked-at-my-saas-conversion-data-and-realized-i-was-selling-the-wrong-thing-47f1",
-            "description": "I run an indie AI tool. Stripe data showed 9 of my last 11 paying customers picked the cheapest tier \u2014 and that completely changed how I think about pricing."
+            "title": "Shipping a Framer template + 3 booking widgets in a weekend \u2014 launch-day postmortem",
+            "url": "https://dev.to/srvmhptr/shipping-a-framer-template-3-booking-widgets-in-a-weekend-launch-day-postmortem-3594",
+            "description": "Most clinic websites cost $2k+ and convert like a Canva kit. I got tired of looking at them, so I..."
         },
         {
-            "title": "Why Pinterest Is the Last Honest Search Engine in 2026",
-            "url": "https://dev.to/zsky/why-pinterest-is-the-last-honest-search-engine-in-2026-4kpf",
-            "description": "Pinterest's save mechanic is structurally resistant to manipulation. Here's why it's the most underrated growth channel for indie founders, and how to use it without keyword-stuffing."
+            "title": "How to Write a SaaS Landing Page That Converts",
+            "url": "https://dev.to/alichherawalla/how-to-write-a-saas-landing-page-that-converts-18hk",
+            "description": "A SaaS landing page has one job: get the right visitor to take the next step. Here's the section-by-section formula that converts."
         },
         {
-            "title": "Why Your Brand Doesn't Show Up in ChatGPT (And How to Fix It)",
-            "url": "https://dev.to/ariellecpx/why-your-brand-doesnt-show-up-in-chatgpt-and-how-to-fix-it-3b21",
-            "description": "You've spent months building your product. Your website ranks on Google. But when someone asks..."
+            "title": "Why Your AI Keeps Forgetting You \u2014 And How Floatboat Finally Fixes It",
+            "url": "https://dev.to/tedtalk/why-your-ai-keeps-forgetting-you-and-how-floatboat-finally-fixes-it-59ob",
+            "description": "The Dirty Secret of Modern AI Tools   You open a new chat. You paste in your context. You..."
         }
     ]
 }
