@@ -1,30 +1,30 @@
 {
-    "last_updated": "2026-04-16 02:30:16 UTC",
+    "last_updated": "2026-04-17 02:26:15 UTC",
     "articles": [
         {
-            "title": "Why Your Free Trial Isn't Converting to Paid",
-            "url": "https://dev.to/alichherawalla/why-your-free-trial-isnt-converting-to-paid-3k0k",
-            "description": "The average SaaS free trial converts at 2-5%. If you're below that - or wondering if you should be above it - here's how to diagnose and fix it."
+            "title": "Journey Builder + Data Cloud: When Sync & Scale Collide",
+            "url": "https://dev.to/martechmon01/journey-builder-data-cloud-when-sync-scale-collide-ck",
+            "description": "Journey Builder + Data Cloud: When Sync &amp; Scale Collide   A VP of Marketing launches a..."
         },
         {
-            "title": "SFMC Journey Builder: API Rate Limits & Contact Throughput",
-            "url": "https://dev.to/martechmon01/sfmc-journey-builder-api-rate-limits-contact-throughput-3jj3",
-            "description": "SFMC Journey Builder: API Rate Limits &amp; Contact Throughput   Journey Builder's seamless..."
+            "title": "Por que o Brasil deveria estar pesquisando GEO antes do resto do mundo \u2014 e o que encontrei em 1.004 consultas a LLMs",
+            "url": "https://dev.to/alexandrebrt14sys/por-que-o-brasil-deveria-estar-pesquisando-geo-antes-do-resto-do-mundo-e-o-que-encontrei-em-1004-58dh",
+            "description": "Por que o Brasil deveria estar pesquisando GEO antes do resto do mundo   Na semana passada,..."
         },
         {
-            "title": "Shipping a Framer template + 3 booking widgets in a weekend \u2014 launch-day postmortem",
-            "url": "https://dev.to/srvmhptr/shipping-a-framer-template-3-booking-widgets-in-a-weekend-launch-day-postmortem-3594",
-            "description": "Most clinic websites cost $2k+ and convert like a Canva kit. I got tired of looking at them, so I..."
+            "title": "QR Code Analytics: The Complete Guide to Tracking Every Scan",
+            "url": "https://dev.to/devrabb/qr-code-analytics-the-complete-guide-to-tracking-every-scan-43h1",
+            "description": "QR Code Analytics: The Complete Guide to Tracking Every Scan  Key Takeaways QR code analytics is not..."
         },
         {
-            "title": "How to Write a SaaS Landing Page That Converts",
-            "url": "https://dev.to/alichherawalla/how-to-write-a-saas-landing-page-that-converts-18hk",
-            "description": "A SaaS landing page has one job: get the right visitor to take the next step. Here's the section-by-section formula that converts."
+            "title": "What a 91/100 email design score actually catches",
+            "url": "https://dev.to/palo_alto_ai/what-a-91100-email-design-score-actually-catches-4o03",
+            "description": "There's an email in kopi's public gallery \u2014 a product launch for a skincare brand \u2014 that scored..."
         },
         {
-            "title": "Why Your AI Keeps Forgetting You \u2014 And How Floatboat Finally Fixes It",
-            "url": "https://dev.to/tedtalk/why-your-ai-keeps-forgetting-you-and-how-floatboat-finally-fixes-it-59ob",
-            "description": "The Dirty Secret of Modern AI Tools   You open a new chat. You paste in your context. You..."
+            "title": "Brand Relationship Management at Scale: Our 4-Touch Outreach System for 200+ Brands",
+            "url": "https://dev.to/danie_rozin/brand-relationship-management-at-scale-our-4-touch-outreach-system-for-200-brands-4m2g",
+            "description": "Running a comparison site means managing hundreds of brand relationships simultaneously \u2014 some paying..."
         }
     ]
 }
