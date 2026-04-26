@@ -1,30 +1,30 @@
 {
-    "last_updated": "2026-04-25 02:11:10 UTC",
+    "last_updated": "2026-04-26 02:34:07 UTC",
     "articles": [
         {
-            "title": "What is SEO proxies?",
-            "url": "https://dev.to/wdman/what-is-seo-proxies-497j",
-            "description": "Many SEO practitioners face this dilemma: local rankings seem good, but overall results are..."
+            "title": "Ship Log: One-Click Ad Copy Generator on Landing Page",
+            "url": "https://dev.to/aikitpros/ship-log-one-click-ad-copy-generator-on-landing-page-4faj",
+            "description": "Quick ship update for the Ace Data Cloud Creator Competition.           What shipped   Added a..."
         },
         {
-            "title": "The 40 MiCA rules every crypto marketer should know",
-            "url": "https://dev.to/jukkablomberg/the-40-mica-rules-every-crypto-marketer-should-know-53ol",
-            "description": "If you ship crypto marketing into the EU, MiCA isn't a compliance team problem \u2014 it's a marketing..."
+            "title": "Implementing Zero Downtime Component Updates in Production Page Builders: A Technical Deep Dive for Developer Teams",
+            "url": "https://dev.to/jasonbiondo/implementing-zero-downtime-component-updates-in-production-page-builders-a-technical-deep-dive-for-1eij",
+            "description": "Learn how to implement zero downtime component updates in production page builders using semantic versioning, schema migrations, and canary releases. "
         },
         {
-            "title": "AI A/B Testing Tools in 2026: What They Add",
-            "url": "https://dev.to/superdots/ai-ab-testing-tools-in-2026-what-they-add-2mda",
-            "description": "From multi-armed bandits to hypothesis generation: what AI genuinely changes about A/B testing, which tools do it best, and when traditional split testing still wins."
+            "title": "Why fixing 'Direct/None' alone won't reduce GA4's 'unknown traffic'",
+            "url": "https://dev.to/toshihiro_shishido/why-fixing-directnone-alone-wont-reduce-ga4s-unknown-traffic-43cd",
+            "description": "If you've enforced UTM tagging to reduce GA4 Direct / (none) but the total 'unknown traffic' barely moved, you're not alone. GA4 reports actually contain four distinct categories \u2014 (not set), Direct / (none), Unassigned, and (other). Each is generated at a different stage and needs a different fix."
         },
         {
-            "title": "I took forg.to from DR 0 to DR 25 in 5 weeks. Here's the honest breakdown.",
-            "url": "https://dev.to/kislay/i-took-forgto-from-dr-0-to-dr-25-in-5-weeks-heres-the-honest-breakdown-3c2o",
-            "description": "Six weeks ago forg.to had a domain rating of zero.  Not \"low.\" Not \"needs improvement.\" Ahrefs showed..."
+            "title": "I used AI to turn a boring product shot into an ad-ready cold brew campaign",
+            "url": "https://dev.to/andrew202510/i-used-ai-to-turn-a-boring-product-shot-into-an-ad-ready-cold-brew-campaign-239h",
+            "description": "Most AI image demos show the same thing: a fantasy landscape, a glowing robot, or a portrait that..."
         },
         {
-            "title": "How Shopify Apps Help Brands Create a More Personal Shopping Journey",
-            "url": "https://dev.to/shopxcommerce/how-shopify-apps-help-brands-create-a-more-personal-shopping-journey-50da",
-            "description": "Most online stores are designed to serve many customers at the same time. That works well in the..."
+            "title": "Best Print on Demand Shopify Apps: A Practical Guide",
+            "url": "https://dev.to/juan_diegoisazaa_5362a/best-print-on-demand-shopify-apps-a-practical-guide-2a4a",
+            "description": "Learn how to evaluate print on demand Shopify apps: fulfillment, variants, integrations with Klaviyo/Yotpo/Recharge, plus a webhook-to-Klaviyo example."
         }
     ]
 }
