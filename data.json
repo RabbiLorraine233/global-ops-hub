@@ -1,30 +1,30 @@
 {
-    "last_updated": "2026-04-26 02:34:07 UTC",
+    "last_updated": "2026-04-27 02:35:53 UTC",
     "articles": [
         {
-            "title": "Ship Log: One-Click Ad Copy Generator on Landing Page",
-            "url": "https://dev.to/aikitpros/ship-log-one-click-ad-copy-generator-on-landing-page-4faj",
-            "description": "Quick ship update for the Ace Data Cloud Creator Competition.           What shipped   Added a..."
+            "title": "i made a free list of 100 places where you can promote your app",
+            "url": "https://dev.to/nocodeboring/i-made-a-free-list-of-100-places-where-you-can-promote-your-app-4k96",
+            "description": "I recently shared this on another reddit and it got 500 upvotes so I thought I\u2019d share it here as..."
         },
         {
-            "title": "Implementing Zero Downtime Component Updates in Production Page Builders: A Technical Deep Dive for Developer Teams",
-            "url": "https://dev.to/jasonbiondo/implementing-zero-downtime-component-updates-in-production-page-builders-a-technical-deep-dive-for-1eij",
-            "description": "Learn how to implement zero downtime component updates in production page builders using semantic versioning, schema migrations, and canary releases. "
+            "title": "The Competitive Edge: Why AI is Non-Negotiable for Marketers",
+            "url": "https://dev.to/abhishek_awasthi_24934102/the-competitive-edge-why-ai-is-non-negotiable-for-marketers-1pgi",
+            "description": "In today\u2019s crowded digital landscape, AI is no longer optional \u2014 it\u2019s a necessity. Brands that adopt..."
         },
         {
-            "title": "Why fixing 'Direct/None' alone won't reduce GA4's 'unknown traffic'",
-            "url": "https://dev.to/toshihiro_shishido/why-fixing-directnone-alone-wont-reduce-ga4s-unknown-traffic-43cd",
-            "description": "If you've enforced UTM tagging to reduce GA4 Direct / (none) but the total 'unknown traffic' barely moved, you're not alone. GA4 reports actually contain four distinct categories \u2014 (not set), Direct / (none), Unassigned, and (other). Each is generated at a different stage and needs a different fix."
+            "title": "Formspree vs Formgrid: What Happens to Your Leads After They Hit Your Inbox",
+            "url": "https://dev.to/allenarduino/formspree-vs-formgrid-what-happens-to-your-leads-after-they-hit-your-inbox-1j69",
+            "description": "Most comparisons between Formspree and Formgrid focus on price and features.  This one focuses on..."
         },
         {
-            "title": "I used AI to turn a boring product shot into an ad-ready cold brew campaign",
-            "url": "https://dev.to/andrew202510/i-used-ai-to-turn-a-boring-product-shot-into-an-ad-ready-cold-brew-campaign-239h",
-            "description": "Most AI image demos show the same thing: a fantasy landscape, a glowing robot, or a portrait that..."
+            "title": "Why Formspree Is Not Enough for Small Businesses Managing Leads",
+            "url": "https://dev.to/allenarduino/why-formspree-is-not-enough-for-small-businesses-managing-leads-216h",
+            "description": "Formspree is a good product.  It receives your form submissions. It sends you an email notification...."
         },
         {
-            "title": "Best Print on Demand Shopify Apps: A Practical Guide",
-            "url": "https://dev.to/juan_diegoisazaa_5362a/best-print-on-demand-shopify-apps-a-practical-guide-2a4a",
-            "description": "Learn how to evaluate print on demand Shopify apps: fulfillment, variants, integrations with Klaviyo/Yotpo/Recharge, plus a webhook-to-Klaviyo example."
+            "title": "What a 91/100 email critique actually looks like",
+            "url": "https://dev.to/palo_alto_ai/what-a-91100-email-critique-actually-looks-like-172g",
+            "description": "Most email tools tell you nothing until your open rate comes back low. kopi runs every generated..."
         }
     ]
 }
