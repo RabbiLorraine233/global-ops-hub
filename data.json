@@ -1,30 +1,30 @@
 {
-    "last_updated": "2026-04-28 02:43:42 UTC",
+    "last_updated": "2026-04-29 02:43:22 UTC",
     "articles": [
         {
-            "title": "i made a free list of 100 places where you can promote your app",
-            "url": "https://dev.to/nocodeboring/i-made-a-free-list-of-100-places-where-you-can-promote-your-app-4k96",
-            "description": "I recently shared this on another reddit and it got 500 upvotes so I thought I\u2019d share it here as..."
+            "title": "GitHub Star Growth: 9 Levers That Compound in 2026",
+            "url": "https://dev.to/iris1031/github-star-growth-9-levers-that-compound-in-2026-15d",
+            "description": "GitHub Star Growth: 9 Levers That Compound in 2026   GitHub star growth is rarely about..."
         },
         {
-            "title": "The Competitive Edge: Why AI is Non-Negotiable for Marketers",
-            "url": "https://dev.to/abhishek_awasthi_24934102/the-competitive-edge-why-ai-is-non-negotiable-for-marketers-1pgi",
-            "description": "In today\u2019s crowded digital landscape, AI is no longer optional \u2014 it\u2019s a necessity. Brands that adopt..."
+            "title": "What I shipped in 24 hours after my Product Hunt launch failed",
+            "url": "https://dev.to/data_nerd/what-i-shipped-in-24-hours-after-my-product-hunt-launch-failed-abf",
+            "description": "Product Hunt didn't feature my launch. Instead of refreshing the dashboard, I shipped 6 features in 24 hours. Here's what each one cost and what I learned."
         },
         {
-            "title": "Formspree vs Formgrid: What Happens to Your Leads After They Hit Your Inbox",
-            "url": "https://dev.to/allenarduino/formspree-vs-formgrid-what-happens-to-your-leads-after-they-hit-your-inbox-1j69",
-            "description": "Most comparisons between Formspree and Formgrid focus on price and features.  This one focuses on..."
+            "title": "One app. Unlimited outreach.",
+            "url": "https://dev.to/jashank_06/one-app-unlimited-outreach-4g6j",
+            "description": "Email Sender Pro now features Google Sheets contact sync...  Download"
         },
         {
-            "title": "Why Formspree Is Not Enough for Small Businesses Managing Leads",
-            "url": "https://dev.to/allenarduino/why-formspree-is-not-enough-for-small-businesses-managing-leads-216h",
-            "description": "Formspree is a good product.  It receives your form submissions. It sends you an email notification...."
+            "title": "I Wrote 50+ GPT Image 2 Prompts for Ad Creative \u2014 Here's What Actually Works",
+            "url": "https://dev.to/william_jin_d9f49c3ea519e/i-wrote-50-gpt-image-2-prompts-for-ad-creative-heres-what-actually-works-15hp",
+            "description": "When OpenAI shipped GPT Image 2 last week, my X feed turned into the same five demos: astronauts on..."
         },
         {
-            "title": "What a 91/100 email critique actually looks like",
-            "url": "https://dev.to/palo_alto_ai/what-a-91100-email-critique-actually-looks-like-172g",
-            "description": "Most email tools tell you nothing until your open rate comes back low. kopi runs every generated..."
+            "title": "How to Track Where Your Form Submissions Are Coming From",
+            "url": "https://dev.to/allenarduino/how-to-track-where-your-form-submissions-are-coming-from-3ila",
+            "description": "You are getting form submissions.  People are filling in your contact form, your registration form,..."
         }
     ]
 }
