@@ -1,30 +1,30 @@
 {
-    "last_updated": "2026-04-29 02:43:22 UTC",
+    "last_updated": "2026-04-30 02:44:27 UTC",
     "articles": [
         {
-            "title": "GitHub Star Growth: 9 Levers That Compound in 2026",
-            "url": "https://dev.to/iris1031/github-star-growth-9-levers-that-compound-in-2026-15d",
-            "description": "GitHub Star Growth: 9 Levers That Compound in 2026   GitHub star growth is rarely about..."
+            "title": "I Added Cross-Promotion to 18 Chrome Extensions \u2014 Here's What Happened",
+            "url": "https://dev.to/_350df62777eb55e1/i-added-cross-promotion-to-18-chrome-extensions-heres-what-happened-57ac",
+            "description": "Why Cross-Promotion?   When you have 18 Chrome extensions, each one becomes a potential..."
         },
         {
-            "title": "What I shipped in 24 hours after my Product Hunt launch failed",
-            "url": "https://dev.to/data_nerd/what-i-shipped-in-24-hours-after-my-product-hunt-launch-failed-abf",
-            "description": "Product Hunt didn't feature my launch. Instead of refreshing the dashboard, I shipped 6 features in 24 hours. Here's what each one cost and what I learned."
+            "title": "Coin-per-view: the Bilibili metric that beats subscriber count for creator vetting",
+            "url": "https://dev.to/sami_8858131362756585e4f4/coin-per-view-the-bilibili-metric-that-beats-subscriber-count-for-creator-vetting-477j",
+            "description": "If you've ever sponsored a YouTube creator and been disappointed by the ROI, you've already lived..."
         },
         {
-            "title": "One app. Unlimited outreach.",
-            "url": "https://dev.to/jashank_06/one-app-unlimited-outreach-4g6j",
-            "description": "Email Sender Pro now features Google Sheets contact sync...  Download"
+            "title": "I sent 200 cold emails for my SaaS. Here's what actually got replies.",
+            "url": "https://dev.to/swiftcopy/i-sent-200-cold-emails-for-my-saas-heres-what-actually-got-replies-n0e",
+            "description": "I sent 200 cold emails for my SaaS. Here's what actually got replies.   I spent three weeks..."
         },
         {
-            "title": "I Wrote 50+ GPT Image 2 Prompts for Ad Creative \u2014 Here's What Actually Works",
-            "url": "https://dev.to/william_jin_d9f49c3ea519e/i-wrote-50-gpt-image-2-prompts-for-ad-creative-heres-what-actually-works-15hp",
-            "description": "When OpenAI shipped GPT Image 2 last week, my X feed turned into the same five demos: astronauts on..."
+            "title": "Your landing page isn't converting because of copy, not design",
+            "url": "https://dev.to/swiftcopy/your-landing-page-isnt-converting-because-of-copy-not-design-16ka",
+            "description": "Your landing page isn't converting because of copy, not design   I've reviewed hundreds of..."
         },
         {
-            "title": "How to Track Where Your Form Submissions Are Coming From",
-            "url": "https://dev.to/allenarduino/how-to-track-where-your-form-submissions-are-coming-from-3ila",
-            "description": "You are getting form submissions.  People are filling in your contact form, your registration form,..."
+            "title": "BYOD for AI ad-ops \u2014 give the agent a CSV, not your refresh token",
+            "url": "https://dev.to/yoshinaga/byod-for-ai-ad-ops-give-the-agent-a-csv-not-your-refresh-token-1fnn",
+            "description": "TL;DR:   mureo v0.7.1 (released 2026-04-29) lets an AI agent analyze your real Google Ads and Meta..."
         }
     ]
 }
