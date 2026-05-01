@@ -1,30 +1,30 @@
 {
-    "last_updated": "2026-04-30 02:44:27 UTC",
+    "last_updated": "2026-05-01 02:51:13 UTC",
     "articles": [
         {
-            "title": "I Added Cross-Promotion to 18 Chrome Extensions \u2014 Here's What Happened",
-            "url": "https://dev.to/_350df62777eb55e1/i-added-cross-promotion-to-18-chrome-extensions-heres-what-happened-57ac",
-            "description": "Why Cross-Promotion?   When you have 18 Chrome extensions, each one becomes a potential..."
+            "title": "Inside ShopPilot\u2019s AI Content Engine",
+            "url": "https://dev.to/sl_elaira/inside-shoppilots-ai-content-engine-n85",
+            "description": "Every time we showed a Shopify merchant a generic AI-generated post, they spotted it instantly. Not..."
         },
         {
-            "title": "Coin-per-view: the Bilibili metric that beats subscriber count for creator vetting",
-            "url": "https://dev.to/sami_8858131362756585e4f4/coin-per-view-the-bilibili-metric-that-beats-subscriber-count-for-creator-vetting-477j",
-            "description": "If you've ever sponsored a YouTube creator and been disappointed by the ROI, you've already lived..."
+            "title": "Stop Ranking Ad Channels by Sessions: Use RPS (Revenue Per Session) Instead",
+            "url": "https://dev.to/toshihiro_shishido/stop-ranking-ad-channels-by-sessions-use-rps-revenue-per-session-instead-4inc",
+            "description": "Google Ads vs. Meta Ads \u2014 same budget, which is more efficient? Comparing by sessions gives you the wrong answer. RPS (Revenue Per Session) is the only metric that compares revenue efficiency across ad channels. Formula, GA4 implementation, AOV/CVR relationship, and real channel-comparison numbers."
         },
         {
-            "title": "I sent 200 cold emails for my SaaS. Here's what actually got replies.",
-            "url": "https://dev.to/swiftcopy/i-sent-200-cold-emails-for-my-saas-heres-what-actually-got-replies-n0e",
-            "description": "I sent 200 cold emails for my SaaS. Here's what actually got replies.   I spent three weeks..."
+            "title": "I Built \"Personal Software\" That Watches TikTok Videos To Automate Research",
+            "url": "https://dev.to/jhalder/i-built-personal-software-that-watches-tiktok-videos-to-automate-research-1o06",
+            "description": "I wanted to run an analysis on influencer marketing posts on TikTok.  It's easy to get a spreadsheet..."
         },
         {
-            "title": "Your landing page isn't converting because of copy, not design",
-            "url": "https://dev.to/swiftcopy/your-landing-page-isnt-converting-because-of-copy-not-design-16ka",
-            "description": "Your landing page isn't converting because of copy, not design   I've reviewed hundreds of..."
+            "title": "A free website where you learn languages by exploring 3D environments",
+            "url": "https://dev.to/the_weekend_gamedev/a-free-website-where-you-learn-languages-by-exploring-3d-environments-2nk6",
+            "description": "I've been working on a project called Lexi Explorer.  The idea came from frustration with how most..."
         },
         {
-            "title": "BYOD for AI ad-ops \u2014 give the agent a CSV, not your refresh token",
-            "url": "https://dev.to/yoshinaga/byod-for-ai-ad-ops-give-the-agent-a-csv-not-your-refresh-token-1fnn",
-            "description": "TL;DR:   mureo v0.7.1 (released 2026-04-29) lets an AI agent analyze your real Google Ads and Meta..."
+            "title": "Google Ads can spend up to 2x your daily budget. I built a Chrome extension that catches it before it happens.",
+            "url": "https://dev.to/sami_8858131362756585e4f4/google-ads-can-spend-up-to-2x-your-daily-budget-i-built-a-chrome-extension-that-catches-it-before-j0",
+            "description": "If you've ever opened Google Ads and noticed your campaign spent way more than the daily budget you..."
         }
     ]
 }
