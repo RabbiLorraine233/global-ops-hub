@@ -1,30 +1,30 @@
 {
-    "last_updated": "2026-05-01 02:51:13 UTC",
+    "last_updated": "2026-05-02 02:32:47 UTC",
     "articles": [
         {
-            "title": "Inside ShopPilot\u2019s AI Content Engine",
-            "url": "https://dev.to/sl_elaira/inside-shoppilots-ai-content-engine-n85",
-            "description": "Every time we showed a Shopify merchant a generic AI-generated post, they spotted it instantly. Not..."
+            "title": "ROAS Isn't Profit: Why Japanese SMB EC Needs Gross-Margin-Aware ROAS",
+            "url": "https://dev.to/toshihiro_shishido/roas-isnt-profit-why-japanese-smb-ec-needs-gross-margin-aware-roas-398j",
+            "description": "ROAS at 300% can still be a loss once gross margin enters the picture. The real bar for EC operators is breakeven ROAS = 1 / gross margin x 100%, paired with RPS for ad budget allocation."
         },
         {
-            "title": "Stop Ranking Ad Channels by Sessions: Use RPS (Revenue Per Session) Instead",
-            "url": "https://dev.to/toshihiro_shishido/stop-ranking-ad-channels-by-sessions-use-rps-revenue-per-session-instead-4inc",
-            "description": "Google Ads vs. Meta Ads \u2014 same budget, which is more efficient? Comparing by sessions gives you the wrong answer. RPS (Revenue Per Session) is the only metric that compares revenue efficiency across ad channels. Formula, GA4 implementation, AOV/CVR relationship, and real channel-comparison numbers."
+            "title": "Chrome Web Store SEO: How I Optimized 17 Extensions for Search",
+            "url": "https://dev.to/_350df62777eb55e1/chrome-web-store-seo-how-i-optimized-17-extensions-for-search-2maj",
+            "description": "Chrome Web Store Has a Search Engine \u2014 and Nobody Optimizes for It   Most Chrome extension..."
         },
         {
-            "title": "I Built \"Personal Software\" That Watches TikTok Videos To Automate Research",
-            "url": "https://dev.to/jhalder/i-built-personal-software-that-watches-tiktok-videos-to-automate-research-1o06",
-            "description": "I wanted to run an analysis on influencer marketing posts on TikTok.  It's easy to get a spreadsheet..."
+            "title": "Your SaaS cancellation page is where retention goes to die",
+            "url": "https://dev.to/zee_builds/your-saas-cancellation-page-is-where-retention-goes-to-die-3k95",
+            "description": "Most SaaS teams treat churn like a dashboard problem.  They connect Stripe, stare at monthly churn,..."
         },
         {
-            "title": "A free website where you learn languages by exploring 3D environments",
-            "url": "https://dev.to/the_weekend_gamedev/a-free-website-where-you-learn-languages-by-exploring-3d-environments-2nk6",
-            "description": "I've been working on a project called Lexi Explorer.  The idea came from frustration with how most..."
+            "title": "Real Time Funnel Correction: Using Live Analytics to Salvage Underperforming Campaigns and Stop Revenue Leakage",
+            "url": "https://dev.to/jasonbiondo/real-time-funnel-correction-using-live-analytics-to-salvage-underperforming-campaigns-and-stop-gap",
+            "description": "Stop campaign budget bleeding with real time funnel correction. Learn to detect conversion drops within minutes and deploy fixes instantly using live "
         },
         {
-            "title": "Google Ads can spend up to 2x your daily budget. I built a Chrome extension that catches it before it happens.",
-            "url": "https://dev.to/sami_8858131362756585e4f4/google-ads-can-spend-up-to-2x-your-daily-budget-i-built-a-chrome-extension-that-catches-it-before-j0",
-            "description": "If you've ever opened Google Ads and noticed your campaign spent way more than the daily budget you..."
+            "title": "I Compared Facebook, Google, LinkedIn, and Reddit Ads to See Where Messaging Changes First",
+            "url": "https://dev.to/olams/i-compared-facebook-google-linkedin-and-reddit-ads-to-see-where-messaging-changes-first-4na",
+            "description": "I used to look at ad libraries the lazy way.  Open one platform. Skim a few ads. Say something vague..."
         }
     ]
 }
