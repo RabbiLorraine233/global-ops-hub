@@ -1,30 +1,30 @@
 {
-    "last_updated": "2026-05-03 02:43:06 UTC",
+    "last_updated": "2026-05-04 02:41:06 UTC",
     "articles": [
         {
-            "title": "ROAS Isn't Profit: Why Japanese SMB EC Needs Gross-Margin-Aware ROAS",
-            "url": "https://dev.to/toshihiro_shishido/roas-isnt-profit-why-japanese-smb-ec-needs-gross-margin-aware-roas-398j",
-            "description": "ROAS at 300% can still be a loss once gross margin enters the picture. The real bar for EC operators is breakeven ROAS = 1 / gross margin x 100%, paired with RPS for ad budget allocation."
+            "title": "Your audience is waiting.",
+            "url": "https://dev.to/jashank_06/your-audience-is-waiting-4726",
+            "description": "Email Sender Pro now features Real-time open &amp; click tracking...  Download"
         },
         {
-            "title": "Chrome Web Store SEO: How I Optimized 17 Extensions for Search",
-            "url": "https://dev.to/_350df62777eb55e1/chrome-web-store-seo-how-i-optimized-17-extensions-for-search-2maj",
-            "description": "Chrome Web Store Has a Search Engine \u2014 and Nobody Optimizes for It   Most Chrome extension..."
+            "title": "How Localized Chat Pages Helped Increase Organic Traffic to 160K Clicks",
+            "url": "https://dev.to/gowrishankar_rangasamy_f9/how-localized-chat-pages-helped-increase-organic-traffic-to-160k-clicks-37cg",
+            "description": "When I first started building my real-time chat platform, most of the focus was on the core..."
         },
         {
-            "title": "Your SaaS cancellation page is where retention goes to die",
-            "url": "https://dev.to/zee_builds/your-saas-cancellation-page-is-where-retention-goes-to-die-3k95",
-            "description": "Most SaaS teams treat churn like a dashboard problem.  They connect Stripe, stare at monthly churn,..."
+            "title": "Industry RPS Benchmarks 2026 \u2014 Where Your DTC Brand Stands Across Apparel, Food, Beauty, Electronics, and SaaS",
+            "url": "https://dev.to/toshihiro_shishido/industry-rps-benchmarks-2026-where-your-dtc-brand-stands-across-apparel-food-beauty-5fic",
+            "description": "You know the RPS formula. But is your number high or low compared to your industry? An estimation-model breakdown of 5-industry RPS medians and top-25%, plus a 4-step self-diagnosis flow and the RPS x ROAS quadrant for ad-budget decisions."
         },
         {
-            "title": "Real Time Funnel Correction: Using Live Analytics to Salvage Underperforming Campaigns and Stop Revenue Leakage",
-            "url": "https://dev.to/jasonbiondo/real-time-funnel-correction-using-live-analytics-to-salvage-underperforming-campaigns-and-stop-gap",
-            "description": "Stop campaign budget bleeding with real time funnel correction. Learn to detect conversion drops within minutes and deploy fixes instantly using live "
+            "title": "Sixty days to MiCA. Your marketing function is the riskiest line item.",
+            "url": "https://dev.to/jukkablomberg/sixty-days-to-mica-your-marketing-function-is-the-riskiest-line-item-25c",
+            "description": "On May 1 there are exactly sixty days left in the MiCA transitional period. On April 17 ESMA removed..."
         },
         {
-            "title": "I Compared Facebook, Google, LinkedIn, and Reddit Ads to See Where Messaging Changes First",
-            "url": "https://dev.to/olams/i-compared-facebook-google-linkedin-and-reddit-ads-to-see-where-messaging-changes-first-4na",
-            "description": "I used to look at ad libraries the lazy way.  Open one platform. Skim a few ads. Say something vague..."
+            "title": "Kako va\u0161 oglas na rsale.net dolazi do Google-a: SEO jednostavnim re\u010dima",
+            "url": "https://dev.to/rsale/kako-vas-oglas-na-rsalenet-dolazi-do-google-a-seo-jednostavnim-recima-4a8c",
+            "description": "Postavili ste oglas. \u0160ta dalje? U idealnom slu\u010daju prona\u0107i \u0107e ga ne samo posetioci sajta, ve\u0107 i ljudi..."
         }
     ]
 }
