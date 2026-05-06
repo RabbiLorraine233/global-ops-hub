@@ -1,30 +1,30 @@
 {
-    "last_updated": "2026-05-05 02:34:29 UTC",
+    "last_updated": "2026-05-06 02:39:06 UTC",
     "articles": [
         {
+            "title": "2026 EC Measurement \u2014 Why SMB ECs Should Skip MMM and Focus on 2 Things",
+            "url": "https://dev.to/toshihiro_shishido/2026-ec-measurement-why-smb-ecs-should-skip-mmm-and-focus-on-2-things-1lhp",
+            "description": "The 2026 EC measurement landscape has 5 trends, but SMB ECs do not need to chase all of them. A revenue-range positioning model maps Cookieless, AI, Profit-centric KPIs, Incrementality, and MMM to your scale. The honest stance from a 5-KPI focus product."
+        },
+        {
+            "title": "Monetizing Chrome Extensions with Freemium \u2014 Real Numbers from 7 Paid Extensions",
+            "url": "https://dev.to/_350df62777eb55e1/monetizing-chrome-extensions-with-freemium-real-numbers-from-7-paid-extensions-5cj",
+            "description": "Can You Actually Make Money with Chrome Extensions?   Yes. But the numbers are smaller than..."
+        },
+        {
+            "title": "Your FAQ is useless to AI. Here's how to fix it.",
+            "url": "https://dev.to/gregory_pellitteri_631584/your-faq-is-useless-to-ai-heres-how-to-fix-it-37e9",
+            "description": "Your FAQ is useless to AI. Here's how to fix it.   Your FAQ page probably won't show up in..."
+        },
+        {
             "title": "Your audience is waiting.",
-            "url": "https://dev.to/jashank_06/your-audience-is-waiting-4726",
-            "description": "Email Sender Pro now features Real-time open &amp; click tracking...  Download"
+            "url": "https://dev.to/jashank_06/your-audience-is-waiting-4k35",
+            "description": "Email Sender Pro now features AI-generated email copy...  Download"
         },
         {
-            "title": "How Localized Chat Pages Helped Increase Organic Traffic to 160K Clicks",
-            "url": "https://dev.to/gowrishankar_rangasamy_f9/how-localized-chat-pages-helped-increase-organic-traffic-to-160k-clicks-37cg",
-            "description": "When I first started building my real-time chat platform, most of the focus was on the core..."
-        },
-        {
-            "title": "Industry RPS Benchmarks 2026 \u2014 Where Your DTC Brand Stands Across Apparel, Food, Beauty, Electronics, and SaaS",
-            "url": "https://dev.to/toshihiro_shishido/industry-rps-benchmarks-2026-where-your-dtc-brand-stands-across-apparel-food-beauty-5fic",
-            "description": "You know the RPS formula. But is your number high or low compared to your industry? An estimation-model breakdown of 5-industry RPS medians and top-25%, plus a 4-step self-diagnosis flow and the RPS x ROAS quadrant for ad-budget decisions."
-        },
-        {
-            "title": "Sixty days to MiCA. Your marketing function is the riskiest line item.",
-            "url": "https://dev.to/jukkablomberg/sixty-days-to-mica-your-marketing-function-is-the-riskiest-line-item-25c",
-            "description": "On May 1 there are exactly sixty days left in the MiCA transitional period. On April 17 ESMA removed..."
-        },
-        {
-            "title": "Kako va\u0161 oglas na rsale.net dolazi do Google-a: SEO jednostavnim re\u010dima",
-            "url": "https://dev.to/rsale/kako-vas-oglas-na-rsalenet-dolazi-do-google-a-seo-jednostavnim-recima-4a8c",
-            "description": "Postavili ste oglas. \u0160ta dalje? U idealnom slu\u010daju prona\u0107i \u0107e ga ne samo posetioci sajta, ve\u0107 i ljudi..."
+            "title": "Russia\u2019s Human-Like Bots Are Too Advanced - And Harder to Detect Than You Think",
+            "url": "https://dev.to/grigoriy_melnikov_797b700/russias-human-like-bots-are-too-advanced-and-harder-to-detect-than-you-think-1l1i",
+            "description": "I\u2019ve spent 10 years building bots that bypass anti-fraud systems. Now I fight them by building..."
         }
     ]
 }
