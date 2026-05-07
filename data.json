@@ -1,30 +1,30 @@
 {
-    "last_updated": "2026-05-06 02:39:06 UTC",
+    "last_updated": "2026-05-07 02:41:13 UTC",
     "articles": [
         {
-            "title": "2026 EC Measurement \u2014 Why SMB ECs Should Skip MMM and Focus on 2 Things",
-            "url": "https://dev.to/toshihiro_shishido/2026-ec-measurement-why-smb-ecs-should-skip-mmm-and-focus-on-2-things-1lhp",
-            "description": "The 2026 EC measurement landscape has 5 trends, but SMB ECs do not need to chase all of them. A revenue-range positioning model maps Cookieless, AI, Profit-centric KPIs, Incrementality, and MMM to your scale. The honest stance from a 5-KPI focus product."
+            "title": "how to write launch copy for a side project (without losing 3 days of your life)",
+            "url": "https://dev.to/r1ck404/how-to-write-launch-copy-for-a-side-project-without-losing-3-days-of-your-life-53ke",
+            "description": "i ship a lot of side projects. or i did. for a while i was on this loop where id spend a few weekends..."
         },
         {
-            "title": "Monetizing Chrome Extensions with Freemium \u2014 Real Numbers from 7 Paid Extensions",
-            "url": "https://dev.to/_350df62777eb55e1/monetizing-chrome-extensions-with-freemium-real-numbers-from-7-paid-extensions-5cj",
-            "description": "Can You Actually Make Money with Chrome Extensions?   Yes. But the numbers are smaller than..."
+            "title": "I built reach for 14 days. Then realized I had nowhere for it to land.",
+            "url": "https://dev.to/edhiblemeer/i-built-reach-for-14-days-then-realized-i-had-nowhere-for-it-to-land-3g2b",
+            "description": "After 14 days of Build-in-Public, the gut-punch question \u2014 \"But how do I convert this into deals?\" The funnel had no bottom. Here's how I shipped a /work consulting page in one day."
         },
         {
-            "title": "Your FAQ is useless to AI. Here's how to fix it.",
-            "url": "https://dev.to/gregory_pellitteri_631584/your-faq-is-useless-to-ai-heres-how-to-fix-it-37e9",
-            "description": "Your FAQ is useless to AI. Here's how to fix it.   Your FAQ page probably won't show up in..."
+            "title": "I Researched 10 iOS Distribution Channels for 2026. Here is What Indie Devs Should Skip.",
+            "url": "https://dev.to/snake_sun/i-researched-10-ios-distribution-channels-for-2026-here-is-what-indie-devs-should-skip-58gj",
+            "description": "TL;DR: Most \"iOS launch\" advice for 2026 still recommends channels that don't work for $0-budget..."
         },
         {
-            "title": "Your audience is waiting.",
-            "url": "https://dev.to/jashank_06/your-audience-is-waiting-4k35",
-            "description": "Email Sender Pro now features AI-generated email copy...  Download"
+            "title": "Setting Up a Gumroad Affiliate Program in 5 Minutes (and what nobody tells you)",
+            "url": "https://dev.to/snake_sun/setting-up-a-gumroad-affiliate-program-in-5-minutes-and-what-nobody-tells-you-3an6",
+            "description": "TL;DR: Gumroad has built-in affiliate management, free, no monthly fee. 5 minutes to set up a program..."
         },
         {
-            "title": "Russia\u2019s Human-Like Bots Are Too Advanced - And Harder to Detect Than You Think",
-            "url": "https://dev.to/grigoriy_melnikov_797b700/russias-human-like-bots-are-too-advanced-and-harder-to-detect-than-you-think-1l1i",
-            "description": "I\u2019ve spent 10 years building bots that bypass anti-fraud systems. Now I fight them by building..."
+            "title": "Building a $0 B2B Funnel: 15 Static HTML Lead Pages + Webhook",
+            "url": "https://dev.to/snake_sun/building-a-0-b2b-funnel-15-static-html-lead-pages-webhook-34ko",
+            "description": "TL;DR: Static HTML + a single Cloudflare Workers webhook captures email leads with full UTM + tier..."
         }
     ]
 }
