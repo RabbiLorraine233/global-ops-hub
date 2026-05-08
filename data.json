@@ -1,30 +1,30 @@
 {
-    "last_updated": "2026-05-07 02:41:13 UTC",
+    "last_updated": "2026-05-08 02:45:53 UTC",
     "articles": [
         {
-            "title": "how to write launch copy for a side project (without losing 3 days of your life)",
-            "url": "https://dev.to/r1ck404/how-to-write-launch-copy-for-a-side-project-without-losing-3-days-of-your-life-53ke",
-            "description": "i ship a lot of side projects. or i did. for a while i was on this loop where id spend a few weekends..."
+            "title": "The Benny-Blanco Death of Developer Marketing",
+            "url": "https://dev.to/daedtech/the-benny-blanco-death-of-developer-marketing-4b85",
+            "description": "(Editorial note: I originally wrote this post over on the Hit Subscribe blog.  I\u2019ll be cross-posting..."
         },
         {
-            "title": "I built reach for 14 days. Then realized I had nowhere for it to land.",
-            "url": "https://dev.to/edhiblemeer/i-built-reach-for-14-days-then-realized-i-had-nowhere-for-it-to-land-3g2b",
-            "description": "After 14 days of Build-in-Public, the gut-punch question \u2014 \"But how do I convert this into deals?\" The funnel had no bottom. Here's how I shipped a /work consulting page in one day."
+            "title": "Handling Mixed Languages on a Single Page: A Southeast Asian Reality",
+            "url": "https://dev.to/cy_ong_591/handling-mixed-languages-on-a-single-page-a-southeast-asian-reality-108h",
+            "description": "If you build user interfaces for Southeast Asia, you aren't just designing for eleven distinct..."
         },
         {
-            "title": "I Researched 10 iOS Distribution Channels for 2026. Here is What Indie Devs Should Skip.",
-            "url": "https://dev.to/snake_sun/i-researched-10-ios-distribution-channels-for-2026-here-is-what-indie-devs-should-skip-58gj",
-            "description": "TL;DR: Most \"iOS launch\" advice for 2026 still recommends channels that don't work for $0-budget..."
+            "title": "Proofly \u2014 Honest Review: Zero-Friction Video Testimonials for Builders",
+            "url": "https://dev.to/txlabs/proofly-honest-review-zero-friction-video-testimonials-for-builders-5ej8",
+            "description": "TL;DR: Proofly lets your customers record video testimonials in their browser \u2014 no login, no app..."
         },
         {
-            "title": "Setting Up a Gumroad Affiliate Program in 5 Minutes (and what nobody tells you)",
-            "url": "https://dev.to/snake_sun/setting-up-a-gumroad-affiliate-program-in-5-minutes-and-what-nobody-tells-you-3an6",
-            "description": "TL;DR: Gumroad has built-in affiliate management, free, no monthly fee. 5 minutes to set up a program..."
+            "title": "The smartest email tool you've never heard of.",
+            "url": "https://dev.to/jashank_06/the-smartest-email-tool-youve-never-heard-of-3mld",
+            "description": "Email Sender Pro now features Glassmorphism premium UI...  Download"
         },
         {
-            "title": "Building a $0 B2B Funnel: 15 Static HTML Lead Pages + Webhook",
-            "url": "https://dev.to/snake_sun/building-a-0-b2b-funnel-15-static-html-lead-pages-webhook-34ko",
-            "description": "TL;DR: Static HTML + a single Cloudflare Workers webhook captures email leads with full UTM + tier..."
+            "title": "Your CVR Is Up But Revenue Isn't: The RPS+CVR Fix for EC Ad Budgets",
+            "url": "https://dev.to/toshihiro_shishido/your-cvr-is-up-but-revenue-isnt-the-rpscvr-fix-for-ec-ad-budgets-41fb",
+            "description": "Increasing budget on a high-CVR ad and revenue stays flat is a common EC mistake. The cause is CVR being used as the sole judgment metric. RPS (Revenue Per Session) is the missing axis \u2014 here is how the CVR-RPS divergence breaks budget decisions and a 4-quadrant framework to fix it."
         }
     ]
 }
