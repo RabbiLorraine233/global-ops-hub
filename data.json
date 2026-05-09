@@ -1,30 +1,30 @@
 {
-    "last_updated": "2026-05-08 02:45:53 UTC",
+    "last_updated": "2026-05-09 02:40:07 UTC",
     "articles": [
         {
-            "title": "The Benny-Blanco Death of Developer Marketing",
-            "url": "https://dev.to/daedtech/the-benny-blanco-death-of-developer-marketing-4b85",
-            "description": "(Editorial note: I originally wrote this post over on the Hit Subscribe blog.  I\u2019ll be cross-posting..."
+            "title": "Build-in-Public Day 15: GSC clicks 7.4x, impressions 9.6x in 15 days \u2014 full data disclosure",
+            "url": "https://dev.to/edhiblemeer/build-in-public-day-15-gsc-clicks-74x-impressions-96x-in-15-days-full-data-disclosure-5e20",
+            "description": "I just hit Day 15 of an AI-driven Build-in-Public push for Tasteck, a vertical SaaS I run. Sharing..."
         },
         {
-            "title": "Handling Mixed Languages on a Single Page: A Southeast Asian Reality",
-            "url": "https://dev.to/cy_ong_591/handling-mixed-languages-on-a-single-page-a-southeast-asian-reality-108h",
-            "description": "If you build user interfaces for Southeast Asia, you aren't just designing for eleven distinct..."
+            "title": "How to Build a $15K Web Design Agency Landing Page With Next.js and Formgrid",
+            "url": "https://dev.to/allenarduino/how-to-build-a-15k-web-design-agency-landing-page-with-nextjs-and-formgrid-5291",
+            "description": "Most web design agencies charge between $5K and $20K for a professional landing page. The difference..."
         },
         {
-            "title": "Proofly \u2014 Honest Review: Zero-Friction Video Testimonials for Builders",
-            "url": "https://dev.to/txlabs/proofly-honest-review-zero-friction-video-testimonials-for-builders-5ej8",
-            "description": "TL;DR: Proofly lets your customers record video testimonials in their browser \u2014 no login, no app..."
+            "title": "Weibo's Hot Search Is the Best Real-Time Feed of Chinese Public Sentiment in 2026",
+            "url": "https://dev.to/sami_8858131362756585e4f4/weibos-hot-search-is-the-best-real-time-feed-of-chinese-public-sentiment-in-2026-2cep",
+            "description": "Weibo's \"hot search\" (\u70ed\u641c) is the closest thing China has to a real-time barometer of public..."
         },
         {
-            "title": "The smartest email tool you've never heard of.",
-            "url": "https://dev.to/jashank_06/the-smartest-email-tool-youve-never-heard-of-3mld",
-            "description": "Email Sender Pro now features Glassmorphism premium UI...  Download"
+            "title": "I Spent $312 Testing AI UGC Ads for SaaS. The Boring Hook Won. published: false",
+            "url": "https://dev.to/savielyamani_videoai/i-spent-312-testing-ai-ugc-ads-for-saas-the-boring-hook-wonpublished-false-14pe",
+            "description": "I assumed a clever hook would win. A boring one did, by 4.2x. Spent $312.47 over 11 days testing..."
         },
         {
-            "title": "Your CVR Is Up But Revenue Isn't: The RPS+CVR Fix for EC Ad Budgets",
-            "url": "https://dev.to/toshihiro_shishido/your-cvr-is-up-but-revenue-isnt-the-rpscvr-fix-for-ec-ad-budgets-41fb",
-            "description": "Increasing budget on a high-CVR ad and revenue stays flat is a common EC mistake. The cause is CVR being used as the sole judgment metric. RPS (Revenue Per Session) is the missing axis \u2014 here is how the CVR-RPS divergence breaks budget decisions and a 4-quadrant framework to fix it."
+            "title": "How to Scale Your Webflow Agency Revenue with Content-Led Growth",
+            "url": "https://dev.to/farcast_c08c9005940a4434b/how-to-scale-your-webflow-agency-revenue-with-content-led-growth-1ee",
+            "description": "To scale your Webflow agency revenue, implement a content-led growth strategy. Here's how:   Shift to..."
         }
     ]
 }
