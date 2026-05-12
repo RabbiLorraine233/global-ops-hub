@@ -1,30 +1,30 @@
 {
-    "last_updated": "2026-05-11 02:54:59 UTC",
+    "last_updated": "2026-05-12 02:46:56 UTC",
     "articles": [
         {
-            "title": "Your CVR Is Up But AOV Dropped. The 4-Domain Fix for EC Revenue",
-            "url": "https://dev.to/toshihiro_shishido/your-cvr-is-up-but-aov-dropped-the-4-domain-fix-for-ec-revenue-1e9l",
-            "description": "CVR and AOV tend to move in opposite directions. Coupons push CVR up but drop AOV. Free-shipping thresholds push AOV up but drop CVR. This guide covers the joint-lift framework, four compatible domains, phase-based priorities, and measurement pitfalls."
+            "title": "Billion Dollar Opportunities in AI + Marketing",
+            "url": "https://dev.to/kislay/billion-dollar-opportunities-in-ai-marketing-195",
+            "description": "1. The AI CMO Nobody Can Afford to\u00a0Hire Here's the dirty secret of sophisticated marketing: it was..."
         },
         {
-            "title": "Small update on OutreachFlow \u2014 making AI cold emails sound more human",
-            "url": "https://dev.to/raratastudio/small-update-on-outreachflow-making-ai-cold-emails-sound-more-human-4d7",
-            "description": "Small update on OutreachFlow \ud83d\ude80  Over the last days I improved a few things based on feedback:  \u2714..."
+            "title": "You Finished GA4 for Shopify. Here's What to Actually Measure",
+            "url": "https://dev.to/toshihiro_shishido/you-finished-ga4-for-shopify-heres-what-to-actually-measure-57gn",
+            "description": "After GA4 ecommerce setup for Shopify, what do you measure next? RPS, AOV, and CVR decompose revenue and guide channel-level ad decisions across 4 ordered steps \u2014 the WHAT and WHY after the HOW."
         },
         {
-            "title": "One app. Unlimited outreach.",
-            "url": "https://dev.to/jashank_06/one-app-unlimited-outreach-27kb",
-            "description": "Email Sender Pro now features SMTP Smart Transporter for inbox delivery...  Download"
+            "title": "B Corp certification at an agency: signal, friction, or both",
+            "url": "https://dev.to/code_pocket_99fdbc771/b-corp-certification-at-an-agency-signal-friction-or-both-19d8",
+            "description": "The most honest sentence I can write about our B Corp certification is that it has been useful in..."
         },
         {
-            "title": "The CTA disclosure test: I added \"$29/m after 5 messages\" to every Free Trial button. Here's what I expected to happen.",
-            "url": "https://dev.to/rapidclaw/the-cta-disclosure-test-i-added-29m-after-5-messages-to-every-free-trial-button-heres-what-i-4776",
-            "description": "Earlier this week I made a change I had been putting off for two months. I went through every..."
+            "title": "AI Google Ads Generator: Q&A With My Past Self on Faking KOL",
+            "url": "https://dev.to/lee_stuart_2b43a7d7d520ce/ai-google-ads-generator-qa-with-my-past-self-on-faking-kol-19e9",
+            "description": "Last weekend my past self showed up in a dream holding a Stripe dashboard screenshot that said..."
         },
         {
-            "title": "What Is Email Sender Reputation \u2014 And Why One Bad Campaign Can Break It",
-            "url": "https://dev.to/bounceproof_63346178617fb/what-is-email-sender-reputation-and-why-one-bad-campaign-can-break-it-3kf4",
-            "description": "Email sender reputation is the trust score that mailbox providers assign to your sending domain and..."
+            "title": "Cross-posting to four platforms means remembering four character limits",
+            "url": "https://dev.to/palo_alto_ai/cross-posting-to-four-platforms-means-remembering-four-character-limits-18ac",
+            "description": "My usual distribution workflow: write a Bluesky post (300 chars), trim it for X (280), expand it for..."
         }
     ]
 }
