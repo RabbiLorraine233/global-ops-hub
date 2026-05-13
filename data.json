@@ -1,30 +1,30 @@
 {
-    "last_updated": "2026-05-12 02:46:56 UTC",
+    "last_updated": "2026-05-13 02:52:09 UTC",
     "articles": [
         {
-            "title": "Billion Dollar Opportunities in AI + Marketing",
-            "url": "https://dev.to/kislay/billion-dollar-opportunities-in-ai-marketing-195",
-            "description": "1. The AI CMO Nobody Can Afford to\u00a0Hire Here's the dirty secret of sophisticated marketing: it was..."
+            "title": "Your audience is waiting.",
+            "url": "https://dev.to/jashank_06/your-audience-is-waiting-31h6",
+            "description": "Email Sender Pro now features Interactive analytics with geo-maps...  Download"
         },
         {
-            "title": "You Finished GA4 for Shopify. Here's What to Actually Measure",
-            "url": "https://dev.to/toshihiro_shishido/you-finished-ga4-for-shopify-heres-what-to-actually-measure-57gn",
-            "description": "After GA4 ecommerce setup for Shopify, what do you measure next? RPS, AOV, and CVR decompose revenue and guide channel-level ad decisions across 4 ordered steps \u2014 the WHAT and WHY after the HOW."
+            "title": "When 'I Can't Code' Becomes a Badge: Beware the AI Marketing Bubble",
+            "url": "https://dev.to/gokuscraper/when-i-cant-code-becomes-a-badge-beware-the-ai-marketing-bubble-4d2b",
+            "description": "When 'I Can't Code' Becomes a Badge: Beware the AI Marketing Bubble     On short-video..."
         },
         {
-            "title": "B Corp certification at an agency: signal, friction, or both",
-            "url": "https://dev.to/code_pocket_99fdbc771/b-corp-certification-at-an-agency-signal-friction-or-both-19d8",
-            "description": "The most honest sentence I can write about our B Corp certification is that it has been useful in..."
+            "title": "Automating Creative QA: Using AI to Peer-Review Ad Content Before It Hits the Meta API",
+            "url": "https://dev.to/peterslab/automating-creative-qa-using-ai-to-peer-review-ad-content-before-it-hits-the-meta-api-1eh0",
+            "description": "As developers building in the AI ad space, we often obsess over the Generation part. We tweak..."
         },
         {
-            "title": "AI Google Ads Generator: Q&A With My Past Self on Faking KOL",
-            "url": "https://dev.to/lee_stuart_2b43a7d7d520ce/ai-google-ads-generator-qa-with-my-past-self-on-faking-kol-19e9",
-            "description": "Last weekend my past self showed up in a dream holding a Stripe dashboard screenshot that said..."
+            "title": "Why I stopped guessing whether my email designs were any good",
+            "url": "https://dev.to/palo_alto_ai/why-i-stopped-guessing-whether-my-email-designs-were-any-good-471k",
+            "description": "Built an email last month with a 14% CTR. Built one the week before that got 2%. Same list, same..."
         },
         {
-            "title": "Cross-posting to four platforms means remembering four character limits",
-            "url": "https://dev.to/palo_alto_ai/cross-posting-to-four-platforms-means-remembering-four-character-limits-18ac",
-            "description": "My usual distribution workflow: write a Bluesky post (300 chars), trim it for X (280), expand it for..."
+            "title": "I\u2019m Building Fronex.fun: A Telegram-Native Prediction Mini App on TON",
+            "url": "https://dev.to/fronexhq/im-building-fronexfun-a-telegram-native-prediction-mini-app-on-ton-415b",
+            "description": "Hey dev.to \ud83d\udc4b  I\u2019m a solo developer currently building Fronex.fun, a Telegram-native social prediction..."
         }
     ]
 }
