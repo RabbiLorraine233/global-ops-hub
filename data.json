@@ -1,30 +1,30 @@
 {
-    "last_updated": "2026-05-15 02:54:53 UTC",
+    "last_updated": "2026-05-16 02:43:22 UTC",
     "articles": [
         {
-            "title": "Your ROAS is a lie \u2014 I built an MCP server to find the real number",
-            "url": "https://dev.to/imatulsrivas/your-roas-is-a-lie-i-built-an-mcp-server-to-find-the-real-number-4ka9",
-            "description": "How I deduplicate cross-platform ad attribution and surface true ROAS inside VS Code chat  Every..."
+            "title": "Why Your Brand Is Invisible to AI Search (It's Not About Rankings)",
+            "url": "https://dev.to/juan_camiloauriti_646918/why-your-brand-is-invisible-to-ai-search-its-not-about-rankings-56pd",
+            "description": "A site can rank well on Google and still fail to appear in AI-generated answers. I keep seeing this..."
         },
         {
-            "title": "IDs First, Profiles Later: A Cheaper Way to Analyze Follower Graphs",
-            "url": "https://dev.to/dacid_chain_fea5126fb51ac/ids-first-profiles-later-a-cheaper-way-to-analyze-follower-graphs-1ddg",
-            "description": "Most audience-analysis projects start with one deceptively simple question:   Which people are shared..."
+            "title": "How I Get Freelance Clients as a Developer (Without Upwork or Fiverr)",
+            "url": "https://dev.to/armorbreak/how-i-get-freelance-clients-as-a-developer-without-upwork-or-fiverr-3kkj",
+            "description": "How I Get Freelance Clients as a Developer (Without Upwork or Fiverr)   Upwork takes 20%...."
         },
         {
-            "title": "One app. Unlimited outreach.",
-            "url": "https://dev.to/jashank_06/one-app-unlimited-outreach-23bn",
-            "description": "Email Sender Pro now features Glassmorphism premium UI...  Download"
+            "title": "Static code analysis and software time to market",
+            "url": "https://dev.to/pvsdev/static-code-analysis-and-software-time-to-market-43fe",
+            "description": "This article focuses on the methodology of static code analysis and its role in streamlining the time..."
         },
         {
-            "title": "AI Search Adds an Answer Layer Between Users and Websites",
-            "url": "https://dev.to/aivsrank/ai-search-adds-an-answer-layer-between-users-and-websites-18mo",
-            "description": "Traditional search was built around navigation.  A user typed a query, reviewed a list of results,..."
+            "title": "Why AI Search (GEO/AEO) Is Eating Traditional SEO \u2014 And What Agencies Must Do Now",
+            "url": "https://dev.to/webcorelab/why-ai-search-geoaeo-is-eating-traditional-seo-and-what-agencies-must-do-now-iaf",
+            "description": "Old-school SEO assumed one behavior. Person types query. Ten blue links appear. Somebody clicks. That model is breaking. Here's what GEO/AEO means and 3 tactics that actually work."
         },
         {
-            "title": "Automate Social Media with Python: Post, Schedule, and Analyze Across Platforms",
-            "url": "https://dev.to/brad_20095bd4959b60ad2335/automate-social-media-with-python-post-schedule-and-analyze-across-platforms-446p",
-            "description": "Automate Social Media with Python: Post, Schedule, and Analyze Across Platforms   Managing..."
+            "title": "Distribution work that kills most OSS projects before anyone finds them",
+            "url": "https://dev.to/palo_alto_ai/distribution-work-that-kills-most-oss-projects-before-anyone-finds-them-4m6m",
+            "description": "MCP servers and Claude Code skills live in a fast-moving ecosystem where most indie builders ship..."
         }
     ]
 }
