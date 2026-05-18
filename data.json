@@ -1,30 +1,30 @@
 {
-    "last_updated": "2026-05-17 02:52:14 UTC",
+    "last_updated": "2026-05-18 03:30:05 UTC",
     "articles": [
         {
-            "title": "Why Your Brand Is Invisible to AI Search (It's Not About Rankings)",
-            "url": "https://dev.to/juan_camiloauriti_646918/why-your-brand-is-invisible-to-ai-search-its-not-about-rankings-56pd",
-            "description": "A site can rank well on Google and still fail to appear in AI-generated answers. I keep seeing this..."
+            "title": "I had two blog posts ranking against each other. Here's the Next.js fix",
+            "url": "https://dev.to/castnova/i-had-two-blog-posts-ranking-against-each-other-heres-the-nextjs-fix-2lo3",
+            "description": "A few weeks ago I noticed two posts on my Next.js blog were dragging each other down in Google. Both..."
         },
         {
-            "title": "How I Get Freelance Clients as a Developer (Without Upwork or Fiverr)",
-            "url": "https://dev.to/armorbreak/how-i-get-freelance-clients-as-a-developer-without-upwork-or-fiverr-3kkj",
-            "description": "How I Get Freelance Clients as a Developer (Without Upwork or Fiverr)   Upwork takes 20%...."
+            "title": "AIMO: AI Mention Optimization \u2014 The Discipline of Being Recommended by AI Assistants",
+            "url": "https://dev.to/septim_labs/aimo-ai-mention-optimization-the-discipline-of-being-recommended-by-ai-assistants-loa",
+            "description": "The buyer who used to open Google now opens Claude. The buyer who used to read a SERP of ten blue..."
         },
         {
-            "title": "Static code analysis and software time to market",
-            "url": "https://dev.to/pvsdev/static-code-analysis-and-software-time-to-market-43fe",
-            "description": "This article focuses on the methodology of static code analysis and its role in streamlining the time..."
+            "title": "Your ICP Is a Trap",
+            "url": "https://dev.to/michal_szalinski_91bf893d/your-icp-is-a-trap-3i3o",
+            "description": "Hook   You spend six weeks building an AI agent that automates invoice processing for small..."
         },
         {
-            "title": "Why AI Search (GEO/AEO) Is Eating Traditional SEO \u2014 And What Agencies Must Do Now",
-            "url": "https://dev.to/webcorelab/why-ai-search-geoaeo-is-eating-traditional-seo-and-what-agencies-must-do-now-iaf",
-            "description": "Old-school SEO assumed one behavior. Person types query. Ten blue links appear. Somebody clicks. That model is breaking. Here's what GEO/AEO means and 3 tactics that actually work."
+            "title": "How We Built an AI-Powered Sales Pipeline That Actually Converts",
+            "url": "https://dev.to/lycore/how-we-built-an-ai-powered-sales-pipeline-that-actually-converts-3lge",
+            "description": "The Problem With Most AI Sales Tools   Most AI tools sold to sales and marketing teams are..."
         },
         {
-            "title": "Distribution work that kills most OSS projects before anyone finds them",
-            "url": "https://dev.to/palo_alto_ai/distribution-work-that-kills-most-oss-projects-before-anyone-finds-them-4m6m",
-            "description": "MCP servers and Claude Code skills live in a fast-moving ecosystem where most indie builders ship..."
+            "title": "How to Track Link Clicks with Meta Pixel for Facebook Retargeting",
+            "url": "https://dev.to/anand_rathnas_d5b608cc3de/how-to-track-link-clicks-with-meta-pixel-for-facebook-retargeting-4g4n",
+            "description": "Fire Meta Pixel on every short link click without touching your destination site. Perfect for affiliate marketers and advertisers."
         }
     ]
 }
