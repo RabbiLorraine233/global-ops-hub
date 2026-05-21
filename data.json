@@ -1,30 +1,30 @@
 {
-    "last_updated": "2026-05-20 02:58:33 UTC",
+    "last_updated": "2026-05-21 03:29:16 UTC",
     "articles": [
         {
-            "title": "I had two blog posts ranking against each other. Here's the Next.js fix",
-            "url": "https://dev.to/castnova/i-had-two-blog-posts-ranking-against-each-other-heres-the-nextjs-fix-2lo3",
-            "description": "A few weeks ago I noticed two posts on my Next.js blog were dragging each other down in Google. Both..."
+            "title": "What is CPA \u2014 Cost Per Acquisition Basics and How to Set the Right Target",
+            "url": "https://dev.to/toshihiro_shishido/what-is-cpa-cost-per-acquisition-basics-and-how-to-set-the-right-target-2jb5",
+            "description": "\"Is this CPA in our ad dashboard high or low?\" \u2014 almost every ecommerce operator has asked this..."
         },
         {
-            "title": "AIMO: AI Mention Optimization \u2014 The Discipline of Being Recommended by AI Assistants",
-            "url": "https://dev.to/septim_labs/aimo-ai-mention-optimization-the-discipline-of-being-recommended-by-ai-assistants-loa",
-            "description": "The buyer who used to open Google now opens Claude. The buyer who used to read a SERP of ten blue..."
+            "title": "Hard Bounce vs Soft Bounce: What Email Marketers Actually Need to Know",
+            "url": "https://dev.to/bounceproof_05/hard-bounce-vs-soft-bounce-what-email-marketers-actually-need-to-know-35n5",
+            "description": "Hard bounce vs soft bounce is the most important classification in email deliverability. One means..."
         },
         {
-            "title": "Your ICP Is a Trap",
-            "url": "https://dev.to/michal_szalinski_91bf893d/your-icp-is-a-trap-3i3o",
-            "description": "Hook   You spend six weeks building an AI agent that automates invoice processing for small..."
+            "title": "Spam Traps Explained: Types, How You Land in Them, and How Verification Helps",
+            "url": "https://dev.to/bounceproof_05/spam-traps-explained-types-how-you-land-in-them-and-how-verification-helps-44nd",
+            "description": "Spam traps are email addresses designed to catch senders with poor list management practices. They..."
         },
         {
-            "title": "How We Built an AI-Powered Sales Pipeline That Actually Converts",
-            "url": "https://dev.to/lycore/how-we-built-an-ai-powered-sales-pipeline-that-actually-converts-3lge",
-            "description": "The Problem With Most AI Sales Tools   Most AI tools sold to sales and marketing teams are..."
+            "title": "Technical Post-Mortem: Debugging AdMob Impression Leaks in an Expo/Firebase Mobile App",
+            "url": "https://dev.to/jane49cloud/technical-post-mortem-debugging-admob-impression-leaks-in-an-expofirebase-mobile-app-inh",
+            "description": "As a mobile developer, shipping an app to production is only half the battle. The real complications..."
         },
         {
-            "title": "How to Track Link Clicks with Meta Pixel for Facebook Retargeting",
-            "url": "https://dev.to/anand_rathnas_d5b608cc3de/how-to-track-link-clicks-with-meta-pixel-for-facebook-retargeting-4g4n",
-            "description": "Fire Meta Pixel on every short link click without touching your destination site. Perfect for affiliate marketers and advertisers."
+            "title": "How I fixed 0% CTR on pages that were already ranking on Google",
+            "url": "https://dev.to/mdashraf/how-i-fixed-0-ctr-on-pages-that-were-already-ranking-on-google-17mi",
+            "description": "Running AnonPolls as a solo founder. This week I pulled GSC data  and found something frustrating:..."
         }
     ]
 }
