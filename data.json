@@ -1,30 +1,30 @@
 {
-    "last_updated": "2026-05-21 03:29:16 UTC",
+    "last_updated": "2026-05-22 03:28:17 UTC",
     "articles": [
         {
-            "title": "What is CPA \u2014 Cost Per Acquisition Basics and How to Set the Right Target",
-            "url": "https://dev.to/toshihiro_shishido/what-is-cpa-cost-per-acquisition-basics-and-how-to-set-the-right-target-2jb5",
-            "description": "\"Is this CPA in our ad dashboard high or low?\" \u2014 almost every ecommerce operator has asked this..."
+            "title": "Meta CAPI Setup: The Real Numbers For Italian SMBs (CPL Cut by 56% in 30 Days)",
+            "url": "https://dev.to/andreasisofo/meta-capi-setup-the-real-numbers-for-italian-smbs-cpl-cut-by-56-in-30-days-5dio",
+            "description": "Browser pixel alone loses 31% of conversion events to ad-blockers in Italy, before you even count iOS..."
         },
         {
-            "title": "Hard Bounce vs Soft Bounce: What Email Marketers Actually Need to Know",
-            "url": "https://dev.to/bounceproof_05/hard-bounce-vs-soft-bounce-what-email-marketers-actually-need-to-know-35n5",
-            "description": "Hard bounce vs soft bounce is the most important classification in email deliverability. One means..."
+            "title": "\ud83d\ude80 I Built a Minimal Futuristic Tech Identity for My Developer Brand",
+            "url": "https://dev.to/darktor/i-built-a-minimal-futuristic-tech-identity-for-my-developer-brand-11ji",
+            "description": "As a developer building AI tools and web applications, I wanted something simple but powerful \u2014 a..."
         },
         {
-            "title": "Spam Traps Explained: Types, How You Land in Them, and How Verification Helps",
-            "url": "https://dev.to/bounceproof_05/spam-traps-explained-types-how-you-land-in-them-and-how-verification-helps-44nd",
-            "description": "Spam traps are email addresses designed to catch senders with poor list management practices. They..."
+            "title": "Your Promo Budget Is Funding Fraud \u2014 6 Ways Fraudsters Drain Your Campaigns",
+            "url": "https://dev.to/andrew_hayes/your-promo-budget-is-funding-fraud-6-ways-fraudsters-drain-your-campaigns-133l",
+            "description": "You launch a referral program. Marketing rolls out a welcome discount. Day one looks great: signups..."
         },
         {
-            "title": "Technical Post-Mortem: Debugging AdMob Impression Leaks in an Expo/Firebase Mobile App",
-            "url": "https://dev.to/jane49cloud/technical-post-mortem-debugging-admob-impression-leaks-in-an-expofirebase-mobile-app-inh",
-            "description": "As a mobile developer, shipping an app to production is only half the battle. The real complications..."
+            "title": "I'm launching a SaaS partnership with $0 ad budget \u2014 on purpose. Here's the stack",
+            "url": "https://dev.to/guardlabs_team/im-launching-a-saas-partnership-with-0-ad-budget-on-purpose-heres-the-stack-48g3",
+            "description": "No paid ads to launch a B2B partnership program. The actual $0-budget traffic stack: dev.to longreads, HARO, build-in-public, cold DM via existing chat infrastructure."
         },
         {
-            "title": "How I fixed 0% CTR on pages that were already ranking on Google",
-            "url": "https://dev.to/mdashraf/how-i-fixed-0-ctr-on-pages-that-were-already-ranking-on-google-17mi",
-            "description": "Running AnonPolls as a solo founder. This week I pulled GSC data  and found something frustrating:..."
+            "title": "Cross-posting to four platforms by hand doesn't scale past week one",
+            "url": "https://dev.to/palo_alto_ai/cross-posting-to-four-platforms-by-hand-doesnt-scale-past-week-one-cii",
+            "description": "The workflow breaks down fast: you write a Bluesky post (300 chars), realize the Dev.to version needs..."
         }
     ]
 }
