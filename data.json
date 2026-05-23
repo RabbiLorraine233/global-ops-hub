@@ -1,30 +1,30 @@
 {
-    "last_updated": "2026-05-22 03:28:17 UTC",
+    "last_updated": "2026-05-23 02:47:40 UTC",
     "articles": [
+        {
+            "title": "How To \"Market\" Yourself As A Tech Pro",
+            "url": "https://dev.to/aaronmaxwell/how-to-market-yourself-as-a-tech-pro-32p9",
+            "description": "As you build your technical skills, your next step is to create your own open-source software..."
+        },
+        {
+            "title": "Scoring email designs before they ship, not after",
+            "url": "https://dev.to/palo_alto_ai/scoring-email-designs-before-they-ship-not-after-39j0",
+            "description": "Most email tools hand you a blank canvas and a template library. You assemble something, send it, and..."
+        },
         {
             "title": "Meta CAPI Setup: The Real Numbers For Italian SMBs (CPL Cut by 56% in 30 Days)",
             "url": "https://dev.to/andreasisofo/meta-capi-setup-the-real-numbers-for-italian-smbs-cpl-cut-by-56-in-30-days-5dio",
             "description": "Browser pixel alone loses 31% of conversion events to ad-blockers in Italy, before you even count iOS..."
         },
         {
-            "title": "\ud83d\ude80 I Built a Minimal Futuristic Tech Identity for My Developer Brand",
-            "url": "https://dev.to/darktor/i-built-a-minimal-futuristic-tech-identity-for-my-developer-brand-11ji",
-            "description": "As a developer building AI tools and web applications, I wanted something simple but powerful \u2014 a..."
+            "title": "C\u00f3mo valorar un dominio antes de comprarlo: Gu\u00eda anal\u00edtica para webmasters",
+            "url": "https://dev.to/lumicolca93/como-valorar-un-dominio-antes-de-comprarlo-guia-analitica-para-webmasters-35nm",
+            "description": "Comprar un dominio en el mercado secundario es una de las formas m\u00e1s r\u00e1pidas de acelerar el..."
         },
         {
-            "title": "Your Promo Budget Is Funding Fraud \u2014 6 Ways Fraudsters Drain Your Campaigns",
-            "url": "https://dev.to/andrew_hayes/your-promo-budget-is-funding-fraud-6-ways-fraudsters-drain-your-campaigns-133l",
-            "description": "You launch a referral program. Marketing rolls out a welcome discount. Day one looks great: signups..."
-        },
-        {
-            "title": "I'm launching a SaaS partnership with $0 ad budget \u2014 on purpose. Here's the stack",
-            "url": "https://dev.to/guardlabs_team/im-launching-a-saas-partnership-with-0-ad-budget-on-purpose-heres-the-stack-48g3",
-            "description": "No paid ads to launch a B2B partnership program. The actual $0-budget traffic stack: dev.to longreads, HARO, build-in-public, cold DM via existing chat infrastructure."
-        },
-        {
-            "title": "Cross-posting to four platforms by hand doesn't scale past week one",
-            "url": "https://dev.to/palo_alto_ai/cross-posting-to-four-platforms-by-hand-doesnt-scale-past-week-one-cii",
-            "description": "The workflow breaks down fast: you write a Bluesky post (300 chars), realize the Dev.to version needs..."
+            "title": "Bigha to Acre Conversion Guide: Easy Land Measurement Formula for Farmers & Buyers",
+            "url": "https://dev.to/yashu26/bigha-to-acre-conversion-guide-easy-land-measurement-formula-for-farmers-buyers-59on",
+            "description": "Land measurement is one of the most searched topics in India, especially when people buy agricultural..."
         }
     ]
 }
