@@ -1,30 +1,30 @@
 {
-    "last_updated": "2026-05-25 03:36:41 UTC",
+    "last_updated": "2026-05-26 02:55:32 UTC",
     "articles": [
         {
-            "title": "AI Talking Avatar Pipelines Broke Our Ad CTR by 3.7%",
-            "url": "https://dev.to/savielyamani_videoai/ai-talking-avatar-pipelines-broke-our-ad-ctr-by-37-1hlp",
-            "description": "A developer postmortem on debugging AI Talking Avatar workflows and scaling AI Avatar Video Generator output without a video team."
+            "title": "I built an AI-powered quiz and calculator builder to replace boring lead gen forms \u2014 here's what I learned",
+            "url": "https://dev.to/weaveleads/i-built-an-ai-powered-quiz-and-calculator-builder-to-replace-boring-lead-gen-forms-heres-what-i-2n49",
+            "description": "Most lead gen forms are dead on arrival.  You've seen them: \"Enter your email to get our free guide.\"..."
         },
         {
-            "title": "Video SEO",
-            "url": "https://dev.to/joseph_anady_214bacedf939/video-seo-28h8",
-            "description": "Originally published at thatdevpro.com. This framework reference is part of the 14-tier Engine..."
+            "title": "AI Influencer Generator for Brands: 5 Things I Learned",
+            "url": "https://dev.to/bank_gwen_tech/ai-influencer-generator-for-brands-5-things-i-learned-57nk",
+            "description": "What I figured out building a Brand Ambassador Instagram pipeline with an AI influencer generator \u2014 the boring parts nobody writes about."
         },
         {
-            "title": "Trust Signals",
-            "url": "https://dev.to/joseph_anady_214bacedf939/trust-signals-2nae",
-            "description": "Originally published at thatdevpro.com. This framework reference is part of the 14-tier Engine..."
+            "title": "Panduan Definitif Memilih Obat Kuat Pria Dewasa Alami vs Sintetis - ringkasan",
+            "url": "https://dev.to/ahmadadigitalsolusi/panduan-definitif-memilih-obat-kuat-pria-dewasa-alami-vs-sintetis-ringkasan-4fo7",
+            "description": "Ringkasan Profesional: Panduan Definitif Memilih Obat Kuat Pria Dewasa Alami vs Sintetis Artikel ini mengupas tuntas perbedaan mendasar antara obat kuat alami dan sintetis, dengan fokus pada keamanan "
         },
         {
-            "title": "A First Look at KasperOS Runtime v0.8.0-beta",
-            "url": "https://dev.to/ghostking314/a-first-look-at-kasperos-runtime-v080-beta-5hk9",
-            "description": "A lot of people have been asking what KasperOS actually looks like in practice, so here\u2019s a visual..."
+            "title": "How I Got My WordPress Plugin Into Two Major Page Builders' Official Docs in One Week",
+            "url": "https://dev.to/gronrafal/how-i-got-my-wordpress-plugin-into-two-major-page-builders-official-docs-in-one-week-2km4",
+            "description": "A cold email playbook with the actual templates and technical specifics \u2014 how an indie plugin developer broke through the WordPress.org visibility wall"
         },
         {
-            "title": "E-commerce SEO",
-            "url": "https://dev.to/joseph_anady_214bacedf939/e-commerce-seo-57jf",
-            "description": "Originally published at thatdevpro.com. This framework reference is part of the 14-tier Engine..."
+            "title": "Generative Engine Optimization (GEO): What Devs Need to Know About Getting Cited by AI",
+            "url": "https://dev.to/devtoaaron/generative-engine-optimization-geo-what-devs-need-to-know-about-getting-cited-by-ai-4knk",
+            "description": "Generative Engine Optimization (GEO): What Devs Need to Know About Getting Cited by AI   If..."
         }
     ]
 }
