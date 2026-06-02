@@ -1,30 +1,30 @@
 {
-    "last_updated": "2026-06-01 03:51:08 UTC",
+    "last_updated": "2026-06-02 03:43:13 UTC",
     "articles": [
         {
-            "title": "We Built a Referral Program Tool Inside Our URL Shortener. Here's Why.",
-            "url": "https://dev.to/anand_rathnas_d5b608cc3de/we-built-a-referral-program-tool-inside-our-url-shortener-heres-why-pak",
-            "description": "Referral marketing tools start at $29/mo and don't include link tracking. We already had the link infrastructure. So we built Referral Kit."
+            "title": "ZpriteForge",
+            "url": "https://dev.to/zypher_studio_/zpriteforge-41ka",
+            "description": "Hey everyone! \u270c\ufe0f  I've been working on a project for a while now, and I finally got it to a usable..."
         },
         {
-            "title": "I Stopped Treating All My Customers the Same \u2014 Here's How RFM Analysis Sorts Them by 3 Numbers",
-            "url": "https://dev.to/toshihiro_shishido/i-stopped-treating-all-my-customers-the-same-heres-how-rfm-analysis-sorts-them-by-3-numbers-18fo",
-            "description": "RFM analysis ranks customers by recency, frequency, and monetary value, so you can decide who gets which tactic instead of blasting everyone the same email."
+            "title": "Same experiments, two very different apps. What the data actually said.",
+            "url": "https://dev.to/diegodotta/same-experiments-two-very-different-apps-what-the-data-actually-said-1c0h",
+            "description": "I have two indie apps. Smart Keys (smart keyboard for ESL writers) and Bird Rise (an alarm that wakes..."
         },
         {
-            "title": "I Built a Daily Meta Ads Manager With Claude and n8n \u2014 It Increased My ROAS 72% in 7 Days",
-            "url": "https://dev.to/penumbra_ghost/i-built-a-daily-meta-ads-manager-with-claude-and-n8n-it-increased-my-roas-72-in-7-days-2pco",
-            "description": "I was spending 45 minutes every morning reviewing Meta Ads dashboards. Checking spend, spotting..."
+            "title": "Direct Restaurant Owner Outreach + Instant Trial Conversion",
+            "url": "https://dev.to/jjames101103/direct-restaurant-owner-outreach-instant-trial-conversion-3h5n",
+            "description": "How to Convert Local Business Owners in 48 Hours: Direct Outreach + AI-Generated..."
         },
         {
-            "title": "Building a finance AI launch checklist that does not lie",
-            "url": "https://dev.to/gandalfthegato/building-a-finance-ai-launch-checklist-that-does-not-lie-5f5k",
-            "description": "I spent today doing Product Hunt prep for Tomorrow Terminal, which is a source-aware AI stock..."
+            "title": "Stripe Activation + Payment Link Blast to Warm Leads",
+            "url": "https://dev.to/jjames101103/stripe-activation-payment-link-blast-to-warm-leads-d2e",
+            "description": "How One Baltimore Restaurant Generated $4.2K in 48 Hours Using Stripe Payment Links + Warm..."
         },
         {
-            "title": "Business slogan examples for small ecommerce brands",
-            "url": "https://dev.to/albertwei/business-slogan-examples-for-small-ecommerce-brands-3d7j",
-            "description": "A practical look at writing business, company, and campaign slogans for ecommerce stores, product launches, and seasonal promotions."
+            "title": "How to hire a developer-first PMM (and when you actually need one)",
+            "url": "https://dev.to/dovzhikova/how-to-hire-a-developer-first-pmm-and-when-you-actually-need-one-4mf9",
+            "description": "Most early-stage devtool founders I talk to have the same problem and reach for the wrong fix. The..."
         }
     ]
 }
