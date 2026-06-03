@@ -1,30 +1,30 @@
 {
-    "last_updated": "2026-06-02 03:43:13 UTC",
+    "last_updated": "2026-06-03 03:53:20 UTC",
     "articles": [
         {
-            "title": "ZpriteForge",
-            "url": "https://dev.to/zypher_studio_/zpriteforge-41ka",
-            "description": "Hey everyone! \u270c\ufe0f  I've been working on a project for a while now, and I finally got it to a usable..."
+            "title": "The SEO Trick I Found by Accident When Reddit Banned My Links",
+            "url": "https://dev.to/dinall/the-seo-trick-i-found-by-accident-when-reddit-banned-my-links-48jg",
+            "description": "A month into launching my 2nd SaaS, I did what every indie founder does: I rolled out to Reddit...."
         },
         {
-            "title": "Same experiments, two very different apps. What the data actually said.",
-            "url": "https://dev.to/diegodotta/same-experiments-two-very-different-apps-what-the-data-actually-said-1c0h",
-            "description": "I have two indie apps. Smart Keys (smart keyboard for ESL writers) and Bird Rise (an alarm that wakes..."
+            "title": "What 4 months of building in public actually taught me about content",
+            "url": "https://dev.to/harsha_kumar/what-4-months-of-building-in-public-actually-taught-me-about-content-2g98",
+            "description": "I've been tracking which posts drive traffic to XEdge for 4 months now. The pattern is uncomfortably..."
         },
         {
-            "title": "Direct Restaurant Owner Outreach + Instant Trial Conversion",
-            "url": "https://dev.to/jjames101103/direct-restaurant-owner-outreach-instant-trial-conversion-3h5n",
-            "description": "How to Convert Local Business Owners in 48 Hours: Direct Outreach + AI-Generated..."
+            "title": "How I'd Get an Indie App's First 100 Users Without Spending a Cent on Ads",
+            "url": "https://dev.to/quangpl/how-id-get-an-indie-apps-first-100-users-without-spending-a-cent-on-ads-4lni",
+            "description": "Shipping the extension is the easy part. Here's the targeting-first playbook for getting your first 100 users with zero ad budget \u2014 niche communities, cold DMs, build-in-public, and the early-reviews flywheel."
         },
         {
-            "title": "Stripe Activation + Payment Link Blast to Warm Leads",
-            "url": "https://dev.to/jjames101103/stripe-activation-payment-link-blast-to-warm-leads-d2e",
-            "description": "How One Baltimore Restaurant Generated $4.2K in 48 Hours Using Stripe Payment Links + Warm..."
+            "title": "Google Rebuilt Its Own Search Business \u2014 Where AI-Era Search Ads Actually Make Money",
+            "url": "https://dev.to/s3atoshi_leading_ai/google-rebuilt-its-own-search-business-where-ai-era-search-ads-actually-make-money-1jdb",
+            "description": "TL;DR   The \"Google is destroying the web that feeds it\" chorus rests on two premises \u2014 AI shrinks..."
         },
         {
-            "title": "How to hire a developer-first PMM (and when you actually need one)",
-            "url": "https://dev.to/dovzhikova/how-to-hire-a-developer-first-pmm-and-when-you-actually-need-one-4mf9",
-            "description": "Most early-stage devtool founders I talk to have the same problem and reach for the wrong fix. The..."
+            "title": "Best Server-Side Tracking Tools 2026",
+            "url": "https://dev.to/simul_sarker_51af2d373b1b/best-server-side-tracking-tools-2026-3g6i",
+            "description": "The consensus on server-side CAPI tools is a dangerous half-truth. The category repeating More..."
         }
     ]
 }
