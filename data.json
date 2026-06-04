@@ -1,30 +1,30 @@
 {
-    "last_updated": "2026-06-03 03:53:20 UTC",
+    "last_updated": "2026-06-04 03:47:08 UTC",
     "articles": [
         {
-            "title": "The SEO Trick I Found by Accident When Reddit Banned My Links",
-            "url": "https://dev.to/dinall/the-seo-trick-i-found-by-accident-when-reddit-banned-my-links-48jg",
-            "description": "A month into launching my 2nd SaaS, I did what every indie founder does: I rolled out to Reddit...."
+            "title": "Why Your EC Revenue Quietly Shrinks Even When New Customers Keep Coming 2026",
+            "url": "https://dev.to/toshihiro_shishido/why-your-ec-revenue-quietly-shrinks-even-when-new-customers-keep-coming-2026-2j73",
+            "description": "Churn hides behind new customer inflow, making revenue decay invisible until it's too late. Here's how to surface it \u2014 and why voluntary churn and payment-failure churn need completely different fixes."
         },
         {
-            "title": "What 4 months of building in public actually taught me about content",
-            "url": "https://dev.to/harsha_kumar/what-4-months-of-building-in-public-actually-taught-me-about-content-2g98",
-            "description": "I've been tracking which posts drive traffic to XEdge for 4 months now. The pattern is uncomfortably..."
+            "title": "Why Bot Traffic Quietly Wrecks Your Channel Evaluation (and Your Budget)",
+            "url": "https://dev.to/toshihiro_shishido/why-bot-traffic-quietly-wrecks-your-channel-evaluation-and-your-budget-4l7h",
+            "description": "Bots are now 53% of all web traffic, finally surpassing humans, and GA4 only auto-removes the known ones. The unknown bots slip in as referral traffic, get mistaken for your best channel, and bleed your budget. Here's how to spot them with visits times dwell time."
         },
         {
-            "title": "How I'd Get an Indie App's First 100 Users Without Spending a Cent on Ads",
-            "url": "https://dev.to/quangpl/how-id-get-an-indie-apps-first-100-users-without-spending-a-cent-on-ads-4lni",
-            "description": "Shipping the extension is the easy part. Here's the targeting-first playbook for getting your first 100 users with zero ad budget \u2014 niche communities, cold DMs, build-in-public, and the early-reviews flywheel."
+            "title": "I've spent $60k worth of openai tokens via codex building a few apps. How can I now get users?",
+            "url": "https://dev.to/critiquedotsh/ive-spent-60k-worth-of-openai-tokens-via-codex-building-a-few-apps-how-can-i-now-get-users-55e2",
+            "description": "A post by Critique"
         },
         {
-            "title": "Google Rebuilt Its Own Search Business \u2014 Where AI-Era Search Ads Actually Make Money",
-            "url": "https://dev.to/s3atoshi_leading_ai/google-rebuilt-its-own-search-business-where-ai-era-search-ads-actually-make-money-1jdb",
-            "description": "TL;DR   The \"Google is destroying the web that feeds it\" chorus rests on two premises \u2014 AI shrinks..."
+            "title": "Hosted waitlist page vs embed on your site",
+            "url": "https://dev.to/followtheduck/hosted-waitlist-page-vs-embed-on-your-site-15b2",
+            "description": "Pick speed or pick trust \u2014 most founders choose vanity instead."
         },
         {
-            "title": "Best Server-Side Tracking Tools 2026",
-            "url": "https://dev.to/simul_sarker_51af2d373b1b/best-server-side-tracking-tools-2026-3g6i",
-            "description": "The consensus on server-side CAPI tools is a dangerous half-truth. The category repeating More..."
+            "title": "La Nueva Audiencia Est\u00e1 Donde Nadie la Busca: C\u00f3mo Telegram Ads Est\u00e1 Abriendo el Mercado Hispanohablante a los Anunciantes",
+            "url": "https://dev.to/zinoleks/la-nueva-audiencia-esta-donde-nadie-la-busca-como-telegram-ads-esta-abriendo-el-mercado-1i0m",
+            "description": "Estamos acostumbrados a buscar audiencias donde todo ya est\u00e1 saturado. Instagram est\u00e1 sobrecargado de..."
         }
     ]
 }
