@@ -1,30 +1,30 @@
 {
-    "last_updated": "2026-06-04 03:47:08 UTC",
+    "last_updated": "2026-06-05 03:33:26 UTC",
     "articles": [
         {
-            "title": "Why Your EC Revenue Quietly Shrinks Even When New Customers Keep Coming 2026",
-            "url": "https://dev.to/toshihiro_shishido/why-your-ec-revenue-quietly-shrinks-even-when-new-customers-keep-coming-2026-2j73",
-            "description": "Churn hides behind new customer inflow, making revenue decay invisible until it's too late. Here's how to surface it \u2014 and why voluntary churn and payment-failure churn need completely different fixes."
+            "title": "I Didn't Mean To Learn Marketing",
+            "url": "https://dev.to/itsugo/i-didnt-mean-to-learn-marketing-4j2j",
+            "description": "A while back, when I was still job hunting, building mini-projects, and trying to figure out what I..."
         },
         {
-            "title": "Why Bot Traffic Quietly Wrecks Your Channel Evaluation (and Your Budget)",
-            "url": "https://dev.to/toshihiro_shishido/why-bot-traffic-quietly-wrecks-your-channel-evaluation-and-your-budget-4l7h",
-            "description": "Bots are now 53% of all web traffic, finally surpassing humans, and GA4 only auto-removes the known ones. The unknown bots slip in as referral traffic, get mistaken for your best channel, and bleed your budget. Here's how to spot them with visits times dwell time."
+            "title": "Why Bing matters more than Google for ChatGPT visibility",
+            "url": "https://dev.to/brandswarm/why-bing-matters-more-than-google-for-chatgpt-visibility-1i90",
+            "description": "ChatGPT's browsing tool retrieves from Bing's index, not Google's. A brand can dominate Google and still be invisible to ChatGPT. Here's what's different, how to check whether you're in Bing, and the "
         },
         {
-            "title": "I've spent $60k worth of openai tokens via codex building a few apps. How can I now get users?",
-            "url": "https://dev.to/critiquedotsh/ive-spent-60k-worth-of-openai-tokens-via-codex-building-a-few-apps-how-can-i-now-get-users-55e2",
-            "description": "A post by Critique"
+            "title": "Cutting a Channel on Last-Click Once Doubled Their CPA \u2014 Read Attribution Right 2026",
+            "url": "https://dev.to/toshihiro_shishido/cutting-a-channel-on-last-click-once-doubled-their-cpa-read-attribution-right-2026-1bac",
+            "description": "Last-click hands all revenue to the final touch and writes off the upstream that created demand. Here's the real case where pausing podcast ads doubled CPA, why criticism alone is useless, and the simple revenue-first moves that fix it."
         },
         {
-            "title": "Hosted waitlist page vs embed on your site",
-            "url": "https://dev.to/followtheduck/hosted-waitlist-page-vs-embed-on-your-site-15b2",
-            "description": "Pick speed or pick trust \u2014 most founders choose vanity instead."
+            "title": "Your Best-ROAS Channel Might Be Your Worst: Split New vs Returning 2026",
+            "url": "https://dev.to/toshihiro_shishido/your-best-roas-channel-might-be-your-worst-split-new-vs-returning-2026-dpl",
+            "description": "A high-ROAS channel isn't automatically a good one. Platforms optimize toward cheap returning buyers, so high ROAS often hides re-engagement, not acquisition. Here's how to split new from returning with two numbers, and why contribution margin flips the ranking."
         },
         {
-            "title": "La Nueva Audiencia Est\u00e1 Donde Nadie la Busca: C\u00f3mo Telegram Ads Est\u00e1 Abriendo el Mercado Hispanohablante a los Anunciantes",
-            "url": "https://dev.to/zinoleks/la-nueva-audiencia-esta-donde-nadie-la-busca-como-telegram-ads-esta-abriendo-el-mercado-1i0m",
-            "description": "Estamos acostumbrados a buscar audiencias donde todo ya est\u00e1 saturado. Instagram est\u00e1 sobrecargado de..."
+            "title": "Why does a post with 400 impressions get zero replies?",
+            "url": "https://dev.to/arihantdeva/why-does-a-post-with-400-impressions-get-zero-replies-37o9",
+            "description": "Why does a post with 400 impressions get zero replies?  I ran an audit on the last 8 LinkedIn posts..."
         }
     ]
 }
