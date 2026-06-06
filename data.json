@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-06-05 03:33:26 UTC",
+    "last_updated": "2026-06-06 02:54:30 UTC",
     "articles": [
         {
             "title": "I Didn't Mean To Learn Marketing",
@@ -7,24 +7,24 @@
             "description": "A while back, when I was still job hunting, building mini-projects, and trying to figure out what I..."
         },
         {
-            "title": "Why Bing matters more than Google for ChatGPT visibility",
-            "url": "https://dev.to/brandswarm/why-bing-matters-more-than-google-for-chatgpt-visibility-1i90",
-            "description": "ChatGPT's browsing tool retrieves from Bing's index, not Google's. A brand can dominate Google and still be invisible to ChatGPT. Here's what's different, how to check whether you're in Bing, and the "
+            "title": "I Managed a Karaoke Bar with 10 Groups on Weekdays and 15 on Weekends. That Gap Was My First Real Funnel Lesson.",
+            "url": "https://dev.to/naoanao/i-managed-a-karaoke-bar-with-10-groups-on-weekdays-and-15-on-weekends-that-gap-was-my-first-real-2084",
+            "description": "Every weekday, we averaged 10 groups. Every weekend, 15.  Same karaoke bar. Same staff. Same..."
         },
         {
-            "title": "Cutting a Channel on Last-Click Once Doubled Their CPA \u2014 Read Attribution Right 2026",
-            "url": "https://dev.to/toshihiro_shishido/cutting-a-channel-on-last-click-once-doubled-their-cpa-read-attribution-right-2026-1bac",
-            "description": "Last-click hands all revenue to the final touch and writes off the upstream that created demand. Here's the real case where pausing podcast ads doubled CPA, why criticism alone is useless, and the simple revenue-first moves that fix it."
+            "title": "Running Ads But Can't Tell Which Ones Actually Sell? Fix This First 2026",
+            "url": "https://dev.to/toshihiro_shishido/running-ads-but-cant-tell-which-ones-actually-sell-fix-this-first-2026-4g4",
+            "description": "You're getting clicks but can't say which ads drove sales. The cause usually isn't skill \u2014 it's a missing measurement foundation. Here's the gap between platform dashboards and your own revenue, and three simple steps to tell which ads actually sold."
         },
         {
-            "title": "Your Best-ROAS Channel Might Be Your Worst: Split New vs Returning 2026",
-            "url": "https://dev.to/toshihiro_shishido/your-best-roas-channel-might-be-your-worst-split-new-vs-returning-2026-dpl",
-            "description": "A high-ROAS channel isn't automatically a good one. Platforms optimize toward cheap returning buyers, so high ROAS often hides re-engagement, not acquisition. Here's how to split new from returning with two numbers, and why contribution margin flips the ranking."
+            "title": "How I\u2019d Generate Website Development Leads Without Wasting Hours",
+            "url": "https://dev.to/webdevamin/how-id-generate-website-development-leads-without-wasting-hours-27g8",
+            "description": "One thing I learned after working around web design and development is that getting clients is not..."
         },
         {
-            "title": "Why does a post with 400 impressions get zero replies?",
-            "url": "https://dev.to/arihantdeva/why-does-a-post-with-400-impressions-get-zero-replies-37o9",
-            "description": "Why does a post with 400 impressions get zero replies?  I ran an audit on the last 8 LinkedIn posts..."
+            "title": "Product Video API: How APIs Power CSV Video Generation",
+            "url": "https://dev.to/mena234/product-video-api-how-apis-power-csv-video-generation-8e8",
+            "description": "A product video API is one of the most practical video APIs for ecommerce teams because it lets you..."
         }
     ]
 }
