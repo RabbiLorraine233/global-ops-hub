@@ -1,30 +1,30 @@
 {
-    "last_updated": "2026-06-06 02:54:30 UTC",
+    "last_updated": "2026-06-07 03:40:02 UTC",
     "articles": [
         {
-            "title": "I Didn't Mean To Learn Marketing",
-            "url": "https://dev.to/itsugo/i-didnt-mean-to-learn-marketing-4j2j",
-            "description": "A while back, when I was still job hunting, building mini-projects, and trying to figure out what I..."
+            "title": "Chapter 1. Why the CPMO Role\u00a0Now",
+            "url": "https://dev.to/sadhiqali/chapter-1-why-the-cpmo-role-now-5ghn",
+            "description": "1.1 Three Forces Collapsing the Wall For three decades, B2B Enterprise software was built on a clean..."
         },
         {
-            "title": "I Managed a Karaoke Bar with 10 Groups on Weekdays and 15 on Weekends. That Gap Was My First Real Funnel Lesson.",
-            "url": "https://dev.to/naoanao/i-managed-a-karaoke-bar-with-10-groups-on-weekdays-and-15-on-weekends-that-gap-was-my-first-real-2084",
-            "description": "Every weekday, we averaged 10 groups. Every weekend, 15.  Same karaoke bar. Same staff. Same..."
+            "title": "The Narrative Machine: Why Tech Coverage Reads the Way It Does \u2014 and Why Disclosure Rules Underperform",
+            "url": "https://dev.to/tmdlrg/the-narrative-machine-why-tech-coverage-reads-the-way-it-does-and-why-disclosure-rules-agc",
+            "description": "Part 9 of a sourced series on cloud economics. Ads that look like articles, analyst firms paid by the vendors they rate, and trust at 40%. The rules to fix this exist \u2014 and a peer-reviewed study shows why they so often miss."
         },
         {
-            "title": "Running Ads But Can't Tell Which Ones Actually Sell? Fix This First 2026",
-            "url": "https://dev.to/toshihiro_shishido/running-ads-but-cant-tell-which-ones-actually-sell-fix-this-first-2026-4g4",
-            "description": "You're getting clicks but can't say which ads drove sales. The cause usually isn't skill \u2014 it's a missing measurement foundation. Here's the gap between platform dashboards and your own revenue, and three simple steps to tell which ads actually sold."
+            "title": "ChatGPT started recommending my Mac app",
+            "url": "https://dev.to/serhiy_a149d8bc6468aa1a97/chatgpt-started-recommending-my-mac-app-20mi",
+            "description": "I was scrolling the acquisition report for Brow, my Mac app, when I hit a row that wasn't there a few..."
         },
         {
-            "title": "How I\u2019d Generate Website Development Leads Without Wasting Hours",
-            "url": "https://dev.to/webdevamin/how-id-generate-website-development-leads-without-wasting-hours-27g8",
-            "description": "One thing I learned after working around web design and development is that getting clients is not..."
+            "title": "TikTok Shop Video Specs: A Technical Reference for Anyone Building Video Tools",
+            "url": "https://dev.to/northba/tiktok-shop-video-specs-a-technical-reference-for-anyone-building-video-tools-hjk",
+            "description": "TikTok Shop Video Specs: A Technical Reference for Anyone Building Video Tools   If you're..."
         },
         {
-            "title": "Product Video API: How APIs Power CSV Video Generation",
-            "url": "https://dev.to/mena234/product-video-api-how-apis-power-csv-video-generation-8e8",
-            "description": "A product video API is one of the most practical video APIs for ecommerce teams because it lets you..."
+            "title": "Hello DEV Community \ud83d\udc4b I\u2019m Exploring the Future of SEO + AI Search",
+            "url": "https://dev.to/musmanaliseo/hello-dev-community-im-exploring-the-future-of-seo-ai-search-2igc",
+            "description": "Hi everyone,  I joined DEV.to because I want to better understand how developers think about the web,..."
         }
     ]
 }
