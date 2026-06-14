@@ -1,30 +1,30 @@
 {
-    "last_updated": "2026-06-13 03:31:06 UTC",
+    "last_updated": "2026-06-14 03:51:03 UTC",
     "articles": [
         {
-            "title": "Building distribution that can't be ended by one bad day",
-            "url": "https://dev.to/fast2future/building-distribution-that-cant-be-ended-by-one-bad-day-1hg0",
-            "description": "If you're building an audience online, here's a fear worth naming out loud: one platform, on one morning, can decide your clean work looks like spam \u2014 and..."
+            "title": "The TikTok Ad Library API: A Developer's Honest Guide to the DSA Commercial Content Library",
+            "url": "https://dev.to/odeeb/the-tiktok-ad-library-api-a-developers-honest-guide-to-the-dsa-commercial-content-library-5446",
+            "description": "A practical, accurate guide to the TikTok ad library API: what the DSA Commercial Content Library covers, the official researcher path, and how to query it."
         },
         {
-            "title": "I separated writing from scheduling and finally stayed consistent on social",
-            "url": "https://dev.to/johnbuilds/i-separated-writing-from-scheduling-and-finally-stayed-consistent-on-social-13k0",
-            "description": "I market my SaaS through social posts, and for a year my pattern was: strong posting week, busy build..."
+            "title": "Building a Facebook Ad Library Scraper: API Limits and the Real Approach",
+            "url": "https://dev.to/odeeb/building-a-facebook-ad-library-scraper-api-limits-and-the-real-approach-3bad",
+            "description": "Why the official Meta Ad Library API only covers political ads, and how to build a Facebook ad library scraper for commercial competitor ads instead."
         },
         {
-            "title": "What results did you see after you hired a dedicated digital marketing team?",
-            "url": "https://dev.to/leasing_gawler_8e54d7d203/what-results-did-you-see-after-you-hired-a-dedicated-digital-marketing-team-2l2b",
-            "description": "I've noticed that many businesses eventually decide to hire a dedicated digital marketing team when..."
+            "title": "Which sentence on your SaaS homepage is hardest to write?",
+            "url": "https://dev.to/mt211211/which-sentence-on-your-saas-homepage-is-hardest-to-write-1dgl",
+            "description": "Share a difficult SaaS homepage sentence and the positioning decision behind it."
         },
         {
-            "title": "Why Businesses Are Becoming Invisible Online Without Realizing It",
-            "url": "https://dev.to/anitha_ce62c144e93682dfc5/why-businesses-are-becoming-invisible-online-without-realizing-it-20mj",
-            "description": "Introduction  There are many businesses that believe that having a website and a few social media..."
+            "title": "Why Ranking #1 on Google Doesn't Mean AI Cites You",
+            "url": "https://dev.to/c_k_fb750e731394/why-ranking-1-on-google-doesnt-mean-ai-cites-you-4ifk",
+            "description": "A marketing director I talked to recently had a problem she couldn't explain. Her company ranked on..."
         },
         {
-            "title": "The Difference Between Branding and Marketing (And Why Most Businesses Get It Wrong)",
-            "url": "https://dev.to/paula_district11/the-difference-between-branding-and-marketing-and-why-most-businesses-get-it-wrong-5ai4",
-            "description": "By Paula  One of the most common conversations we have with business owners starts like this:  \"We..."
+            "title": "Every SaaS Founder Wants Their First 100 Customers",
+            "url": "https://dev.to/rahuld1590/every-saas-founder-wants-their-first-100-customers-4e05",
+            "description": "The hardest part of building a SaaS isn't creating the product\u2014it's getting people to use it.  Many..."
         }
     ]
 }
