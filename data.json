@@ -1,30 +1,30 @@
 {
-    "last_updated": "2026-06-14 03:51:03 UTC",
+    "last_updated": "2026-06-15 04:03:05 UTC",
     "articles": [
         {
-            "title": "The TikTok Ad Library API: A Developer's Honest Guide to the DSA Commercial Content Library",
-            "url": "https://dev.to/odeeb/the-tiktok-ad-library-api-a-developers-honest-guide-to-the-dsa-commercial-content-library-5446",
-            "description": "A practical, accurate guide to the TikTok ad library API: what the DSA Commercial Content Library covers, the official researcher path, and how to query it."
+            "title": "I tracked every GitHub traffic spike for my open source LLM proxy for 7 weeks. Then I did the exact same thing again, and it worked again.",
+            "url": "https://dev.to/shouvik12/i-tracked-every-github-traffic-spike-for-my-open-source-llm-proxy-for-7-weeks-then-i-did-the-exact-39ln",
+            "description": "When I shipped Trooper, a privacy-aware LLM proxy written in Go, I didn't have a marketing plan. I..."
         },
         {
-            "title": "Building a Facebook Ad Library Scraper: API Limits and the Real Approach",
-            "url": "https://dev.to/odeeb/building-a-facebook-ad-library-scraper-api-limits-and-the-real-approach-3bad",
-            "description": "Why the official Meta Ad Library API only covers political ads, and how to build a Facebook ad library scraper for commercial competitor ads instead."
+            "title": "SEO for Developers: A Practical Checklist That Actually Helps Pages Rank",
+            "url": "https://dev.to/ryan221/seo-for-developers-a-practical-checklist-that-actually-helps-pages-rank-13pf",
+            "description": "Most SEO advice aimed at developers is either too vague or weirdly obsessed with tiny details that..."
         },
         {
-            "title": "Which sentence on your SaaS homepage is hardest to write?",
-            "url": "https://dev.to/mt211211/which-sentence-on-your-saas-homepage-is-hardest-to-write-1dgl",
-            "description": "Share a difficult SaaS homepage sentence and the positioning decision behind it."
+            "title": "From Idea to App Store Screenshots That Convert \u2014 Without a Designer",
+            "url": "https://dev.to/rsalimx/from-idea-to-app-store-screenshots-that-convert-without-a-designer-49p2",
+            "description": "How to make App Store screenshots that drive installs when you can't design: what good ASO visuals actually do, a simple template, and how to generate them from your own screens."
         },
         {
-            "title": "Why Ranking #1 on Google Doesn't Mean AI Cites You",
-            "url": "https://dev.to/c_k_fb750e731394/why-ranking-1-on-google-doesnt-mean-ai-cites-you-4ifk",
-            "description": "A marketing director I talked to recently had a problem she couldn't explain. Her company ranked on..."
+            "title": "Your README is a landing page: a 10-minute adoption audit for developer tools",
+            "url": "https://dev.to/mt211211/your-readme-is-a-landing-page-a-10-minute-adoption-audit-for-developer-tools-250f",
+            "description": "Test"
         },
         {
-            "title": "Every SaaS Founder Wants Their First 100 Customers",
-            "url": "https://dev.to/rahuld1590/every-saas-founder-wants-their-first-100-customers-4e05",
-            "description": "The hardest part of building a SaaS isn't creating the product\u2014it's getting people to use it.  Many..."
+            "title": "Naver catalog quality score: the field that tanked impression share wasn't the one we were optimizing",
+            "url": "https://dev.to/riversea/naver-catalog-quality-score-the-field-that-tanked-impression-share-wasnt-the-one-we-were-57j4",
+            "description": "Which Naver Shopping feed fields actually lift impression share \u2014 and which ones waste your optimization time. From real D2C account data."
         }
     ]
 }
