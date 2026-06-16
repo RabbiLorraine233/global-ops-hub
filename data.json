@@ -1,30 +1,30 @@
 {
-    "last_updated": "2026-06-15 04:03:05 UTC",
+    "last_updated": "2026-06-16 03:53:18 UTC",
     "articles": [
         {
-            "title": "I tracked every GitHub traffic spike for my open source LLM proxy for 7 weeks. Then I did the exact same thing again, and it worked again.",
-            "url": "https://dev.to/shouvik12/i-tracked-every-github-traffic-spike-for-my-open-source-llm-proxy-for-7-weeks-then-i-did-the-exact-39ln",
-            "description": "When I shipped Trooper, a privacy-aware LLM proxy written in Go, I didn't have a marketing plan. I..."
+            "title": "The AI Filter: Why Every B2B GTM Strategy Now Has a Layer You Can't See",
+            "url": "https://dev.to/darkhorsemkdev/the-ai-filter-why-every-b2b-gtm-strategy-now-has-a-layer-you-cant-see-5cgf",
+            "description": "AI systems now sit between your brand and your buyers. Here's what that means for every GTM motion..."
         },
         {
-            "title": "SEO for Developers: A Practical Checklist That Actually Helps Pages Rank",
-            "url": "https://dev.to/ryan221/seo-for-developers-a-practical-checklist-that-actually-helps-pages-rank-13pf",
-            "description": "Most SEO advice aimed at developers is either too vague or weirdly obsessed with tiny details that..."
+            "title": "What Small Mobile Game Teams Should Check When Ad Revenue Drops",
+            "url": "https://dev.to/mmyy/what-small-mobile-game-teams-should-check-when-ad-revenue-drops-2i6a",
+            "description": "When ad revenue drops in a mobile game, the first reaction is usually:  \u201cDid eCPM drop?\u201d  But in..."
         },
         {
-            "title": "From Idea to App Store Screenshots That Convert \u2014 Without a Designer",
-            "url": "https://dev.to/rsalimx/from-idea-to-app-store-screenshots-that-convert-without-a-designer-49p2",
-            "description": "How to make App Store screenshots that drive installs when you can't design: what good ASO visuals actually do, a simple template, and how to generate them from your own screens."
+            "title": "SEO and GEO in 2026: A Practical Growth Strategy for Small SaaS Projects",
+            "url": "https://dev.to/eugene_maiorov/seo-and-geo-in-2026-a-practical-growth-strategy-for-small-saas-projects-4pc6",
+            "description": "I think a lot of indie makers still treat SEO like it is only about keywords, backlinks, and..."
         },
         {
-            "title": "Your README is a landing page: a 10-minute adoption audit for developer tools",
-            "url": "https://dev.to/mt211211/your-readme-is-a-landing-page-a-10-minute-adoption-audit-for-developer-tools-250f",
-            "description": "Test"
+            "title": "What are Chinese consumers saying about your brand? Your Western tools can't tell you",
+            "url": "https://dev.to/sami_8858131362756585e4f4/what-are-chinese-consumers-saying-about-your-brand-your-western-tools-cant-tell-you-5hci",
+            "description": "If your brand sells in China \u2014 or you're an analyst covering one that does \u2014 open your..."
         },
         {
-            "title": "Naver catalog quality score: the field that tanked impression share wasn't the one we were optimizing",
-            "url": "https://dev.to/riversea/naver-catalog-quality-score-the-field-that-tanked-impression-share-wasnt-the-one-we-were-57j4",
-            "description": "Which Naver Shopping feed fields actually lift impression share \u2014 and which ones waste your optimization time. From real D2C account data."
+            "title": "I Fired My $2,000 Video Editor and Replaced Them With a URL Bar",
+            "url": "https://dev.to/shenhuang/i-fired-my-2000-video-editor-and-replaced-them-with-a-url-bar-2jg1",
+            "description": "For about a year, my ad-creative process looked like this: brief a freelance editor, wait four days,..."
         }
     ]
 }
