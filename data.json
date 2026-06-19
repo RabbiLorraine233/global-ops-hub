@@ -1,30 +1,30 @@
 {
-    "last_updated": "2026-06-18 03:41:57 UTC",
+    "last_updated": "2026-06-19 04:05:04 UTC",
     "articles": [
         {
-            "title": "Why I Stopped Trusting MVP Advice as an Indie Developer (And What I Ask Instead)",
-            "url": "https://dev.to/dove_young_b560f22098d0b5/why-i-stopped-trusting-mvp-advice-as-an-indie-developer-and-what-i-ask-instead-1khc",
-            "description": "When your market already has competitors, \"validate first\" might be the worst advice you can..."
+            "title": "Naver Brand Search shows 5 \u20139 LTV:CAC and it's the least useful number on my dashboard",
+            "url": "https://dev.to/riversea/naver-brand-search-shows-5x-9x-ltvcac-and-its-the-least-useful-number-on-my-dashboard-j1e",
+            "description": "The 3\u00d7 LTV:CAC rule sounds clean until you run it across Meta, Naver, and Google simultaneously on Korean D2C accounts."
         },
         {
-            "title": "Meta descriptions in 2026: what actually works",
-            "url": "https://dev.to/ctrlzed/meta-descriptions-in-2026-what-actually-works-1mid",
-            "description": "Originally published on metablast.dev.     Open your landing page source and find the &lt;meta..."
+            "title": "Weaponized DMCA: How Fake Copyright Strikes Bury Competitors in Google \u2014 and How to Fight Back",
+            "url": "https://dev.to/mrtd/weaponized-dmca-how-fake-copyright-strikes-bury-competitors-in-google-and-how-to-fight-back-36np",
+            "description": "A bogus DMCA notice can knock a rival off Google for days with no court and no evidence \u2014 as a 2026 case against Press Gazette showed. Here'"
         },
         {
-            "title": "25\u201335% of our best customers were aging out of retargeting before we ever showed them an ad",
-            "url": "https://dev.to/riversea/25-35-of-our-best-customers-were-aging-out-of-retargeting-before-we-ever-showed-them-an-ad-3c1m",
-            "description": "7-day retargeting windows feel safe but routinely cut off 40-60% of real converters in categories with long purchase cycles."
+            "title": "Why Frontend Performance Directly Affects Revenue",
+            "url": "https://dev.to/ufomadu_nnaemeka_89/why-frontend-performance-directly-affects-revenue-48dj",
+            "description": "How faster websites increase conversions, improve SEO rankings, reduce customer acquisition costs,..."
         },
         {
-            "title": "# How GitHub Star Exchange Platforms Work",
-            "url": "https://dev.to/realmaileditor/-how-github-star-exchange-platforms-work-md",
-            "description": "How GitHub Star Exchange Platforms Work   Launching a new GitHub project is harder than it..."
+            "title": "Shopify SEO Execution Order: Why Sequence Beats Tactics Every Time",
+            "url": "https://dev.to/new_seastech_6e0103843a9/shopify-seo-execution-order-why-sequence-beats-tactics-every-time-2mp5",
+            "description": "The 4-step Shopify SEO sequence that compounds into real revenue. Technical fixes first, backlinks last\u2014here's why order matters."
         },
         {
-            "title": "Chapter 1. Why the CPMO Role\u00a0Now",
-            "url": "https://dev.to/sadhiqali/chapter-1-why-the-cpmo-role-now-1ncb",
-            "description": "1.1 Three Forces Collapsing the Wall For three decades, B2B Enterprise software was built on a clean..."
+            "title": "Claude Skills for SEO, GEO and Developer Marketing: The Complete 2026 Guide",
+            "url": "https://dev.to/mayur_rathore_b735983a686/claude-skills-for-seo-geo-and-developer-marketing-the-complete-2026-guide-3699",
+            "description": "Introduction   If your DevTool, AI-agent platform, or B2B SaaS product is not showing up in..."
         }
     ]
 }
