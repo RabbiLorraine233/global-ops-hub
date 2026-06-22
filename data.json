@@ -1,30 +1,30 @@
 {
-    "last_updated": "2026-06-21 03:58:41 UTC",
+    "last_updated": "2026-06-22 03:59:40 UTC",
     "articles": [
         {
-            "title": "How I Built a $4,000/Month Distribution System",
-            "url": "https://dev.to/kalashvasaniya/how-i-built-a-4000month-distribution-system-4lnb",
-            "description": "For years, my biggest problem wasn\u2019t code.  It wasn\u2019t design.  It wasn\u2019t even the product.  It was..."
+            "title": "Clean UTM links with Cyrillic transliteration (and a zero-dep marketing-metrics lib)",
+            "url": "https://dev.to/__68870d298/clean-utm-links-with-cyrillic-transliteration-and-a-zero-dep-marketing-metrics-lib-2511",
+            "description": "If you run ads in CIS markets, you have seen this in your analytics..."
         },
         {
-            "title": "A Simple Manual AI Visibility Audit for B2B SaaS",
-            "url": "https://dev.to/rahul_bhadja/a-simple-manual-ai-visibility-audit-for-b2b-saas-1d9p",
-            "description": "If you work on B2B growth, SEO, or content, there is a new question worth adding to your..."
+            "title": "The Meta exclusion layer most accounts skip is costing them 8-15% of lookalike impressions",
+            "url": "https://dev.to/riversea/the-meta-exclusion-layer-most-accounts-skip-is-costing-them-8-15-of-lookalike-impressions-21ig",
+            "description": "Four exclusion layers that cut wasted Meta spend on D2C accounts \u2014 from recent buyers to lookalike bleed."
         },
         {
-            "title": "Under the Hood: How Top Real Estate SEO Companies in India Build PropTech & GEO-Ready Pipelines",
-            "url": "https://dev.to/viresh/under-the-hood-how-top-real-estate-seo-companies-in-india-build-proptech-geo-ready-pipelines-2ni",
-            "description": "As developers, we often view SEO as a \"marketing problem.\" We add some meta tags, configure a..."
+            "title": "I localized my app store screenshots into 8 languages. Here's what actually moved installs",
+            "url": "https://dev.to/rishbz/i-localized-my-app-store-screenshots-into-8-languages-heres-what-actually-moved-installs-3e4c",
+            "description": "I shipped my app in English, watched it do fine in the US and UK, and assumed the rest of the world..."
         },
         {
-            "title": "How to Write a Landing Page That Converts",
-            "url": "https://dev.to/sclaydon/how-to-write-a-landing-page-that-converts-4ogf",
-            "description": "How to Write a Landing Page That Converts   You built the thing. You're proud of it. So you..."
+            "title": "How to Do Customer Segmentation for a Startup",
+            "url": "https://dev.to/sclaydon/how-to-do-customer-segmentation-for-a-startup-1bi6",
+            "description": "How to Do Customer Segmentation for a Startup   Most first-time founders try to sell to..."
         },
         {
-            "title": "SEO for Indie Hackers: Ranking for Niche Keywords Like 'Catholic AI App' on Apple and Google Play Stores",
-            "url": "https://dev.to/mactrixxr/seo-for-indie-hackers-ranking-for-niche-keywords-like-catholic-ai-app-on-apple-and-google-play-2cdj",
-            "description": "SEO for Indie Hackers: Ranking for Niche Keywords Like 'Catholic AI App' on Apple and Google..."
+            "title": "How AI engines actually decide what to cite (ChatGPT, Perplexity, Gemini, AI Overviews)",
+            "url": "https://dev.to/nitishyadav/how-ai-engines-actually-decide-what-to-cite-chatgpt-perplexity-gemini-ai-overviews-6bh",
+            "description": "Everyone keeps asking \"is SEO dead.\" Wrong question.  AI search doesn't show ten blue links. It..."
         }
     ]
 }
