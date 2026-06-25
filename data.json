@@ -1,30 +1,30 @@
 {
-    "last_updated": "2026-06-24 03:23:12 UTC",
+    "last_updated": "2026-06-25 02:57:53 UTC",
     "articles": [
         {
-            "title": "Clean UTM links with Cyrillic transliteration (and a zero-dep marketing-metrics lib)",
-            "url": "https://dev.to/__68870d298/clean-utm-links-with-cyrillic-transliteration-and-a-zero-dep-marketing-metrics-lib-2511",
-            "description": "If you run ads in CIS markets, you have seen this in your analytics..."
+            "title": "DRY Principles for Fashion: How Developers Can Simplify Their Style",
+            "url": "https://dev.to/davitparkltd/dry-principles-for-fashion-how-developers-can-simplify-their-style-2pjm",
+            "description": "As developers, we're constantly optimizing systems. We refactor code, remove unnecessary complexity,..."
         },
         {
-            "title": "The Meta exclusion layer most accounts skip is costing them 8-15% of lookalike impressions",
-            "url": "https://dev.to/riversea/the-meta-exclusion-layer-most-accounts-skip-is-costing-them-8-15-of-lookalike-impressions-21ig",
-            "description": "Four exclusion layers that cut wasted Meta spend on D2C accounts \u2014 from recent buyers to lookalike bleed."
+            "title": "tCPA thrashed for 35 days straight \u2014 then beat manual CPC by 35% on cold prospecting",
+            "url": "https://dev.to/riversea/tcpa-thrashed-for-35-days-straight-then-beat-manual-cpc-by-35-on-cold-prospecting-3e54",
+            "description": "tCPA doesn't stabilize overnight. Here's what 90 days of holdout testing revealed about signal warmup timelines and survival tactics."
         },
         {
-            "title": "I localized my app store screenshots into 8 languages. Here's what actually moved installs",
-            "url": "https://dev.to/rishbz/i-localized-my-app-store-screenshots-into-8-languages-heres-what-actually-moved-installs-3e4c",
-            "description": "I shipped my app in English, watched it do fine in the US and UK, and assumed the rest of the world..."
+            "title": "How to Build a WhatsApp Customer Service System: Multi-Agent, Auto-Reply & Conversation Management",
+            "url": "https://dev.to/llbhbtopd92d/how-to-build-a-whatsapp-customer-service-system-multi-agent-auto-reply-conversation-management-20g5",
+            "description": "How to build an enterprise WhatsApp customer service system: multi-agent collaboration, conversation..."
         },
         {
-            "title": "How to Do Customer Segmentation for a Startup",
-            "url": "https://dev.to/sclaydon/how-to-do-customer-segmentation-for-a-startup-1bi6",
-            "description": "How to Do Customer Segmentation for a Startup   Most first-time founders try to sell to..."
+            "title": "C\u00f3mo crear un sistema de atenci\u00f3n al cliente con WhatsApp: multiagente, respuestas autom\u00e1ticas y gesti\u00f3n de conversaciones",
+            "url": "https://dev.to/llbhbtopd92d/como-crear-un-sistema-de-atencion-al-cliente-con-whatsapp-multiagente-respuestas-automaticas-y-4n99",
+            "description": "C\u00f3mo crear un sistema empresarial de atenci\u00f3n al cliente con WhatsApp: colaboraci\u00f3n multiagente,..."
         },
         {
-            "title": "How AI engines actually decide what to cite (ChatGPT, Perplexity, Gemini, AI Overviews)",
-            "url": "https://dev.to/nitishyadav/how-ai-engines-actually-decide-what-to-cite-chatgpt-perplexity-gemini-ai-overviews-6bh",
-            "description": "Everyone keeps asking \"is SEO dead.\" Wrong question.  AI search doesn't show ten blue links. It..."
+            "title": "Chapter 6. Stage 1 - Founding",
+            "url": "https://dev.to/sadhiqali/chapter-6-stage-1-founding-3fdi",
+            "description": "6.0 What Founding Means The Founding stage is the period from the company's first line of code to its..."
         }
     ]
 }
