@@ -1,30 +1,30 @@
 {
-    "last_updated": "2026-06-26 03:29:20 UTC",
+    "last_updated": "2026-06-27 02:53:01 UTC",
     "articles": [
         {
-            "title": "DRY Principles for Fashion: How Developers Can Simplify Their Style",
-            "url": "https://dev.to/davitparkltd/dry-principles-for-fashion-how-developers-can-simplify-their-style-2pjm",
-            "description": "As developers, we're constantly optimizing systems. We refactor code, remove unnecessary complexity,..."
+            "title": "From Viral Vanity Metrics to Real Conversions: Lessons from My Product Launch",
+            "url": "https://dev.to/amrzlabs/from-viral-vanity-metrics-to-real-conversions-lessons-from-my-product-launch-1kfe",
+            "description": "I\u2019ve learned some hard truths during the launch of my project, Butterfly CSS. If you are building in..."
         },
         {
-            "title": "tCPA thrashed for 35 days straight \u2014 then beat manual CPC by 35% on cold prospecting",
-            "url": "https://dev.to/riversea/tcpa-thrashed-for-35-days-straight-then-beat-manual-cpc-by-35-on-cold-prospecting-3e54",
-            "description": "tCPA doesn't stabilize overnight. Here's what 90 days of holdout testing revealed about signal warmup timelines and survival tactics."
+            "title": "Content creation is easy.\n\nCreating content that actually grows a business is the hard part.\n\nThat's why I'm here.\n\nTo explore AI, SEO, branding, and content strategy while sharing practical marketing insights from my journey building TheCreationX.",
+            "url": "https://dev.to/thecreation_x/content-creation-is-easy-creating-content-that-actually-grows-a-business-is-the-hard-part-3337",
+            "description": "A post by TheCreationX"
         },
         {
-            "title": "How to Build a WhatsApp Customer Service System: Multi-Agent, Auto-Reply & Conversation Management",
-            "url": "https://dev.to/llbhbtopd92d/how-to-build-a-whatsapp-customer-service-system-multi-agent-auto-reply-conversation-management-20g5",
-            "description": "How to build an enterprise WhatsApp customer service system: multi-agent collaboration, conversation..."
+            "title": "ASC burned \u20a93M in 72 hours on out-of-stock SKUs \u2014 here's the structural fix",
+            "url": "https://dev.to/riversea/asc-burned-w3m-in-72-hours-on-out-of-stock-skus-heres-the-structural-fix-3nba",
+            "description": "Advantage+ Shopping isn't broken at scale \u2014 but it breaks in specific, predictable ways most teams only find after wasting a month."
         },
         {
-            "title": "C\u00f3mo crear un sistema de atenci\u00f3n al cliente con WhatsApp: multiagente, respuestas autom\u00e1ticas y gesti\u00f3n de conversaciones",
-            "url": "https://dev.to/llbhbtopd92d/como-crear-un-sistema-de-atencion-al-cliente-con-whatsapp-multiagente-respuestas-automaticas-y-4n99",
-            "description": "C\u00f3mo crear un sistema empresarial de atenci\u00f3n al cliente con WhatsApp: colaboraci\u00f3n multiagente,..."
+            "title": "Adding one field to our CAPI payload moved match rate from 66% to 79% overnight",
+            "url": "https://dev.to/riversea/adding-one-field-to-our-capi-payload-moved-match-rate-from-66-to-79-overnight-22mo",
+            "description": "CAPI match rate below 70% quietly degrades Meta delivery. Here's the exact audit I run and how I recover rate fast."
         },
         {
-            "title": "Chapter 6. Stage 1 - Founding",
-            "url": "https://dev.to/sadhiqali/chapter-6-stage-1-founding-3fdi",
-            "description": "6.0 What Founding Means The Founding stage is the period from the company's first line of code to its..."
+            "title": "How to show up in AI search in South Africa",
+            "url": "https://dev.to/zaiqltd/how-to-show-up-in-ai-search-in-south-africa-111h",
+            "description": "This is a cross-post. You can read the full version on Medium.  If you run a business in South..."
         }
     ]
 }
