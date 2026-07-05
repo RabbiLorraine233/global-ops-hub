@@ -1,30 +1,30 @@
 {
-    "last_updated": "2026-07-04 02:40:26 UTC",
+    "last_updated": "2026-07-05 02:51:23 UTC",
     "articles": [
         {
-            "title": "Why AI Search Is Changing the Way We Create Content",
-            "url": "https://dev.to/lyee_blair_a5996ecaf9cd2b/why-ai-search-is-changing-the-way-we-create-content-1c70",
-            "description": "Traditional SEO isn't disappearing\u2014but it's no longer the whole story.  For years, digital marketers..."
+            "title": "Chapter 9. Stage 4 - Scale",
+            "url": "https://dev.to/sadhiqali/chapter-9-stage-4-scale-1fi3",
+            "description": "9.0 What Scale Means The Scale stage begins when a B2B Enterprise company has built a working engine ..."
         },
         {
-            "title": "How AI Can Help Local Businesses Get More Customers Without Hiring an Agency",
-            "url": "https://dev.to/happyspace_one/how-ai-can-help-local-businesses-get-more-customers-without-hiring-an-agency-4nil",
-            "description": "Most local businesses do not have a marketing problem. They have a time problem.  The owner knows..."
+            "title": "Exporting any Bluesky profile's followers with the open API",
+            "url": "https://dev.to/cooki/exporting-any-bluesky-profiles-followers-with-the-open-api-3flb",
+            "description": "Every big social network locks audience data behind auth walls and anti-bot systems. Bluesky went the..."
         },
         {
-            "title": "Aurelian Heritage Intelligent Alliance Office: The critical tax-exempt status of 501(c)(3) organizations",
-            "url": "https://dev.to/aurelianheritageoffice/aurelian-heritage-intelligent-alliance-office-the-critical-tax-exempt-status-of-501c3-3hb6",
-            "description": "A 501(c)(3) organization refers to corporations, trusts, unincorporated associations, or other types..."
+            "title": "Nobody is monitoring Bluesky, so I built a mentions scraper for it",
+            "url": "https://dev.to/cooki/nobody-is-monitoring-bluesky-so-i-built-a-mentions-scraper-for-it-19mi",
+            "description": "I wanted to know when people mention a brand on Bluesky. Simple ask. Turns out Brandwatch, Mention,..."
         },
         {
-            "title": "Rethinking Enterprise AI: Why GraphRAG is the Missing Link",
-            "url": "https://dev.to/imhyke/rethinking-enterprise-ai-why-graphrag-is-the-missing-link-311d",
-            "description": "Part 1: Social Listening     I was reading a paper called \"A Graph RAG Approach to Enhance..."
+            "title": "Checking whether ChatGPT actually recommends your product",
+            "url": "https://dev.to/cooki/checking-whether-chatgpt-actually-recommends-your-product-dh8",
+            "description": "Ask ChatGPT or Perplexity \"what's the best note-taking app\" and you get a shortlist of three to five..."
         },
         {
-            "title": "Stop sending emails the old way.",
-            "url": "https://dev.to/jashank_06/stop-sending-emails-the-old-way-15on",
-            "description": "Email Sender Pro now features Scheduled &amp; recurring campaigns...  Download"
+            "title": "The Ghost in the Machine: Why Your Offline Conversion Uploads Are Failing and What to Do About It",
+            "url": "https://dev.to/simul_sarker_51af2d373b1b/the-ghost-in-the-machine-why-your-offline-conversion-uploads-are-failing-and-what-to-do-about-it-b47",
+            "description": "The offline conversion upload sits at the end of a pipeline, so everyone diagnoses it last. By the..."
         }
     ]
 }
