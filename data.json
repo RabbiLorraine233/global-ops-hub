@@ -1,30 +1,30 @@
 {
-    "last_updated": "2026-07-06 02:57:58 UTC",
+    "last_updated": "2026-07-07 02:51:57 UTC",
     "articles": [
         {
-            "title": "Chapter 9. Stage 4 - Scale",
-            "url": "https://dev.to/sadhiqali/chapter-9-stage-4-scale-1fi3",
-            "description": "9.0 What Scale Means The Scale stage begins when a B2B Enterprise company has built a working engine ..."
+            "title": "Building a Plugin-Free Newsletter Popup on WordPress: Custom REST Endpoint Mailchimp API v3",
+            "url": "https://dev.to/highcenburg/building-a-plugin-free-newsletter-popup-on-wordpress-custom-rest-endpoint-mailchimp-api-v3-a1m",
+            "description": "Building a Plugin-Free Newsletter Popup on WordPress: Custom REST Endpoint \u2192 Mailchimp API..."
         },
         {
-            "title": "Exporting any Bluesky profile's followers with the open API",
-            "url": "https://dev.to/cooki/exporting-any-bluesky-profiles-followers-with-the-open-api-3flb",
-            "description": "Every big social network locks audience data behind auth walls and anti-bot systems. Bluesky went the..."
+            "title": "A self-cleaning Product Hunt teaser banner in Blazor WASM \u2014 100 lines, auto-hides after launch, GA4-tracked",
+            "url": "https://dev.to/chetansanghani/a-self-cleaning-product-hunt-teaser-banner-in-blazor-wasm-100-lines-auto-hides-after-launch-186p",
+            "description": "Turning organic site traffic into a Product Hunt follower funnel without disrupting the main content \u2014 a time-bounded, dismissible Blazor component with kill-date logic, GA4 telemetry, and matching CSS patterns. Real code from SmartTaxCalc.in's 14 July launch prep."
         },
         {
-            "title": "Nobody is monitoring Bluesky, so I built a mentions scraper for it",
-            "url": "https://dev.to/cooki/nobody-is-monitoring-bluesky-so-i-built-a-mentions-scraper-for-it-19mi",
-            "description": "I wanted to know when people mention a brand on Bluesky. Simple ask. Turns out Brandwatch, Mention,..."
+            "title": "C\u00f3mo probar emails de referidos en tu SaaS",
+            "url": "https://dev.to/hannahdev56/como-probar-emails-de-referidos-en-tu-saas-60c",
+            "description": "Los emails de referidos parecen simples hasta que empiezas a medirlos en serio. En un SaaS peque\u00f1o vi..."
         },
         {
-            "title": "Checking whether ChatGPT actually recommends your product",
-            "url": "https://dev.to/cooki/checking-whether-chatgpt-actually-recommends-your-product-dh8",
-            "description": "Ask ChatGPT or Perplexity \"what's the best note-taking app\" and you get a shortlist of three to five..."
+            "title": "How we built a live has_active_wishlist flag for Shopify (and why it was harder than it looks)",
+            "url": "https://dev.to/emailmarketingtools/how-we-built-a-live-hasactivewishlist-flag-for-shopify-and-why-it-was-harder-than-it-looks-5h70",
+            "description": "Most Shopify wishlist apps have the same quiet flaw: the wishlist data lives in the app, and the..."
         },
         {
-            "title": "The Ghost in the Machine: Why Your Offline Conversion Uploads Are Failing and What to Do About It",
-            "url": "https://dev.to/simul_sarker_51af2d373b1b/the-ghost-in-the-machine-why-your-offline-conversion-uploads-are-failing-and-what-to-do-about-it-b47",
-            "description": "The offline conversion upload sits at the end of a pipeline, so everyone diagnoses it last. By the..."
+            "title": "What 400 viral LinkedIn posts taught me: 16 hook formulas, now open-source Claude Code skills",
+            "url": "https://dev.to/sergebulaev/what-400-viral-linkedin-posts-taught-me-16-hook-formulas-now-open-source-claude-code-skills-316m",
+            "description": "I spent a month doing something slightly unhinged: I pulled 400 above-average LinkedIn posts across..."
         }
     ]
 }
