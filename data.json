@@ -1,30 +1,30 @@
 {
-    "last_updated": "2026-07-09 02:45:13 UTC",
+    "last_updated": "2026-07-10 02:48:17 UTC",
     "articles": [
         {
-            "title": "Building a Plugin-Free Newsletter Popup on WordPress: Custom REST Endpoint Mailchimp API v3",
-            "url": "https://dev.to/highcenburg/building-a-plugin-free-newsletter-popup-on-wordpress-custom-rest-endpoint-mailchimp-api-v3-a1m",
-            "description": "Building a Plugin-Free Newsletter Popup on WordPress: Custom REST Endpoint \u2192 Mailchimp API..."
+            "title": "We asked AI to recommend tools in three SaaS categories 20 times each, and the shape of the answers told us which ones a challenger can still win",
+            "url": "https://dev.to/bersyn/we-asked-ai-to-recommend-tools-in-three-saas-categories-20-times-each-and-the-shape-of-the-answers-2fec",
+            "description": "More buyers now ask ChatGPT, Claude, Perplexity, or Gemini for a tool before they ever open Google...."
         },
         {
-            "title": "A self-cleaning Product Hunt teaser banner in Blazor WASM \u2014 100 lines, auto-hides after launch, GA4-tracked",
-            "url": "https://dev.to/chetansanghani/a-self-cleaning-product-hunt-teaser-banner-in-blazor-wasm-100-lines-auto-hides-after-launch-186p",
-            "description": "Turning organic site traffic into a Product Hunt follower funnel without disrupting the main content \u2014 a time-bounded, dismissible Blazor component with kill-date logic, GA4 telemetry, and matching CSS patterns. Real code from SmartTaxCalc.in's 14 July launch prep."
+            "title": "We reworded one buyer question and watched a shared inbox tool drop from 10 out of 10 to zero on ChatGPT",
+            "url": "https://dev.to/bersyn/we-reworded-one-buyer-question-and-watched-a-shared-inbox-tool-drop-from-10-out-of-10-to-zero-on-17f5",
+            "description": "More and more buyers ask an AI model before they ever open Google. So we started measuring what..."
         },
         {
-            "title": "C\u00f3mo probar emails de referidos en tu SaaS",
-            "url": "https://dev.to/hannahdev56/como-probar-emails-de-referidos-en-tu-saas-60c",
-            "description": "Los emails de referidos parecen simples hasta que empiezas a medirlos en serio. En un SaaS peque\u00f1o vi..."
+            "title": "ASO Is Product Work, Not Marketing \u2014 A Developer's Case",
+            "url": "https://dev.to/mohamed_haizoun_ca3869828/aso-is-product-work-not-marketing-a-developers-case-42pe",
+            "description": "In most teams, App Store Optimization lands on whoever owns \"marketing.\" The keywords get handed to a..."
         },
         {
-            "title": "How we built a live has_active_wishlist flag for Shopify (and why it was harder than it looks)",
-            "url": "https://dev.to/emailmarketingtools/how-we-built-a-live-hasactivewishlist-flag-for-shopify-and-why-it-was-harder-than-it-looks-5h70",
-            "description": "Most Shopify wishlist apps have the same quiet flaw: the wishlist data lives in the app, and the..."
+            "title": "90% of marketers waste time on email. Here's how to stop.",
+            "url": "https://dev.to/jashank_06/90-of-marketers-waste-time-on-email-heres-how-to-stop-2oh2",
+            "description": "Email Sender Pro now features Glassmorphism premium UI...  Download"
         },
         {
-            "title": "What 400 viral LinkedIn posts taught me: 16 hook formulas, now open-source Claude Code skills",
-            "url": "https://dev.to/sergebulaev/what-400-viral-linkedin-posts-taught-me-16-hook-formulas-now-open-source-claude-code-skills-316m",
-            "description": "I spent a month doing something slightly unhinged: I pulled 400 above-average LinkedIn posts across..."
+            "title": "The two-job problem: why solo founders quit posting by week two",
+            "url": "https://dev.to/johnbuilds/the-two-job-problem-why-solo-founders-quit-posting-by-week-two-1ole",
+            "description": "Every \"post every day\" attempt I made died the same way: strong Monday, decent Tuesday, gone by..."
         }
     ]
 }
