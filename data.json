@@ -1,30 +1,30 @@
 {
-    "last_updated": "2026-07-10 02:48:17 UTC",
+    "last_updated": "2026-07-11 02:26:33 UTC",
     "articles": [
         {
-            "title": "We asked AI to recommend tools in three SaaS categories 20 times each, and the shape of the answers told us which ones a challenger can still win",
-            "url": "https://dev.to/bersyn/we-asked-ai-to-recommend-tools-in-three-saas-categories-20-times-each-and-the-shape-of-the-answers-2fec",
-            "description": "More buyers now ask ChatGPT, Claude, Perplexity, or Gemini for a tool before they ever open Google...."
+            "title": "Building a growth system driven by campaigns, content, and applied intelligence.",
+            "url": "https://dev.to/devdenner/building-a-growth-system-driven-by-campaigns-content-and-applied-intelligence-4hao",
+            "description": "Lately, I\u2019ve been thinking a lot about a recurring pain point in digital projects: many individuals..."
         },
         {
-            "title": "We reworded one buyer question and watched a shared inbox tool drop from 10 out of 10 to zero on ChatGPT",
-            "url": "https://dev.to/bersyn/we-reworded-one-buyer-question-and-watched-a-shared-inbox-tool-drop-from-10-out-of-10-to-zero-on-17f5",
-            "description": "More and more buyers ask an AI model before they ever open Google. So we started measuring what..."
+            "title": "6 Technical SEO Problems That Also Hide You From ChatGPT, Copilot and Perplexity",
+            "url": "https://dev.to/a3e_ecosystem/6-technical-seo-problems-that-also-hide-you-from-chatgpt-copilot-and-perplexity-42e8",
+            "description": "Search used to mean ten blue links. Now a growing share of buying questions get answered by ChatGPT,..."
         },
         {
-            "title": "ASO Is Product Work, Not Marketing \u2014 A Developer's Case",
-            "url": "https://dev.to/mohamed_haizoun_ca3869828/aso-is-product-work-not-marketing-a-developers-case-42pe",
-            "description": "In most teams, App Store Optimization lands on whoever owns \"marketing.\" The keywords get handed to a..."
+            "title": "We asked AI for the best CRM 80 times. Attio, the CRM startups love, was named twice.",
+            "url": "https://dev.to/bersyn/we-asked-ai-for-the-best-crm-80-times-attio-the-crm-startups-love-was-named-twice-1k6",
+            "description": "Attio, the startup-darling CRM, was named 2 times out of 80 by AI. Who it names instead, and why. Run your category free."
         },
         {
-            "title": "90% of marketers waste time on email. Here's how to stop.",
-            "url": "https://dev.to/jashank_06/90-of-marketers-waste-time-on-email-heres-how-to-stop-2oh2",
-            "description": "Email Sender Pro now features Glassmorphism premium UI...  Download"
+            "title": "Google Search Console \u0e40\u0e1b\u0e34\u0e14\u0e15\u0e31\u0e27 \"Platform Properties\" \u2014 \u0e27\u0e31\u0e14\u0e1c\u0e25\u0e04\u0e2d\u0e19\u0e40\u0e17\u0e19\u0e15\u0e4c\u0e08\u0e32\u0e01 Instagram, TikTok, X, YouTube \u0e44\u0e14\u0e49\u0e41\u0e25\u0e49\u0e27",
+            "url": "https://dev.to/sarantoon/google-search-console-epidtaw-platform-properties-wadphlkhnethntcchaak-instagram-tiktok-x-47ph",
+            "description": "Google Search Console \u0e40\u0e1b\u0e34\u0e14\u0e15\u0e31\u0e27 \"Platform Properties\" \u2014 \u0e27\u0e31\u0e14\u0e1c\u0e25\u0e04\u0e2d\u0e19\u0e40\u0e17\u0e19\u0e15\u0e4c\u0e08\u0e32\u0e01 Instagram, TikTok, X,..."
         },
         {
-            "title": "The two-job problem: why solo founders quit posting by week two",
-            "url": "https://dev.to/johnbuilds/the-two-job-problem-why-solo-founders-quit-posting-by-week-two-1ole",
-            "description": "Every \"post every day\" attempt I made died the same way: strong Monday, decent Tuesday, gone by..."
+            "title": "The Shift Is Not From SEO to AI. It Is From Ranking to Recommendation.",
+            "url": "https://dev.to/ajay_singh_c27ffdd42ec242/the-shift-is-not-from-seo-to-ai-it-is-from-ranking-to-recommendation-5889",
+            "description": "The old search journey gave people options. They clicked, compared, and made up their own minds. AI..."
         }
     ]
 }
