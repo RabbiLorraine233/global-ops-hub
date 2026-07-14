@@ -1,30 +1,30 @@
 {
-    "last_updated": "2026-07-12 02:31:53 UTC",
+    "last_updated": "2026-07-14 02:12:51 UTC",
     "articles": [
         {
-            "title": "Building a growth system driven by campaigns, content, and applied intelligence.",
-            "url": "https://dev.to/devdenner/building-a-growth-system-driven-by-campaigns-content-and-applied-intelligence-4hao",
-            "description": "Lately, I\u2019ve been thinking a lot about a recurring pain point in digital projects: many individuals..."
+            "title": "AEO vs. SEO: How I'm Optimizing for AI Answer Engines Instead of Just Google",
+            "url": "https://dev.to/kingform242/aeo-vs-seo-how-im-optimizing-for-ai-answer-engines-instead-of-just-google-595b",
+            "description": "For most of the last decade, my job as an SEO specialist had a clear north star: rank on the first..."
         },
         {
-            "title": "6 Technical SEO Problems That Also Hide You From ChatGPT, Copilot and Perplexity",
-            "url": "https://dev.to/a3e_ecosystem/6-technical-seo-problems-that-also-hide-you-from-chatgpt-copilot-and-perplexity-42e8",
-            "description": "Search used to mean ten blue links. Now a growing share of buying questions get answered by ChatGPT,..."
+            "title": "Your AI visibility number is lying to you",
+            "url": "https://dev.to/dovzhikova/your-ai-visibility-number-is-lying-to-you-45gl",
+            "description": "I ran 1,790 measurements across five AI engines \u2014 for my own company and for a devtools category with..."
         },
         {
-            "title": "We asked AI for the best CRM 80 times. Attio, the CRM startups love, was named twice.",
-            "url": "https://dev.to/bersyn/we-asked-ai-for-the-best-crm-80-times-attio-the-crm-startups-love-was-named-twice-1k6",
-            "description": "Attio, the startup-darling CRM, was named 2 times out of 80 by AI. Who it names instead, and why. Run your category free."
+            "title": "Building a Compliant Marketing Stack: Automation for Regulated Clients",
+            "url": "https://dev.to/tridigiam/building-a-compliant-marketing-stack-automation-for-regulated-clients-4cfd",
+            "description": "Most martech advice assumes you can bolt together whatever SaaS tools are trending and iterate fast...."
         },
         {
-            "title": "Google Search Console \u0e40\u0e1b\u0e34\u0e14\u0e15\u0e31\u0e27 \"Platform Properties\" \u2014 \u0e27\u0e31\u0e14\u0e1c\u0e25\u0e04\u0e2d\u0e19\u0e40\u0e17\u0e19\u0e15\u0e4c\u0e08\u0e32\u0e01 Instagram, TikTok, X, YouTube \u0e44\u0e14\u0e49\u0e41\u0e25\u0e49\u0e27",
-            "url": "https://dev.to/sarantoon/google-search-console-epidtaw-platform-properties-wadphlkhnethntcchaak-instagram-tiktok-x-47ph",
-            "description": "Google Search Console \u0e40\u0e1b\u0e34\u0e14\u0e15\u0e31\u0e27 \"Platform Properties\" \u2014 \u0e27\u0e31\u0e14\u0e1c\u0e25\u0e04\u0e2d\u0e19\u0e40\u0e17\u0e19\u0e15\u0e4c\u0e08\u0e32\u0e01 Instagram, TikTok, X,..."
+            "title": "How Talpiotech Makes Your Brand Visible Inside AI Answers",
+            "url": "https://dev.to/lyee_blair_a5996ecaf9cd2b/how-talpiotech-makes-your-brand-visible-inside-ai-answers-dll",
+            "description": "Search behavior is changing faster than most brands realize.  A potential customer may no longer..."
         },
         {
-            "title": "The Shift Is Not From SEO to AI. It Is From Ranking to Recommendation.",
-            "url": "https://dev.to/ajay_singh_c27ffdd42ec242/the-shift-is-not-from-seo-to-ai-it-is-from-ranking-to-recommendation-5889",
-            "description": "The old search journey gave people options. They clicked, compared, and made up their own minds. AI..."
+            "title": "Build a Content Scheduler for Social Media",
+            "url": "https://dev.to/qingluan/build-a-content-scheduler-for-social-media-b0l",
+            "description": "Build a Content Scheduler for Social Media            Plan Your Social Media Content in..."
         }
     ]
 }
