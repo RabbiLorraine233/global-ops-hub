@@ -1,30 +1,30 @@
 {
-    "last_updated": "2026-07-15 02:10:53 UTC",
+    "last_updated": "2026-07-16 02:23:49 UTC",
     "articles": [
         {
-            "title": "AEO vs. SEO: How I'm Optimizing for AI Answer Engines Instead of Just Google",
-            "url": "https://dev.to/kingform242/aeo-vs-seo-how-im-optimizing-for-ai-answer-engines-instead-of-just-google-595b",
-            "description": "For most of the last decade, my job as an SEO specialist had a clear north star: rank on the first..."
+            "title": "Your Docs Are Doing Your Marketing Now (Whether You Like It Or Not)",
+            "url": "https://dev.to/karasilv/your-docs-are-doing-your-marketing-now-whether-you-like-it-or-not-4bmj",
+            "description": "TL;DR -   Nobody has one AI visibility number. You have six (one per model), and they disagree \u2014..."
         },
         {
-            "title": "Your AI visibility number is lying to you",
-            "url": "https://dev.to/dovzhikova/your-ai-visibility-number-is-lying-to-you-45gl",
-            "description": "I ran 1,790 measurements across five AI engines \u2014 for my own company and for a devtools category with..."
+            "title": "I checked which tools AI search recommends across 9 SaaS categories \u2014 most brands are invisible",
+            "url": "https://dev.to/willylam2222/i-checked-which-tools-ai-search-recommends-across-9-saas-categories-most-brands-are-invisible-d2n",
+            "description": "When someone asks ChatGPT, Perplexity, or Gemini \"what's the best tool for X?\", they don't get ten..."
         },
         {
-            "title": "Building a Compliant Marketing Stack: Automation for Regulated Clients",
-            "url": "https://dev.to/tridigiam/building-a-compliant-marketing-stack-automation-for-regulated-clients-4cfd",
-            "description": "Most martech advice assumes you can bolt together whatever SaaS tools are trending and iterate fast...."
+            "title": "8 More n8n Workflow Templates for Marketing Agencies",
+            "url": "https://dev.to/tridigiam/8-more-n8n-workflow-templates-for-marketing-agencies-583c",
+            "description": "We build and sell n8n workflow templates on the side of running a marketing agency. Back in July we..."
         },
         {
-            "title": "How Talpiotech Makes Your Brand Visible Inside AI Answers",
-            "url": "https://dev.to/lyee_blair_a5996ecaf9cd2b/how-talpiotech-makes-your-brand-visible-inside-ai-answers-dll",
-            "description": "Search behavior is changing faster than most brands realize.  A potential customer may no longer..."
+            "title": "Stop guessing your SEO: A developer's guide to programmatic content",
+            "url": "https://dev.to/ntty/stop-guessing-your-seo-a-developers-guide-to-programmatic-content-4oo2",
+            "description": "Moving beyond manual blog posts. How to build a content engine that scales using structured data and automated workflows."
         },
         {
-            "title": "Build a Content Scheduler for Social Media",
-            "url": "https://dev.to/qingluan/build-a-content-scheduler-for-social-media-b0l",
-            "description": "Build a Content Scheduler for Social Media            Plan Your Social Media Content in..."
+            "title": "AI Is Not Replacing Marketers. It Is Replacing Marketers With No Taste.",
+            "url": "https://dev.to/paula_district11/ai-is-not-replacing-marketers-it-is-replacing-marketers-with-no-taste-35oe",
+            "description": "There's a specific kind of marketer who should be nervous right now. Not the strategist. Not the..."
         }
     ]
 }
