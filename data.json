@@ -1,30 +1,30 @@
 {
-    "last_updated": "2026-07-17 02:26:49 UTC",
+    "last_updated": "2026-07-18 02:11:44 UTC",
     "articles": [
         {
-            "title": "Your Docs Are Doing Your Marketing Now (Whether You Like It Or Not)",
-            "url": "https://dev.to/karasilv/your-docs-are-doing-your-marketing-now-whether-you-like-it-or-not-4bmj",
-            "description": "TL;DR -   Nobody has one AI visibility number. You have six (one per model), and they disagree \u2014..."
+            "title": "Where to get a 3Blue1Brown style explainer video made, and how to judge one",
+            "url": "https://dev.to/toritic/where-to-get-a-3blue1brown-style-explainer-video-made-and-how-to-judge-one-585b",
+            "description": "If you want an explainer video in the calm, diagram-driven 3Blue1Brown style, you have three real..."
         },
         {
-            "title": "I checked which tools AI search recommends across 9 SaaS categories \u2014 most brands are invisible",
-            "url": "https://dev.to/willylam2222/i-checked-which-tools-ai-search-recommends-across-9-saas-categories-most-brands-are-invisible-d2n",
-            "description": "When someone asks ChatGPT, Perplexity, or Gemini \"what's the best tool for X?\", they don't get ten..."
+            "title": "How AI Search Is Changing Marketing in 2026",
+            "url": "https://dev.to/kislay/how-ai-search-is-changing-marketing-in-2026-344f",
+            "description": "Picture this.  You write a brilliant article. It ranks number one on Google. You check your traffic..."
         },
         {
-            "title": "8 More n8n Workflow Templates for Marketing Agencies",
-            "url": "https://dev.to/tridigiam/8-more-n8n-workflow-templates-for-marketing-agencies-583c",
-            "description": "We build and sell n8n workflow templates on the side of running a marketing agency. Back in July we..."
+            "title": "A required field made my AI fabricate statistics",
+            "url": "https://dev.to/martinschenk/a-required-field-made-my-ai-fabricate-statistics-5d9m",
+            "description": "I run a pipeline that generates explainer articles. LLM in the middle, structured output, published..."
         },
         {
-            "title": "Stop guessing your SEO: A developer's guide to programmatic content",
-            "url": "https://dev.to/ntty/stop-guessing-your-seo-a-developers-guide-to-programmatic-content-4oo2",
-            "description": "Moving beyond manual blog posts. How to build a content engine that scales using structured data and automated workflows."
+            "title": "SaaS: emails win-back sin mezclar cohortes",
+            "url": "https://dev.to/hannahdev56/saas-emails-win-back-sin-mezclar-cohortes-2910",
+            "description": "Gu\u00eda simple para probar emails win-back en SaaS sin mezclar cohortes, inboxes ni m\u00e9tricas de reactivaci\u00f3n."
         },
         {
-            "title": "AI Is Not Replacing Marketers. It Is Replacing Marketers With No Taste.",
-            "url": "https://dev.to/paula_district11/ai-is-not-replacing-marketers-it-is-replacing-marketers-with-no-taste-35oe",
-            "description": "There's a specific kind of marketer who should be nervous right now. Not the strategist. Not the..."
+            "title": "Best Marketing Channels for Indie Developers (That Actually Move the Needle)",
+            "url": "https://dev.to/ahmet_saridag_9232a4f1a24/best-marketing-channels-for-indie-developers-that-actually-move-the-needle-155m",
+            "description": "Marketing is the part most indie developers put off until after launch, and by then they're already..."
         }
     ]
 }
