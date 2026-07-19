@@ -1,30 +1,30 @@
 {
-    "last_updated": "2026-07-18 02:11:44 UTC",
+    "last_updated": "2026-07-19 02:28:52 UTC",
     "articles": [
         {
-            "title": "Where to get a 3Blue1Brown style explainer video made, and how to judge one",
-            "url": "https://dev.to/toritic/where-to-get-a-3blue1brown-style-explainer-video-made-and-how-to-judge-one-585b",
-            "description": "If you want an explainer video in the calm, diagram-driven 3Blue1Brown style, you have three real..."
+            "title": "Write Your Exceptions Down",
+            "url": "https://dev.to/nabbilkhan/write-your-exceptions-down-3c7g",
+            "description": "RETSBAN, my primary agent, runs local models only: no cloud, no fallback. Then one agent needed a frontier model, and I learned what an unwritten exce"
         },
         {
-            "title": "How AI Search Is Changing Marketing in 2026",
-            "url": "https://dev.to/kislay/how-ai-search-is-changing-marketing-in-2026-344f",
-            "description": "Picture this.  You write a brilliant article. It ranks number one on Google. You check your traffic..."
+            "title": "Watching or Working",
+            "url": "https://dev.to/nabbilkhan/watching-or-working-f0n",
+            "description": "The prettiest thing I ever shipped is a website nobody works in. The ugliest thing I run is the console that makes the money. That is not neglect. Tha"
         },
         {
-            "title": "A required field made my AI fabricate statistics",
-            "url": "https://dev.to/martinschenk/a-required-field-made-my-ai-fabricate-statistics-5d9m",
-            "description": "I run a pipeline that generates explainer articles. LLM in the middle, structured output, published..."
+            "title": "How to Get Your Brand Cited by ChatGPT and Perplexity (Measured, Not Guessed)",
+            "url": "https://dev.to/toritic/how-to-get-your-brand-cited-by-chatgpt-and-perplexity-measured-not-guessed-2g74",
+            "description": "A practical, measurement-first guide to getting cited by answer engines, with real Perplexity citation data showing why it is per-question."
         },
         {
-            "title": "SaaS: emails win-back sin mezclar cohortes",
-            "url": "https://dev.to/hannahdev56/saas-emails-win-back-sin-mezclar-cohortes-2910",
-            "description": "Gu\u00eda simple para probar emails win-back en SaaS sin mezclar cohortes, inboxes ni m\u00e9tricas de reactivaci\u00f3n."
+            "title": "Make the Fake Impossible",
+            "url": "https://dev.to/nabbilkhan/make-the-fake-impossible-5g07",
+            "description": "Nobody can tell a good fake from real patient data by looking. So every patient in my public demo is a computer science pioneer with an ID that cannot"
         },
         {
-            "title": "Best Marketing Channels for Indie Developers (That Actually Move the Needle)",
-            "url": "https://dev.to/ahmet_saridag_9232a4f1a24/best-marketing-channels-for-indie-developers-that-actually-move-the-needle-155m",
-            "description": "Marketing is the part most indie developers put off until after launch, and by then they're already..."
+            "title": "Go-to-Market for Technical Founders: A Launch Checklist",
+            "url": "https://dev.to/senternet/go-to-market-for-technical-founders-a-launch-checklist-4i8e",
+            "description": "Technical founders ship, then go quiet. This is the go-to-market checklist we run for our own products: positioning, launch surfaces, SEO, and the measurement to prove it worked."
         }
     ]
 }
