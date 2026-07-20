@@ -1,30 +1,30 @@
 {
-    "last_updated": "2026-07-19 02:28:52 UTC",
+    "last_updated": "2026-07-20 03:34:37 UTC",
     "articles": [
+        {
+            "title": "Stop promising people outcomes. Give them one.",
+            "url": "https://dev.to/fast2future/stop-promising-people-outcomes-give-them-one-4dn2",
+            "description": "Give people a free, working result instead of promising one. It earns trust faster than any claim, costs little if you build it to be reused, and stays honest."
+        },
+        {
+            "title": "How to Build Consistent UTM Links for Marketing Campaigns",
+            "url": "https://dev.to/tool_mint_05313cff538fa82/how-to-build-consistent-utm-links-for-marketing-campaigns-323",
+            "description": "UTM parameters are one of the simplest ways to understand where website traffic comes from.  They..."
+        },
+        {
+            "title": "How to Build a Launch Plan Template for Startups That Actually Gets Used",
+            "url": "https://dev.to/ahmet_saridag_9232a4f1a24/how-to-build-a-launch-plan-template-for-startups-that-actually-gets-used-5i2",
+            "description": "Originally published at boldpilot.club  Most startup launches fail not because the product is wrong,..."
+        },
+        {
+            "title": "\u300a\u5185\u5bb9\u521b\u4f5c\u7684\u201c\u5927\u5757\u5207\u76d8\u201d\u5b9a\u5f8b\uff1a\u4e3b\u9898\u8d8a\u5927\uff0c\u9876\u90e8\u7684\u738b\u5ea7\u8d8a\u9ad8\u300b",
+            "url": "https://dev.to/bluelobster_agent/nei-rong-chuang-zuo-de-da-kuai-qie-pan-ding-lu-zhu-ti-yue-da-ding-bu-de-wang-zuo-yue-gao--cka",
+            "description": "\u5728\u89c6\u9891\u521b\u4f5c\u7684\u6d69\u701a\u7ea2\u6d77\u4e2d\uff0c\u65e0\u6570\u521b\u4f5c\u8005\u90fd\u5728\u82e6\u82e6\u5bfb\u89c5\u7206\u6b3e\u7684\u5bc6\u7801\u3002\u6709\u4eba\u94bb\u7814\u51b7\u95e8\u730e\u5947\uff0c\u6709\u4eba\u6df1\u8015\u5782\u76f4\u7ec6\u5206\uff0c\u4f46\u5982\u679c\u6211\u4eec\u62c9\u5f00\u4e0a\u5e1d\u89c6\u89d2\uff0c\u53bb\u5ba1\u89c6\u5168\u7403YouTube\u3001TikTok\u7b49\u5e73\u53f0\u4e0a\u6700\u5934\u90e8\u7684\u521b\u4f5c\u8005\uff0c\u5c31\u4f1a\u53d1\u73b0\u4e00\u4e2a\u6b8b\u9177\u800c\u771f\u5b9e..."
+        },
         {
             "title": "Write Your Exceptions Down",
             "url": "https://dev.to/nabbilkhan/write-your-exceptions-down-3c7g",
             "description": "RETSBAN, my primary agent, runs local models only: no cloud, no fallback. Then one agent needed a frontier model, and I learned what an unwritten exce"
-        },
-        {
-            "title": "Watching or Working",
-            "url": "https://dev.to/nabbilkhan/watching-or-working-f0n",
-            "description": "The prettiest thing I ever shipped is a website nobody works in. The ugliest thing I run is the console that makes the money. That is not neglect. Tha"
-        },
-        {
-            "title": "How to Get Your Brand Cited by ChatGPT and Perplexity (Measured, Not Guessed)",
-            "url": "https://dev.to/toritic/how-to-get-your-brand-cited-by-chatgpt-and-perplexity-measured-not-guessed-2g74",
-            "description": "A practical, measurement-first guide to getting cited by answer engines, with real Perplexity citation data showing why it is per-question."
-        },
-        {
-            "title": "Make the Fake Impossible",
-            "url": "https://dev.to/nabbilkhan/make-the-fake-impossible-5g07",
-            "description": "Nobody can tell a good fake from real patient data by looking. So every patient in my public demo is a computer science pioneer with an ID that cannot"
-        },
-        {
-            "title": "Go-to-Market for Technical Founders: A Launch Checklist",
-            "url": "https://dev.to/senternet/go-to-market-for-technical-founders-a-launch-checklist-4i8e",
-            "description": "Technical founders ship, then go quiet. This is the go-to-market checklist we run for our own products: positioning, launch surfaces, SEO, and the measurement to prove it worked."
         }
     ]
 }
