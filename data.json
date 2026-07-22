@@ -1,30 +1,30 @@
 {
-    "last_updated": "2026-07-21 02:27:25 UTC",
+    "last_updated": "2026-07-22 02:26:14 UTC",
     "articles": [
         {
-            "title": "Building Production AI Agents for Marketing Agencies in 2026",
-            "url": "https://dev.to/zaid_hossain_4815f41c7d7c/building-production-ai-agents-for-marketing-agencies-in-2026-1lgk",
-            "description": "The shift from text generation to autonomous marketing systems   If you're still using..."
+            "title": "How Trial-to-Paid Conversion Tactics Shape the Way Software Gets Evaluated",
+            "url": "https://dev.to/faiso0ole/how-trial-to-paid-conversion-tactics-shape-the-way-software-gets-evaluated-1g6d",
+            "description": "Free trials are designed with a specific business goal: converting as many trial users as possible..."
         },
         {
-            "title": "How to Promote a Side Project Without a Marketing Budget or an Audience",
-            "url": "https://dev.to/ahmet_saridag_9232a4f1a24/how-to-promote-a-side-project-without-a-marketing-budget-or-an-audience-46di",
-            "description": "Originally published at boldpilot.club           The Promotion Problem Most Side Projects Actually..."
+            "title": "Anatomy of the AI \"The Gartner Hype Cycle\"",
+            "url": "https://dev.to/leolanese/anatomy-of-the-ai-the-gartner-hype-cycle-2bem",
+            "description": "Anatomy of the AI \"Hijacking the Gartner Hype Cycle\"   CEO marketing speech: Overpromise,..."
         },
         {
-            "title": "Reading a comment section like an analyst: coordination signals without calling anyone a bot",
-            "url": "https://dev.to/mentat_logic/reading-a-comment-section-like-an-analyst-coordination-signals-without-calling-anyone-a-bot-24b6",
-            "description": "Advertisers ask it after every campaign: \"did my budget buy real engagement?\" PR teams ask it during..."
+            "title": "I read X's open-sourced ranking algorithm. Here's what actually decides who sees your posts.",
+            "url": "https://dev.to/codedbytan/i-read-xs-open-sourced-ranking-algorithm-heres-what-actually-decides-who-sees-your-posts-2411",
+            "description": "I ship products solo, which means I'm also the marketing department, which I'm bad at. So instead of..."
         },
         {
-            "title": "7 Sources Hiding Inside Your Direct Traffic",
-            "url": "https://dev.to/zenovay/7-sources-hiding-inside-your-direct-traffic-5h5o",
-            "description": "Direct traffic rarely means someone typed your URL. Here are seven common sources that analytics tools often classify as Direct\u2014and how to recover the missing context."
+            "title": "Agentic Loops in Marketing: Lessons From Microsoft's C++ Demo",
+            "url": "https://dev.to/tran_tienvan_e45fc26d655/agentic-loops-in-marketing-lessons-from-microsofts-c-demo-5fm5",
+            "description": "Microsoft showed agentic loops on real C++ projects. Vanaxity explains the signals, guardrails, and review gates marketing teams need for safe autonomy."
         },
         {
-            "title": "Before you make something easier to change, decide what's allowed to change",
-            "url": "https://dev.to/fast2future/before-you-make-something-easier-to-change-decide-whats-allowed-to-change-520o",
-            "description": "A tempting upgrade almost slips through too quickly \u2014 and the small rule worth handing to anyone building anything that's meant to keep getting better."
+            "title": "The cheapest productivity upgrade: writing down what you already tried",
+            "url": "https://dev.to/fast2future/the-cheapest-productivity-upgrade-writing-down-what-you-already-tried-23fp",
+            "description": "One plain file that lists every experiment you've finished \u2014 what you tried, what happened, and the one-line lesson \u2014 so you stop quietly re-deriving the same dead ends."
         }
     ]
 }
