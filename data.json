@@ -1,30 +1,30 @@
 {
-    "last_updated": "2026-07-22 02:26:14 UTC",
+    "last_updated": "2026-07-23 02:30:51 UTC",
     "articles": [
+        {
+            "title": "Timeout Tuning for Proxy-Routed Requests: Why Default Values Are Almost Always Wrong",
+            "url": "https://dev.to/sota_support_d59338642d7b/timeout-tuning-for-proxy-routed-requests-why-default-values-are-almost-always-wrong-oeo",
+            "description": "Most HTTP libraries ship with a default timeout somewhere between \"none at all\" and \"way too..."
+        },
+        {
+            "title": "Boni CPaaS: How to Run Compliant WhatsApp and Email Campaigns at Scale in India",
+            "url": "https://dev.to/animesh_gupta_705a19fc6f8/boni-cpaas-how-to-run-compliant-whatsapp-and-email-campaigns-at-scale-in-india-ijd",
+            "description": "What Boni CPaaS Is   Boni CPaaS is a campaign and outreach platform from Boni \u2014 the same..."
+        },
+        {
+            "title": "We built free marketing calculators that show you the benchmark, not just the number",
+            "url": "https://dev.to/brynbyron/we-built-free-marketing-calculators-that-show-you-the-benchmark-not-just-the-number-5a08",
+            "description": "My partner and I kept running into the same wall trying to get a handle on our own marketing. You..."
+        },
+        {
+            "title": "The most valuable habit when you publish a lot: correct yourself in public",
+            "url": "https://dev.to/fast2future/the-most-valuable-habit-when-you-publish-a-lot-correct-yourself-in-public-2jgl",
+            "description": "Short answer (for the skimmers and the AI engines): The more you publish, the more past claims you carry. A standing habit of checking new work against your own past claims \u2014 and fixing them out loud \u2014 is one of the cheapest trust-building moves the\u2026"
+        },
         {
             "title": "How Trial-to-Paid Conversion Tactics Shape the Way Software Gets Evaluated",
             "url": "https://dev.to/faiso0ole/how-trial-to-paid-conversion-tactics-shape-the-way-software-gets-evaluated-1g6d",
             "description": "Free trials are designed with a specific business goal: converting as many trial users as possible..."
-        },
-        {
-            "title": "Anatomy of the AI \"The Gartner Hype Cycle\"",
-            "url": "https://dev.to/leolanese/anatomy-of-the-ai-the-gartner-hype-cycle-2bem",
-            "description": "Anatomy of the AI \"Hijacking the Gartner Hype Cycle\"   CEO marketing speech: Overpromise,..."
-        },
-        {
-            "title": "I read X's open-sourced ranking algorithm. Here's what actually decides who sees your posts.",
-            "url": "https://dev.to/codedbytan/i-read-xs-open-sourced-ranking-algorithm-heres-what-actually-decides-who-sees-your-posts-2411",
-            "description": "I ship products solo, which means I'm also the marketing department, which I'm bad at. So instead of..."
-        },
-        {
-            "title": "Agentic Loops in Marketing: Lessons From Microsoft's C++ Demo",
-            "url": "https://dev.to/tran_tienvan_e45fc26d655/agentic-loops-in-marketing-lessons-from-microsofts-c-demo-5fm5",
-            "description": "Microsoft showed agentic loops on real C++ projects. Vanaxity explains the signals, guardrails, and review gates marketing teams need for safe autonomy."
-        },
-        {
-            "title": "The cheapest productivity upgrade: writing down what you already tried",
-            "url": "https://dev.to/fast2future/the-cheapest-productivity-upgrade-writing-down-what-you-already-tried-23fp",
-            "description": "One plain file that lists every experiment you've finished \u2014 what you tried, what happened, and the one-line lesson \u2014 so you stop quietly re-deriving the same dead ends."
         }
     ]
 }
