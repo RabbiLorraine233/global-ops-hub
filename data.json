@@ -1,30 +1,30 @@
 {
-    "last_updated": "2026-07-25 02:26:22 UTC",
+    "last_updated": "2026-07-26 02:32:58 UTC",
     "articles": [
         {
-            "title": "Timeout Tuning for Proxy-Routed Requests: Why Default Values Are Almost Always Wrong",
-            "url": "https://dev.to/sota_support_d59338642d7b/timeout-tuning-for-proxy-routed-requests-why-default-values-are-almost-always-wrong-oeo",
-            "description": "Most HTTP libraries ship with a default timeout somewhere between \"none at all\" and \"way too..."
+            "title": "The number that lied: rebuilding a usage meter that actually helps",
+            "url": "https://dev.to/martinschenk/the-number-that-lied-rebuilding-a-usage-meter-that-actually-helps-4792",
+            "description": "Short version first, for anyone who just wants the outcome: I run Claude Code on a flat monthly..."
         },
         {
-            "title": "Boni CPaaS: How to Run Compliant WhatsApp and Email Campaigns at Scale in India",
-            "url": "https://dev.to/animesh_gupta_705a19fc6f8/boni-cpaas-how-to-run-compliant-whatsapp-and-email-campaigns-at-scale-in-india-ijd",
-            "description": "What Boni CPaaS Is   Boni CPaaS is a campaign and outreach platform from Boni \u2014 the same..."
+            "title": "The Day I Stopped Treating SEO as a Marketing Task",
+            "url": "https://dev.to/ummu_shabinak_30f7ce635b/the-day-i-stopped-treating-seo-as-a-marketing-task-4hho",
+            "description": "When I first started working on websites, I believed my job ended once everything looked..."
         },
         {
-            "title": "We built free marketing calculators that show you the benchmark, not just the number",
-            "url": "https://dev.to/brynbyron/we-built-free-marketing-calculators-that-show-you-the-benchmark-not-just-the-number-5a08",
-            "description": "My partner and I kept running into the same wall trying to get a handle on our own marketing. You..."
+            "title": "How AIoT Is Transforming Powder Metallurgy Manufacturing With Real-Time Intelligence?",
+            "url": "https://dev.to/abu_anasreal_d3e445e60c4/how-aiot-is-transforming-powder-metallurgy-manufacturing-with-real-time-intelligence-2gii",
+            "description": "How AIoT Is Transforming Powder Metallurgy Manufacturing With Real-Time Intelligence  Manufacturing..."
         },
         {
-            "title": "The most valuable habit when you publish a lot: correct yourself in public",
-            "url": "https://dev.to/fast2future/the-most-valuable-habit-when-you-publish-a-lot-correct-yourself-in-public-2jgl",
-            "description": "Short answer (for the skimmers and the AI engines): The more you publish, the more past claims you carry. A standing habit of checking new work against your own past claims \u2014 and fixing them out loud \u2014 is one of the cheapest trust-building moves the\u2026"
+            "title": "The Percentage and the Thing It Measures: Reading Dementia Headlines Honestly",
+            "url": "https://dev.to/fast2future/the-percentage-and-the-thing-it-measures-reading-dementia-headlines-honestly-56hf",
+            "description": "Two of the most-quoted numbers in dementia prevention \u2014 '48% less cognitive decline' and '27% slowing' \u2014 are both real, and both mean something much smaller than they sound. A short guide to the arithmetic."
         },
         {
-            "title": "How Trial-to-Paid Conversion Tactics Shape the Way Software Gets Evaluated",
-            "url": "https://dev.to/faiso0ole/how-trial-to-paid-conversion-tactics-shape-the-way-software-gets-evaluated-1g6d",
-            "description": "Free trials are designed with a specific business goal: converting as many trial users as possible..."
+            "title": "Digital Media Marketing: A Simple Guide for Beginners",
+            "url": "https://dev.to/technosterstech/digital-media-marketing-a-simple-guide-for-beginners-46jl",
+            "description": "Digital Media Marketing: A Simple..."
         }
     ]
 }
