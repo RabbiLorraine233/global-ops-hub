@@ -1,30 +1,30 @@
 {
-    "last_updated": "2026-07-27 02:40:56 UTC",
+    "last_updated": "2026-07-28 02:21:04 UTC",
     "articles": [
         {
-            "title": "The number that lied: rebuilding a usage meter that actually helps",
-            "url": "https://dev.to/martinschenk/the-number-that-lied-rebuilding-a-usage-meter-that-actually-helps-4792",
-            "description": "Short version first, for anyone who just wants the outcome: I run Claude Code on a flat monthly..."
+            "title": "How to tell an ad experiment is unwinnable before you run it",
+            "url": "https://dev.to/ivitskiy/how-to-tell-an-ad-experiment-is-unwinnable-before-you-run-it-21c4",
+            "description": "Most experiments that come back \"no clear winner\" were unwinnable on the day they launched. The data..."
         },
         {
-            "title": "The Day I Stopped Treating SEO as a Marketing Task",
-            "url": "https://dev.to/ummu_shabinak_30f7ce635b/the-day-i-stopped-treating-seo-as-a-marketing-task-4hho",
-            "description": "When I first started working on websites, I believed my job ended once everything looked..."
+            "title": "QR Codes for Small Business Marketing",
+            "url": "https://dev.to/yasmin_ef94e70ba69cb284c5/qr-codes-for-small-business-marketing-7h5",
+            "description": "How Small Businesses Can Leverage QR Codes for Offline Marketing   {{REF=platform-name}}  QR..."
         },
         {
-            "title": "How AIoT Is Transforming Powder Metallurgy Manufacturing With Real-Time Intelligence?",
-            "url": "https://dev.to/abu_anasreal_d3e445e60c4/how-aiot-is-transforming-powder-metallurgy-manufacturing-with-real-time-intelligence-2gii",
-            "description": "How AIoT Is Transforming Powder Metallurgy Manufacturing With Real-Time Intelligence  Manufacturing..."
+            "title": "The Distribution Gap Killing Early-Stage AI Startups.",
+            "url": "https://dev.to/richie_shammah/the-distribution-gap-killing-early-stage-ai-startups-22gi",
+            "description": "Why shipping faster isn\u2019t enough when nobody discovers your product.  Every week, dozens of AI..."
         },
         {
-            "title": "The Percentage and the Thing It Measures: Reading Dementia Headlines Honestly",
-            "url": "https://dev.to/fast2future/the-percentage-and-the-thing-it-measures-reading-dementia-headlines-honestly-56hf",
-            "description": "Two of the most-quoted numbers in dementia prevention \u2014 '48% less cognitive decline' and '27% slowing' \u2014 are both real, and both mean something much smaller than they sound. A short guide to the arithmetic."
+            "title": "What You Need to Know About AI Content Generation Before Sending a Prompt",
+            "url": "https://dev.to/axelfreeman/what-you-need-to-know-about-ai-content-generation-before-sending-a-prompt-3g2",
+            "description": "Originally published at axelfreeman.com  The copywriter profession is dying. We'll see a dramatic..."
         },
         {
-            "title": "Digital Media Marketing: A Simple Guide for Beginners",
-            "url": "https://dev.to/technosterstech/digital-media-marketing-a-simple-guide-for-beginners-46jl",
-            "description": "Digital Media Marketing: A Simple..."
+            "title": "We Audited Our Marketing Site Against Our Codebase and Found 6 Lies",
+            "url": "https://dev.to/omar_bni_f6856a8bb0e021e9/we-audited-our-marketing-site-against-our-codebase-and-found-6-lies-2bal",
+            "description": "Last week we put our marketing site in one tab and our codebase in the other and checked every..."
         }
     ]
 }
