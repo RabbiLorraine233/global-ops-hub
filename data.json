@@ -1,30 +1,30 @@
 {
-    "last_updated": "2026-07-30 02:07:33 UTC",
+    "last_updated": "2026-07-31 02:34:51 UTC",
     "articles": [
         {
-            "title": "How to tell an ad experiment is unwinnable before you run it",
-            "url": "https://dev.to/ivitskiy/how-to-tell-an-ad-experiment-is-unwinnable-before-you-run-it-21c4",
-            "description": "Most experiments that come back \"no clear winner\" were unwinnable on the day they launched. The data..."
+            "title": "Your Documentation Is Your Funnel (And the One Page Nobody Writes)",
+            "url": "https://dev.to/web3advisory/your-documentation-is-your-funnel-and-the-one-page-nobody-writes-cn2",
+            "description": "For a developer product the docs are the funnel, not the landing page. The four-part structure, the details that actually decide it, and the highest-leverage page most companies never write."
         },
         {
-            "title": "QR Codes for Small Business Marketing",
-            "url": "https://dev.to/yasmin_ef94e70ba69cb284c5/qr-codes-for-small-business-marketing-7h5",
-            "description": "How Small Businesses Can Leverage QR Codes for Offline Marketing   {{REF=platform-name}}  QR..."
+            "title": "Why Nobody Is Buying: What Solo Founders Actually Need to Do",
+            "url": "https://dev.to/axelfreeman/why-nobody-is-buying-what-solo-founders-actually-need-to-do-4jf9",
+            "description": "Why Nobody Is Buying: What Solo Founders Actually Need to Do   You built a product. Wrote..."
         },
         {
-            "title": "The Distribution Gap Killing Early-Stage AI Startups.",
-            "url": "https://dev.to/richie_shammah/the-distribution-gap-killing-early-stage-ai-startups-22gi",
-            "description": "Why shipping faster isn\u2019t enough when nobody discovers your product.  Every week, dozens of AI..."
+            "title": "I Built a Restaurant Lead List for My Agency in 10 Minutes with UberEats Data",
+            "url": "https://dev.to/bflores/i-built-a-restaurant-lead-list-for-my-agency-in-10-minutes-with-ubereats-data-g78",
+            "description": "If you sell to restaurants \u2014 delivery tech, marketing services, POS systems, loyalty apps \u2014 you..."
         },
         {
-            "title": "What You Need to Know About AI Content Generation Before Sending a Prompt",
-            "url": "https://dev.to/axelfreeman/what-you-need-to-know-about-ai-content-generation-before-sending-a-prompt-3g2",
-            "description": "Originally published at axelfreeman.com  The copywriter profession is dying. We'll see a dramatic..."
+            "title": "Del escepticismo a los primeros clientes potenciales: c\u00f3mo una marca local de M\u00e9xico lanz\u00f3 Telegram Ads y qu\u00e9 ocurri\u00f3 despu\u00e9s",
+            "url": "https://dev.to/wipstrik_man83/del-escepticismo-a-los-primeros-clientes-potenciales-como-una-marca-local-de-mexico-lanzo-telegram-n1f",
+            "description": "Queremos contar una historia que comienza igual que la mayor\u00eda de las historias sobre el lanzamiento..."
         },
         {
-            "title": "We Audited Our Marketing Site Against Our Codebase and Found 6 Lies",
-            "url": "https://dev.to/omar_bni_f6856a8bb0e021e9/we-audited-our-marketing-site-against-our-codebase-and-found-6-lies-2bal",
-            "description": "Last week we put our marketing site in one tab and our codebase in the other and checked every..."
+            "title": "El ratio que nadie te dice: Construir un SaaS es 30% c\u00f3digo y 70% todo lo dem\u00e1s",
+            "url": "https://dev.to/pivelcode/el-ratio-que-nadie-te-dice-construir-un-saas-es-30-codigo-y-70-todo-lo-demas-5h9c",
+            "description": "Cuando empec\u00e9 Semsei, pens\u00e9 que el desaf\u00edo era t\u00e9cnico.  El stack. La arquitectura. Los agentes. El..."
         }
     ]
 }
