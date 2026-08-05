@@ -1,30 +1,30 @@
 {
-    "last_updated": "2026-08-04 02:13:39 UTC",
+    "last_updated": "2026-08-05 02:12:55 UTC",
     "articles": [
         {
-            "title": "Picking a text-to-image API for marketing posters and social ads: style control, upscale",
-            "url": "https://dev.to/paswkeria/picking-a-text-to-image-api-for-marketing-posters-and-social-ads-style-control-upscale-21lg",
-            "description": "Bottom line: rank a text-to-image API by prompt adherence and style control first, output resolution..."
+            "title": "I spent a month doing AEO for a tiny niche site. Most of the advice was wrong.",
+            "url": "https://dev.to/shanni/i-spent-a-month-doing-aeo-for-a-tiny-niche-site-most-of-the-advice-was-wrong-20ad",
+            "description": "\"Answer Engine Optimization\" is the new gold rush: get your site cited by ChatGPT, Perplexity, and..."
         },
         {
-            "title": "The Missing Silver Layer Behind Social Campaign ROI",
-            "url": "https://dev.to/lse-group-corporation/the-missing-silver-layer-behind-social-campaign-roi-full-blog-1def",
-            "description": "The ROI Black Hole in Social Marketing  Consider a mid-market B2B software company whose social team..."
+            "title": "escapeJSON(Effective SEO Content Writing Strategies to Boost Organic Traffic)",
+            "url": "https://dev.to/surja_sdas_fc8ee9ff9720f/escapejsoneffective-seo-content-writing-strategies-to-boost-organic-traffic-33pj",
+            "description": "Discover powerful SEO content writing strategies to boost your organic traffic, align with user intent, and build long-term search engine visibility."
         },
         {
-            "title": "Building an AI Marketing Manager That Actually Uses Real Business Data",
-            "url": "https://dev.to/brandpilot/building-an-ai-marketing-manager-that-actually-uses-real-business-data-1c0j",
-            "description": "Most AI marketing apps generate content.  I wanted to build something different.  Instead of asking..."
+            "title": "How Marketing Works and How to Become a Successful Marketer",
+            "url": "https://dev.to/vishal_rajput_0cce973e799/how-marketing-works-and-how-to-become-a-successful-marketer-2a0m",
+            "description": "What Is a Marketer? How Marketing Works and How to Become a Successful Marketer  Introduction  In..."
         },
         {
-            "title": "How Two Builders Reached Nearly One Million Developers on dailydev",
-            "url": "https://dev.to/mijura/how-two-builders-reached-nearly-one-million-developers-on-dailydev-eb",
-            "description": "Over the last 45 days, our content reached 932,700 developers and generated 6.2 million impressions..."
+            "title": "Why Vendor Case Studies Structurally Can't Show You Failure Modes, and How to Reconstruct Them Anyway",
+            "url": "https://dev.to/faiso0ole/why-vendor-case-studies-structurally-cant-show-you-failure-modes-and-how-to-reconstruct-them-2044",
+            "description": "Vendor case studies are a standard part of the SaaS sales toolkit, and buyers generally understand,..."
         },
         {
-            "title": "Virtual Event Marketing: Strategies, Benefits, and Success Stories",
-            "url": "https://dev.to/allisonramirez/virtual-event-marketing-strategies-benefits-and-success-stories-10ai",
-            "description": "Virtual Event Marketing has become one of the most effective ways for businesses to connect with..."
+            "title": "escapeJSON(10 Proven Strategies: How to Speed Up Your Website and Boost SEO Performance)",
+            "url": "https://dev.to/surja_sdas_fc8ee9ff9720f/escapejson10-proven-strategies-how-to-speed-up-your-website-and-boost-seo-performance-1jej",
+            "description": "Learn how to speed up your website with 10 actionable optimization strategies. Improve page speed, boost SEO rankings, enhance user experience, and drive conversions."
         }
     ]
 }
