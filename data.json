@@ -1,30 +1,30 @@
 {
-    "last_updated": "2026-08-05 02:12:55 UTC",
+    "last_updated": "2026-08-06 02:21:41 UTC",
     "articles": [
         {
-            "title": "I spent a month doing AEO for a tiny niche site. Most of the advice was wrong.",
-            "url": "https://dev.to/shanni/i-spent-a-month-doing-aeo-for-a-tiny-niche-site-most-of-the-advice-was-wrong-20ad",
-            "description": "\"Answer Engine Optimization\" is the new gold rush: get your site cited by ChatGPT, Perplexity, and..."
+            "title": "How to Validate a Startup Idea on Reddit (Founder's Guide)",
+            "url": "https://dev.to/sclaydon/how-to-validate-a-startup-idea-on-reddit-founders-guide-3nap",
+            "description": "Your friends think your idea is great. Your mom loves it. That tells you nothing. If you want..."
         },
         {
-            "title": "escapeJSON(Effective SEO Content Writing Strategies to Boost Organic Traffic)",
-            "url": "https://dev.to/surja_sdas_fc8ee9ff9720f/escapejsoneffective-seo-content-writing-strategies-to-boost-organic-traffic-33pj",
-            "description": "Discover powerful SEO content writing strategies to boost your organic traffic, align with user intent, and build long-term search engine visibility."
+            "title": "MCP Just Left Beta \u2014 Quietly, But For Real",
+            "url": "https://dev.to/fast2future/mcp-just-left-beta-quietly-but-for-real-3481",
+            "description": "The Model Context Protocol's 2026-07-28 specification is now the official current version. Here's what actually changed, and why the way it shipped is the more interesting story."
         },
         {
-            "title": "How Marketing Works and How to Become a Successful Marketer",
-            "url": "https://dev.to/vishal_rajput_0cce973e799/how-marketing-works-and-how-to-become-a-successful-marketer-2a0m",
-            "description": "What Is a Marketer? How Marketing Works and How to Become a Successful Marketer  Introduction  In..."
+            "title": "AI Agents for Marketing in 2026: 8 Platforms Replacing Manual Marketing Ops",
+            "url": "https://dev.to/hellyeahai/ai-agents-for-marketing-in-2026-8-platforms-replacing-manual-marketing-ops-4gpp",
+            "description": "According to HubSpot's 2026 State of Marketing Report, 61% of marketers believe AI is creating the..."
         },
         {
-            "title": "Why Vendor Case Studies Structurally Can't Show You Failure Modes, and How to Reconstruct Them Anyway",
-            "url": "https://dev.to/faiso0ole/why-vendor-case-studies-structurally-cant-show-you-failure-modes-and-how-to-reconstruct-them-2044",
-            "description": "Vendor case studies are a standard part of the SaaS sales toolkit, and buyers generally understand,..."
+            "title": "How do B2B teams handle customer testimonials after collecting them? (Research)",
+            "url": "https://dev.to/kabirsinghh/how-do-b2b-teams-handle-customer-testimonials-after-collecting-them-research-1ppf",
+            "description": "I'm doing research before building anything \u2014 trying to understand what actually happens between..."
         },
         {
-            "title": "escapeJSON(10 Proven Strategies: How to Speed Up Your Website and Boost SEO Performance)",
-            "url": "https://dev.to/surja_sdas_fc8ee9ff9720f/escapejson10-proven-strategies-how-to-speed-up-your-website-and-boost-seo-performance-1jej",
-            "description": "Learn how to speed up your website with 10 actionable optimization strategies. Improve page speed, boost SEO rankings, enhance user experience, and drive conversions."
+            "title": "What is Digital Marketing? A Beginner's Guide",
+            "url": "https://dev.to/digi-hub-marketing/what-is-digital-marketing-a-beginners-guide-43ib",
+            "description": "If you've ever wondered what is digital marketing and why every business \u2014 big or small \u2014 seems to be..."
         }
     ]
 }
