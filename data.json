@@ -1,30 +1,30 @@
 {
-    "last_updated": "2026-08-06 02:21:41 UTC",
+    "last_updated": "2026-08-07 02:31:53 UTC",
     "articles": [
         {
-            "title": "How to Validate a Startup Idea on Reddit (Founder's Guide)",
-            "url": "https://dev.to/sclaydon/how-to-validate-a-startup-idea-on-reddit-founders-guide-3nap",
-            "description": "Your friends think your idea is great. Your mom loves it. That tells you nothing. If you want..."
+            "title": "AI-Copywriter Balances Algorithms with Authenticity in Marketing",
+            "url": "https://dev.to/dd8888/ai-copywriter-balances-algorithms-with-authenticity-in-marketing-5a6g",
+            "description": "A close look at the AI-Copywriter project on GitHub, its technical merits, and how it seeks to blend AI with genuine copywriting skills."
         },
         {
-            "title": "MCP Just Left Beta \u2014 Quietly, But For Real",
-            "url": "https://dev.to/fast2future/mcp-just-left-beta-quietly-but-for-real-3481",
-            "description": "The Model Context Protocol's 2026-07-28 specification is now the official current version. Here's what actually changed, and why the way it shipped is the more interesting story."
+            "title": "The Story You Tell About Your AI Product Should Feel Like the Product Itself",
+            "url": "https://dev.to/richard_smith_154156d471ef/the-story-you-tell-about-your-ai-product-should-feel-like-the-product-itself-i5e",
+            "description": "I recently saw a product story that felt precise and meticulous \u2014 like the work it described. It got..."
         },
         {
-            "title": "AI Agents for Marketing in 2026: 8 Platforms Replacing Manual Marketing Ops",
-            "url": "https://dev.to/hellyeahai/ai-agents-for-marketing-in-2026-8-platforms-replacing-manual-marketing-ops-4gpp",
-            "description": "According to HubSpot's 2026 State of Marketing Report, 61% of marketers believe AI is creating the..."
+            "title": "\uac00\uaca9 \uc778\uc0c1 \uacf5\uc9c0\ub97c \uc4f0\uae30 \uc804\uc5d0 \uba3c\uc800 \uace0\uc815\ud574\uc57c \ud560 \ub124 \uac00\uc9c0 \uae30\uc900",
+            "url": "https://dev.to/officialmailkr/gagyeog-insang-gongjireul-sseugi-jeone-meonjeo-gojeonghaeya-hal-ne-gaji-gijun-39g1",
+            "description": "\uac00\uaca9\uc744 \uc62c\ub9b4 \ub54c \uac00\uc7a5 \uba3c\uc800 \uc368\uc57c \ud558\ub294 \uac83\uc740 \uc0ac\uacfc \ubb38\uad6c\uac00 \uc544\ub2c8\ub77c \uc6b4\uc601 \uae30\uc900\ud45c\uc785\ub2c8\ub2e4. \uace0\uac1d\uc740 \u201c\uc65c \ubbf8\uc548\ud55c\uc9c0\u201d\ubcf4\ub2e4 \ub0b4 \uc870\uac74\uc774 \uc5b8\uc81c \ubc14\ub00c\uace0 \ubb34\uc5c7\uc744 \uc120\ud0dd\ud560 \uc218 \uc788\ub294\uc9c0\ubd80\ud130 \ud655\uc778\ud569\ub2c8\ub2e4.    ..."
         },
         {
-            "title": "How do B2B teams handle customer testimonials after collecting them? (Research)",
-            "url": "https://dev.to/kabirsinghh/how-do-b2b-teams-handle-customer-testimonials-after-collecting-them-research-1ppf",
-            "description": "I'm doing research before building anything \u2014 trying to understand what actually happens between..."
+            "title": "Week 1 of Saturation Marketing: What Happened When I Posted Every Day for 7 Days Straight",
+            "url": "https://dev.to/sellermind/week-1-of-saturation-marketing-what-happened-when-i-posted-every-day-for-7-days-straight-1gp7",
+            "description": "Last week, I ran an experiment: post on every platform I could find, every single day, for 7 days..."
         },
         {
-            "title": "What is Digital Marketing? A Beginner's Guide",
-            "url": "https://dev.to/digi-hub-marketing/what-is-digital-marketing-a-beginners-guide-43ib",
-            "description": "If you've ever wondered what is digital marketing and why every business \u2014 big or small \u2014 seems to be..."
+            "title": "Your Instagram Scraper Breaks Every 48 Hours. The Problem Isn't the Scraper.",
+            "url": "https://dev.to/junioroangel/your-instagram-scraper-breaks-every-48-hours-the-problem-isnt-the-scraper-2l7o",
+            "description": "Every engineer who has needed social media data has written the same script. curl the profile, regex..."
         }
     ]
 }
