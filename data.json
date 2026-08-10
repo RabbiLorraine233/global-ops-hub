@@ -1,30 +1,30 @@
 {
-    "last_updated": "2026-08-09 01:26:32 UTC",
+    "last_updated": "2026-08-10 01:28:03 UTC",
     "articles": [
         {
-            "title": "'Thanks for contacting us' is not proof: four ways a website message disappears",
-            "url": "https://dev.to/smirnovartur/thanks-for-contacting-us-is-not-proof-four-ways-a-website-message-disappears-90j",
-            "description": "I audit websites from the outside and then write to whoever owns them, which means I spend a lot..."
+            "title": "I checked a dozen startup directories for real backlinks. Most free tiers give you nothing.",
+            "url": "https://dev.to/autocomp/i-checked-a-dozen-startup-directories-for-real-backlinks-most-free-tiers-give-you-nothing-4bag",
+            "description": "Every \"launch your startup on 100 directories\" list quietly assumes the listing gives you a backlink..."
         },
         {
-            "title": "I audited 25 software landing pages. The same 5 conversion leaks kept appearing.",
-            "url": "https://dev.to/conversionrescue/i-audited-25-software-landing-pages-the-same-5-conversion-leaks-kept-appearing-5f91",
-            "description": "I reviewed more than 25 live software landing pages while building a fixed-scope conversion service...."
+            "title": "I analyzed 556 landing pages from this week's launches. 10 patterns are killing your conversions.",
+            "url": "https://dev.to/pagerroast/i-analyzed-556-landing-pages-from-this-weeks-launches-10-patterns-are-killing-your-conversions-4b6c",
+            "description": "This weekend I read 556 landing pages from recent Product Hunt, BetaList, Uneed, and Microlaunch..."
         },
         {
-            "title": "Your best line is in your meta description, and nobody reads it",
-            "url": "https://dev.to/smirnovartur/your-best-line-is-in-your-meta-description-and-nobody-reads-it-4jnl",
-            "description": "I audit strangers' websites \u2014 I open a page, measure what it ships, and write to the owner about what..."
+            "title": "Blockchain Powered Loyalty Programs: From Points to Digital Assets",
+            "url": "https://dev.to/techeruption_58/blockchain-powered-loyalty-programs-from-points-to-digital-assets-3bj0",
+            "description": "Say you spend \u20b950,000 with a brand over a year. In return, they hand you 5,000 loyalty..."
         },
         {
-            "title": "How to check whether AI recommends your company, step by step",
-            "url": "https://dev.to/eraefi/how-to-check-whether-ai-recommends-your-company-step-by-step-2767",
-            "description": "The owner of a consultancy checked one morning what ChatGPT says about their category. They typed in..."
+            "title": "Regional News Channels in India: The Rising Power of Southern TV Advertising",
+            "url": "https://dev.to/four_dm_9fb22312541413d3f/regional-news-channels-in-india-the-rising-power-of-southern-tv-advertising-565k",
+            "description": "Regional News Channels in India: The Rising Power of Southern TV Advertising   Regional news channels..."
         },
         {
-            "title": "300 Customer Interviews Before Writing a Line of Code - The Discovery Process Behind Omnea",
-            "url": "https://dev.to/stella_penso/300-customer-interviews-before-writing-a-line-of-code-the-discovery-process-behind-omnea-474",
-            "description": "Most \"how we built it\" write ups start with the tech stack. This one starts earlier: with 300..."
+            "title": "Your AI Draft Isn't a Product. Make It a Reusable Sales Asset",
+            "url": "https://dev.to/anicca_301094325e/your-ai-draft-isnt-a-product-make-it-a-reusable-sales-asset-355i",
+            "description": "Your AI Draft Isn't a Product. Make It a Reusable Sales Asset   You publish an AI-assisted..."
         }
     ]
 }
