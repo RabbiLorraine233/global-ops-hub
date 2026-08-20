@@ -1,30 +1,30 @@
 {
-    "last_updated": "2026-08-19 01:04:26 UTC",
+    "last_updated": "2026-08-20 01:04:11 UTC",
     "articles": [
         {
-            "title": "What are Google AI Overviews, and why did my blog traffic drop?",
-            "url": "https://dev.to/bulti_global/what-are-google-ai-overviews-and-why-did-my-blog-traffic-drop-239d",
-            "description": "How the AI Overview at the top of Google search works, why it's cutting your blog clicks, and how to flip the situation by becoming one of its cited sources."
+            "title": "Syncing Webround and Brevo newsletter subscribers on Cloudflare Workers",
+            "url": "https://dev.to/luca_at_webround/syncing-webround-and-brevo-newsletter-subscribers-on-cloudflare-workers-3pbl",
+            "description": "When a client migrated their store to Webround, they already had an active Brevo account with about..."
         },
         {
-            "title": "Email Marketing for Developers",
-            "url": "https://dev.to/shreyastaware/email-marketing-for-developers-53ko",
-            "description": "Email Marketing is really important in today's day and age. If you want to grow your business, you..."
+            "title": "700K Google Ads Impressions Later: Why I\u2019m Investing More in Organic Growth",
+            "url": "https://dev.to/petrohrys/700k-google-ads-impressions-later-why-im-investing-more-in-organic-growth-4pa6",
+            "description": "700K Google Ads Impressions Later: Why I\u2019m Investing More in Organic Growth  Over the last year, I\u2019ve..."
         },
         {
-            "title": "How to Promote a SaaS Product: A Practical Step-by-Step Playbook",
-            "url": "https://dev.to/darun_karasabir_b79602fd/how-to-promote-a-saas-product-a-practical-step-by-step-playbook-2mne",
-            "description": "Building a SaaS product is easier than it used to be.  You can validate an idea quickly, build an MVP..."
+            "title": "How Home Improvement Leaders Manage Client Expectations Without Losing the Relationship",
+            "url": "https://dev.to/leadershipcode101/how-home-improvement-leaders-manage-client-expectations-without-losing-the-relationship-i52",
+            "description": "The most preventable problems in home improvement have nothing to do with workmanship. They happen in..."
         },
         {
-            "title": "Your Website Can Be Technically Perfect and Still Fail at SEO",
-            "url": "https://dev.to/seo_withmayu_68afa2b0703/your-website-can-be-technically-perfect-and-still-fail-at-seo-ppi",
-            "description": "I've seen this happen a lot.  A developer builds a fast website, gets the Core Web Vitals into a good..."
+            "title": "How to Track Your Brand's Visibility in ChatGPT, Perplexity & Gemini (GEO Monitoring, With Code)",
+            "url": "https://dev.to/benedictmendoza/how-to-track-your-brands-visibility-in-chatgpt-perplexity-gemini-geo-monitoring-with-code-5701",
+            "description": "This week I ran a simple test. I asked ChatGPT, Perplexity, and Gemini the same question \u2014 \"what is..."
         },
         {
-            "title": "Digital Marketing Strategies Every Business Should Know in 2026",
-            "url": "https://dev.to/ag_solutions_a39963e07d58/digital-marketing-strategies-every-business-should-know-in-2026-358l",
-            "description": "Digital marketing is changing quickly in 2026. Customers are using search engines, social media, AI..."
+            "title": "We Built 154 City Landing Pages by Hand. Here Is What Actually Mattered.",
+            "url": "https://dev.to/gyeoh/we-built-154-city-landing-pages-by-hand-here-is-what-actually-mattered-5d73",
+            "description": "Most programmatic SEO advice says generate at scale. Our data says the opposite.  Last year our..."
         }
     ]
 }
