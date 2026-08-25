@@ -1,30 +1,30 @@
 {
-    "last_updated": "2026-08-24 01:06:43 UTC",
+    "last_updated": "2026-08-25 01:05:56 UTC",
     "articles": [
         {
-            "title": "I built Github actions workflow for cxgrd",
-            "url": "https://dev.to/manan_822e7/i-built-github-actions-workflow-for-cxgrd-2kg3",
-            "description": "I recently built and shipped GitHub Actions workflow for cxgrd. I built it to automate the scanning..."
+            "title": "HOW TO DEVREL: Content Funnel Done Right",
+            "url": "https://dev.to/leonadato/how-to-devrel-content-funnel-done-right-2n74",
+            "description": "DISCLAIMER: No, I don\u2019t believe I\u2019m the universe\u2019s gift to DevRel. I don\u2019t have all the answers, all..."
         },
         {
-            "title": "The search step is shrinking, and outbound got cheap. What is left?",
-            "url": "https://dev.to/bypath_app/the-search-step-is-shrinking-and-outbound-got-chthe-search-step-is-shrinking-and-outbound-got-13og",
-            "description": "Two things changed under our feet this year.  First, people ask an assistant and do not click. A..."
+            "title": "AI Visibility Tracking: What 23 AI Overviews Showed",
+            "url": "https://dev.to/lachezard/ai-visibility-tracking-what-23-ai-overviews-showed-593",
+            "description": "We ran 23 buyer prompts through Google AI Overviews. 91% triggered one, we were cited in zero of the non-branded ones, and 74% of cited pages already ranked top-20."
         },
         {
-            "title": "Our Product Hunt launch returned 2 upvotes and 0 signups. Here is every number.",
-            "url": "https://dev.to/leouno/our-product-hunt-launch-returned-2-upvotes-and-0-signups-here-is-every-number-89l",
-            "description": "On August 19 we launched LeadAce on Product Hunt. It was our first launch to an English speaking..."
+            "title": "A Practical Checklist for Evaluating Instagram Engagement Tools",
+            "url": "https://dev.to/raju_yadav_2b64e1d919fc5a/a-practical-checklist-for-evaluating-instagram-engagement-tools-26hc",
+            "description": "If you are building or marketing an Instagram-focused product, it is easy to judge an engagement tool..."
         },
         {
-            "title": "Technical SEO Checks I Run Before Writing More Content",
-            "url": "https://dev.to/graham23s/technical-seo-checks-i-run-before-writing-more-content-495h",
-            "description": "\u201cWe need more content\u201d is one of the most common conclusions in SEO.  Sometimes it is right. Often it..."
+            "title": "I measured 20 \"free dofollow\" backlink sites. One of them was real.",
+            "url": "https://dev.to/linkhiver_developer_799c5/i-measured-20-free-dofollow-backlink-sites-one-of-them-was-real-4hck",
+            "description": "I run a small link-in-bio SaaS. Like every other founder with a new domain and no authority, I went..."
         },
         {
-            "title": "From Idea to Launch: The Complete SaaS Go-to-Market Strategy",
-            "url": "https://dev.to/productwatch/from-idea-to-launch-the-complete-saas-go-to-market-strategy-3dp5",
-            "description": "Launching a SaaS product is often perceived as a simple act of hitting a publish button. However, for..."
+            "title": "FAQ schema, no coding required \u2014 a copy-and-paste guide",
+            "url": "https://dev.to/bulti_global/faq-schema-no-coding-required-a-copy-and-paste-guide-38j7",
+            "description": "How to mark up your page's FAQ in a format search engines and AI understand (structured data). A copy-paste template and a way to verify it, no code knowledge needed."
         }
     ]
 }
