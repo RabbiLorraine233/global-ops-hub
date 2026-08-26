@@ -1,30 +1,30 @@
 {
-    "last_updated": "2026-08-25 01:05:56 UTC",
+    "last_updated": "2026-08-26 01:07:48 UTC",
     "articles": [
         {
-            "title": "HOW TO DEVREL: Content Funnel Done Right",
-            "url": "https://dev.to/leonadato/how-to-devrel-content-funnel-done-right-2n74",
-            "description": "DISCLAIMER: No, I don\u2019t believe I\u2019m the universe\u2019s gift to DevRel. I don\u2019t have all the answers, all..."
+            "title": "Ad Verification 101: How Brands Check Their Ads Actually Ran",
+            "url": "https://dev.to/greta_af2fb2dbe283dce1483/ad-verification-101-how-brands-check-their-ads-actually-ran-2j43",
+            "description": "Ad Verification 101: How Brands Check Their Ads Actually Ran   Digital advertising has a..."
         },
         {
-            "title": "AI Visibility Tracking: What 23 AI Overviews Showed",
-            "url": "https://dev.to/lachezard/ai-visibility-tracking-what-23-ai-overviews-showed-593",
-            "description": "We ran 23 buyer prompts through Google AI Overviews. 91% triggered one, we were cited in zero of the non-branded ones, and 74% of cited pages already ranked top-20."
+            "title": "98.6% of AI Citations Were Third-Party. The Measurement Contract Matters More Than the Headline.",
+            "url": "https://dev.to/visibilityatlas/986-of-ai-citations-were-third-party-the-measurement-contract-matters-more-than-the-headline-1bl6",
+            "description": "98.6% of visible citations in a recent OpenAI local-business study came from third-party..."
         },
         {
-            "title": "A Practical Checklist for Evaluating Instagram Engagement Tools",
-            "url": "https://dev.to/raju_yadav_2b64e1d919fc5a/a-practical-checklist-for-evaluating-instagram-engagement-tools-26hc",
-            "description": "If you are building or marketing an Instagram-focused product, it is easy to judge an engagement tool..."
+            "title": "How much does a GEO agency cost? An outsource-vs-DIY calculator",
+            "url": "https://dev.to/bulti_global/how-much-does-a-geo-agency-cost-an-outsource-vs-diy-calculator-50p",
+            "description": "GEO agency cost depends on strategy, content production, and monthly monitoring. Compare GEO consulting pricing with the real cost of running the work in-house."
         },
         {
-            "title": "I measured 20 \"free dofollow\" backlink sites. One of them was real.",
-            "url": "https://dev.to/linkhiver_developer_799c5/i-measured-20-free-dofollow-backlink-sites-one-of-them-was-real-4hck",
-            "description": "I run a small link-in-bio SaaS. Like every other founder with a new domain and no authority, I went..."
+            "title": "A GEO case study \u2014 what we're doing with this very series",
+            "url": "https://dev.to/bulti_global/a-geo-case-study-what-were-doing-with-this-very-series-1g7n",
+            "description": "Instead of someone else's success story, we're opening up how Bulti applies the GEO formula to its own service. From keyword selection to FAQ schema and a public learning library \u2014 the execution log and reasoning behind it."
         },
         {
-            "title": "FAQ schema, no coding required \u2014 a copy-and-paste guide",
-            "url": "https://dev.to/bulti_global/faq-schema-no-coding-required-a-copy-and-paste-guide-38j7",
-            "description": "How to mark up your page's FAQ in a format search engines and AI understand (structured data). A copy-paste template and a way to verify it, no code knowledge needed."
+            "title": "What Wynonna Judd Performance Reactions Can Teach Us About Digital Audience Engagement",
+            "url": "https://dev.to/theinsidersuccess_682b676/what-wynonna-judd-performance-reactions-can-teach-us-about-digital-audience-engagement-1pl2",
+            "description": "A live performance may happen in one physical location, but digital platforms can transform that..."
         }
     ]
 }
