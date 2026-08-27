@@ -1,30 +1,30 @@
 {
-    "last_updated": "2026-08-26 01:07:48 UTC",
+    "last_updated": "2026-08-27 07:15:26 UTC",
     "articles": [
         {
-            "title": "Ad Verification 101: How Brands Check Their Ads Actually Ran",
-            "url": "https://dev.to/greta_af2fb2dbe283dce1483/ad-verification-101-how-brands-check-their-ads-actually-ran-2j43",
-            "description": "Ad Verification 101: How Brands Check Their Ads Actually Ran   Digital advertising has a..."
+            "title": "Your Website Is a Product, Not a Brochure: New Rules of Web Design in 2026",
+            "url": "https://dev.to/socialcircuits/your-website-is-a-product-not-a-brochure-new-rules-of-web-design-in-2026-9h4",
+            "description": "There was a time when a business website had one main job:  Tell people who you are. A homepage, an..."
         },
         {
-            "title": "98.6% of AI Citations Were Third-Party. The Measurement Contract Matters More Than the Headline.",
-            "url": "https://dev.to/visibilityatlas/986-of-ai-citations-were-third-party-the-measurement-contract-matters-more-than-the-headline-1bl6",
-            "description": "98.6% of visible citations in a recent OpenAI local-business study came from third-party..."
+            "title": "Website Design Mistakes That Reduce Conversions",
+            "url": "https://dev.to/sahil-2026/website-design-mistakes-that-reduce-conversions-mkf",
+            "description": "Website Design Mistakes That Reduce Conversions  A website can look attractive and still struggle to..."
         },
         {
-            "title": "How much does a GEO agency cost? An outsource-vs-DIY calculator",
-            "url": "https://dev.to/bulti_global/how-much-does-a-geo-agency-cost-an-outsource-vs-diy-calculator-50p",
-            "description": "GEO agency cost depends on strategy, content production, and monthly monitoring. Compare GEO consulting pricing with the real cost of running the work in-house."
+            "title": "I got banned from SoloLearn for trying to help beginners. Here's what happened.",
+            "url": "https://dev.to/koda2026/i-got-banned-from-sololearn-for-trying-to-help-beginners-heres-what-happened-1hjm",
+            "description": "I got banned from SoloLearn for trying to help beginners. Here's what happened.   Yesterday,..."
         },
         {
-            "title": "A GEO case study \u2014 what we're doing with this very series",
-            "url": "https://dev.to/bulti_global/a-geo-case-study-what-were-doing-with-this-very-series-1g7n",
-            "description": "Instead of someone else's success story, we're opening up how Bulti applies the GEO formula to its own service. From keyword selection to FAQ schema and a public learning library \u2014 the execution log and reasoning behind it."
+            "title": "plym: Open source CMS, auto SEO & GEO, 100/100 on PageSpeed out of box",
+            "url": "https://dev.to/adarshpunj/plym-open-source-cms-auto-seo-geo-100100-on-pagespeed-out-of-box-2f1g",
+            "description": "A little brief: I started working on this as a side-project last year, and then ditched my consulting..."
         },
         {
-            "title": "What Wynonna Judd Performance Reactions Can Teach Us About Digital Audience Engagement",
-            "url": "https://dev.to/theinsidersuccess_682b676/what-wynonna-judd-performance-reactions-can-teach-us-about-digital-audience-engagement-1pl2",
-            "description": "A live performance may happen in one physical location, but digital platforms can transform that..."
+            "title": "An AI blog pipeline with a human editor: how this post was made",
+            "url": "https://dev.to/gatapia/an-ai-blog-pipeline-with-a-human-editor-how-this-post-was-made-5bmf",
+            "description": "How PicNet's blog pipeline works: a JSON topic backlog, automated weekly research, a drafted post on a review branch, and a human editor who merges."
         }
     ]
 }
