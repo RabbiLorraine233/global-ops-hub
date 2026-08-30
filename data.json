@@ -1,30 +1,30 @@
 {
-    "last_updated": "2026-08-29 05:36:04 UTC",
+    "last_updated": "2026-08-30 03:35:21 UTC",
     "articles": [
+        {
+            "title": "The entry price is not the price: what 20+ marketing SaaS tools actually cost",
+            "url": "https://dev.to/realcostlabs/the-entry-price-is-not-the-price-what-20-marketing-saas-tools-actually-cost-3mg9",
+            "description": "Every SaaS pricing page leads with a number you will never pay.  I spent a few months rebuilding the..."
+        },
+        {
+            "title": "Your Website Might Be Losing Customers \u2014 And You Don't Even Know It",
+            "url": "https://dev.to/chesea_dev/your-website-might-be-losing-customers-and-you-dont-even-know-it-2nce",
+            "description": "Your website is online. It looks good. The animations are smooth, the landing page is polished, and..."
+        },
         {
             "title": "Technical SEO Every Developer Should Know Even If You're Not a Marketer",
             "url": "https://dev.to/nasim_sayed5656/technical-seo-every-developer-should-know-even-if-youre-not-a-marketer-1kj9",
             "description": "Most developers treat SEO as \"someone else's job\" \u2014 a marketing concern that happens after the site..."
         },
         {
-            "title": "Creating Videos for Easy Cross-Social-Media Sharing",
-            "url": "https://dev.to/sumit0rn/creating-videos-for-easy-cross-social-media-sharing-4a9l",
-            "description": "Video has become one of the most useful formats for sharing information across social media. A single..."
+            "title": "I Built Unmuse \u2014 An AI Tool That Turns Rough Ideas Into Content",
+            "url": "https://dev.to/irfan12345/i-built-unmuse-an-ai-tool-that-turns-rough-ideas-into-content-4la",
+            "description": "I\u2019ve been building Unmuse because I kept noticing a simple problem:  Having an idea is easy.  Turning..."
         },
         {
-            "title": "Free SEO Audit Report Template \u2014 the exact 6-section structure I use for client audits",
-            "url": "https://dev.to/marcuschen-dev/free-seo-audit-report-template-the-exact-6-section-structure-i-use-for-client-audits-5ebd",
-            "description": "A week ago I ran a real technical SEO audit on a live site and found a critical crawl blocker that..."
-        },
-        {
-            "title": "\ud83d\ude80 LAUNCH OFFER: Get 25% OFF SerpSpur SEO Audit Tool",
-            "url": "https://dev.to/carllowman/launch-offer-get-25-off-serpspur-seo-audit-tool-16kp",
-            "description": "Your website may look perfect\u2014but hidden SEO issues could be costing you rankings, traffic, and..."
-        },
-        {
-            "title": "WordPress vs Custom Website: Which One is Better?",
-            "url": "https://dev.to/sahil-2026/wordpress-vs-custom-website-which-one-is-better-778",
-            "description": "WordPress vs Custom Website: Which One is Better?  Choosing the right platform for a website can feel..."
+            "title": "3 tools your competitors adopted while you were still in meetings",
+            "url": "https://dev.to/mediatwist/3-tools-your-competitors-adopted-while-you-were-still-in-meetings-4mlp",
+            "description": "The marketing landscape has fundamentally shifted. Here's what the smartest brands are doing about ceo power picks."
         }
     ]
 }
