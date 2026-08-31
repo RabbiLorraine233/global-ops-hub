@@ -1,30 +1,30 @@
 {
-    "last_updated": "2026-08-30 03:35:21 UTC",
+    "last_updated": "2026-08-31 03:34:35 UTC",
     "articles": [
         {
-            "title": "The entry price is not the price: what 20+ marketing SaaS tools actually cost",
-            "url": "https://dev.to/realcostlabs/the-entry-price-is-not-the-price-what-20-marketing-saas-tools-actually-cost-3mg9",
-            "description": "Every SaaS pricing page leads with a number you will never pay.  I spent a few months rebuilding the..."
+            "title": "SEO for Developers: How to Get Your Side Project Found Without Becoming a Marketer",
+            "url": "https://dev.to/nasim_sayed5656/seo-for-developers-how-to-get-your-side-project-found-without-becoming-a-marketer-ibn",
+            "description": "You built something. It works. The code is clean, the UI doesn't embarrass you, and you shipped it...."
+        },
+        {
+            "title": "Content Marketing: How Valuable Content Helps Businesses Grow Online",
+            "url": "https://dev.to/amal_kk_60ae2315b8f43ad73/content-marketing-how-valuable-content-helps-businesses-grow-online-3k72",
+            "description": "in today\u2019s digital world, businesses are constantly looking for better ways to attract customers and..."
+        },
+        {
+            "title": "For AI Not to Hallucinate, We Must Stop Hallucinating First: How I Built an 80-File Rule System for AI Marketing and Failed Completely",
+            "url": "https://dev.to/alex-zaporozhan/for-ai-not-to-hallucinate-we-must-stop-hallucinating-first-how-i-built-an-80-file-rule-system-for-3jjf",
+            "description": "I built a 127-file deterministic SDLC framework that allows an AI coding agent to construct complex,..."
+        },
+        {
+            "title": "SEO & Digital Marketing Basics Every Developer Should Know",
+            "url": "https://dev.to/nasim_sayed5656/seo-digital-marketing-basics-every-developer-should-know-4bdo",
+            "description": "You can build a fast, beautifully coded website \u2014 and it can still get zero traffic. That's usually..."
         },
         {
             "title": "Your Website Might Be Losing Customers \u2014 And You Don't Even Know It",
             "url": "https://dev.to/chesea_dev/your-website-might-be-losing-customers-and-you-dont-even-know-it-2nce",
             "description": "Your website is online. It looks good. The animations are smooth, the landing page is polished, and..."
-        },
-        {
-            "title": "Technical SEO Every Developer Should Know Even If You're Not a Marketer",
-            "url": "https://dev.to/nasim_sayed5656/technical-seo-every-developer-should-know-even-if-youre-not-a-marketer-1kj9",
-            "description": "Most developers treat SEO as \"someone else's job\" \u2014 a marketing concern that happens after the site..."
-        },
-        {
-            "title": "I Built Unmuse \u2014 An AI Tool That Turns Rough Ideas Into Content",
-            "url": "https://dev.to/irfan12345/i-built-unmuse-an-ai-tool-that-turns-rough-ideas-into-content-4la",
-            "description": "I\u2019ve been building Unmuse because I kept noticing a simple problem:  Having an idea is easy.  Turning..."
-        },
-        {
-            "title": "3 tools your competitors adopted while you were still in meetings",
-            "url": "https://dev.to/mediatwist/3-tools-your-competitors-adopted-while-you-were-still-in-meetings-4mlp",
-            "description": "The marketing landscape has fundamentally shifted. Here's what the smartest brands are doing about ceo power picks."
         }
     ]
 }
