@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-08-31 03:34:35 UTC",
+    "last_updated": "2026-09-01 03:32:03 UTC",
     "articles": [
         {
             "title": "SEO for Developers: How to Get Your Side Project Found Without Becoming a Marketer",
@@ -7,24 +7,24 @@
             "description": "You built something. It works. The code is clean, the UI doesn't embarrass you, and you shipped it...."
         },
         {
-            "title": "Content Marketing: How Valuable Content Helps Businesses Grow Online",
-            "url": "https://dev.to/amal_kk_60ae2315b8f43ad73/content-marketing-how-valuable-content-helps-businesses-grow-online-3k72",
-            "description": "in today\u2019s digital world, businesses are constantly looking for better ways to attract customers and..."
+            "title": "What One Week of SaaS Distribution Looked Like for a New Directory",
+            "url": "https://dev.to/launchlogai/what-one-week-of-saas-distribution-looked-like-for-a-new-directory-3oek",
+            "description": "Launch advice often starts with a channel list. Post on X. Submit to directories. Join communities...."
         },
         {
-            "title": "For AI Not to Hallucinate, We Must Stop Hallucinating First: How I Built an 80-File Rule System for AI Marketing and Failed Completely",
-            "url": "https://dev.to/alex-zaporozhan/for-ai-not-to-hallucinate-we-must-stop-hallucinating-first-how-i-built-an-80-file-rule-system-for-3jjf",
-            "description": "I built a 127-file deterministic SDLC framework that allows an AI coding agent to construct complex,..."
+            "title": "How to Write a KDP Book Description That Converts (Template)",
+            "url": "https://dev.to/aiharryone/how-to-write-a-kdp-book-description-that-converts-template-29m0",
+            "description": "How to Write a KDP Book Description That Converts (Template)   A copy-paste structure that..."
         },
         {
-            "title": "SEO & Digital Marketing Basics Every Developer Should Know",
-            "url": "https://dev.to/nasim_sayed5656/seo-digital-marketing-basics-every-developer-should-know-4bdo",
-            "description": "You can build a fast, beautifully coded website \u2014 and it can still get zero traffic. That's usually..."
+            "title": "What Are the Best AI Brand Mention Tracking Tools?",
+            "url": "https://dev.to/aeoexpert/what-are-the-best-ai-brand-mention-tracking-tools-18la",
+            "description": "Compare Cognizo, Profound, Peec AI, Otterly, Semrush, and Nightwatch for AI brand mentions, citations, and AEO workflows."
         },
         {
-            "title": "Your Website Might Be Losing Customers \u2014 And You Don't Even Know It",
-            "url": "https://dev.to/chesea_dev/your-website-might-be-losing-customers-and-you-dont-even-know-it-2nce",
-            "description": "Your website is online. It looks good. The animations are smooth, the landing page is polished, and..."
+            "title": "The B2B Programmatic Advertising Glossary: Terms You Must Know",
+            "url": "https://dev.to/prodigital360/the-b2b-programmatic-advertising-glossary-terms-you-must-know-4c1o",
+            "description": "CMOs & VPs, master B2B programmatic's complexities. This glossary provides the precise language needed for strategic targeting, data-driven decision-making, and predictable pipeline growth."
         }
     ]
 }
