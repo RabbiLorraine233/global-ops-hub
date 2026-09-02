@@ -1,30 +1,30 @@
 {
-    "last_updated": "2026-09-01 03:32:03 UTC",
+    "last_updated": "2026-09-02 02:49:59 UTC",
     "articles": [
         {
-            "title": "SEO for Developers: How to Get Your Side Project Found Without Becoming a Marketer",
-            "url": "https://dev.to/nasim_sayed5656/seo-for-developers-how-to-get-your-side-project-found-without-becoming-a-marketer-ibn",
-            "description": "You built something. It works. The code is clean, the UI doesn't embarrass you, and you shipped it...."
+            "title": "Building a Lightweight Financial News Sentiment Analyzer with Python and SerpApi",
+            "url": "https://dev.to/ssebina_charles_01/building-a-lightweight-financial-news-sentiment-analyzer-with-python-and-serpapi-3elh",
+            "description": "Building a Lightweight Financial News Sentiment Analyzer with Python and SerpApi   Tags:..."
+        },
+        {
+            "title": "Marketing thoughs \n\nDo you think psychology in, when you marketing or build your product? \nHow people react to a specific pattern, how and why they buy, and whats trigger it? \n\nLets talk",
+            "url": "https://dev.to/cephocloud/marketing-thoughs-do-you-think-psychology-in-when-you-marketing-or-build-your-product-how-298o",
+            "description": "A post by Danny Christensen"
+        },
+        {
+            "title": "A Page Ranks at Position 8 and Stops Moving. What Actually Shifts It?",
+            "url": "https://dev.to/prabhash_jha_891cf98a0eca/a-page-ranks-at-position-8-and-stops-moving-what-actually-shifts-it-498",
+            "description": "The diagnosis order for a page stuck outside the top five, with the decision rule at each step and the point at which you should stop working on it."
+        },
+        {
+            "title": "The Small E-commerce Trap: When You've Built Something Good But Nobody Finds It",
+            "url": "https://dev.to/richard_smith_154156d471ef/the-small-e-commerce-trap-when-youve-built-something-good-but-nobody-finds-it-1cb6",
+            "description": "I spent six months building an online store last year. The product was solid\u2014actually good. The..."
         },
         {
             "title": "What One Week of SaaS Distribution Looked Like for a New Directory",
             "url": "https://dev.to/launchlogai/what-one-week-of-saas-distribution-looked-like-for-a-new-directory-3oek",
             "description": "Launch advice often starts with a channel list. Post on X. Submit to directories. Join communities...."
-        },
-        {
-            "title": "How to Write a KDP Book Description That Converts (Template)",
-            "url": "https://dev.to/aiharryone/how-to-write-a-kdp-book-description-that-converts-template-29m0",
-            "description": "How to Write a KDP Book Description That Converts (Template)   A copy-paste structure that..."
-        },
-        {
-            "title": "What Are the Best AI Brand Mention Tracking Tools?",
-            "url": "https://dev.to/aeoexpert/what-are-the-best-ai-brand-mention-tracking-tools-18la",
-            "description": "Compare Cognizo, Profound, Peec AI, Otterly, Semrush, and Nightwatch for AI brand mentions, citations, and AEO workflows."
-        },
-        {
-            "title": "The B2B Programmatic Advertising Glossary: Terms You Must Know",
-            "url": "https://dev.to/prodigital360/the-b2b-programmatic-advertising-glossary-terms-you-must-know-4c1o",
-            "description": "CMOs & VPs, master B2B programmatic's complexities. This glossary provides the precise language needed for strategic targeting, data-driven decision-making, and predictable pipeline growth."
         }
     ]
 }
