@@ -1,30 +1,30 @@
 {
-    "last_updated": "2026-09-04 02:53:16 UTC",
+    "last_updated": "2026-09-05 02:55:05 UTC",
     "articles": [
         {
-            "title": "App Store screenshots: a designer's playbook for 2026",
-            "url": "https://dev.to/chris_fa_8fca9f4ba09d963/app-store-screenshots-a-designers-playbook-for-2026-3i5o",
-            "description": "Formats, the three-band layout, a six-screenshot story arc, localization, and the two tests to run before every submission."
+            "title": "Most \"GEO Best Practices\" Are Wrong",
+            "url": "https://dev.to/zheng_zhongwei_282e7ba80b/most-geo-best-practices-are-wrong-3l77",
+            "description": "I spent the last two weeks doing something I'd been putting off: reading every large-sample AI search..."
         },
         {
-            "title": "SaaS Churn Benchmarks \u2014 What Counts as Good",
-            "url": "https://dev.to/juankkipas/saas-churn-benchmarks-what-counts-as-good-37hi",
-            "description": "Churn is the number every subscription business watches, and also the one most often quoted without..."
+            "title": "SaaS: activa usuarios sin perseguir correos",
+            "url": "https://dev.to/hannahdev56/saas-activa-usuarios-sin-perseguir-correos-3abp",
+            "description": "Gu\u00eda simple para seguir correos de onboarding en SaaS con estados claros, menos tickets y pruebas m\u00e1s ordenadas."
         },
         {
-            "title": "Hunter.io vs Snov.io .ai domain accuracy healthtech 2026 test results",
-            "url": "https://dev.to/zackrag/hunterio-vs-snovio-ai-domain-accuracy-healthtech-2026-test-results-4ig2",
-            "description": "Side-by-side results on Hunter.io vs Snov.io .ai domain accuracy healthtech 2026 after verification updates on 2025-founded companies."
+            "title": "How Brisbane Digital Marketing Agencies Are Using AI in 2026",
+            "url": "https://dev.to/engagecoders/how-brisbane-digital-marketing-agencies-are-using-ai-in-2026-1mi7",
+            "description": "Artificial intelligence is changing the way businesses approach online marketing in 2026. From..."
         },
         {
-            "title": "How to Get High-Quality Backlinks When Nobody Knows Your Website Yet",
-            "url": "https://dev.to/robertadam987_/how-to-get-high-quality-backlinks-when-nobody-knows-your-website-yet-54hl",
-            "description": "You launch a website.  You write a few useful articles.  You fix the title tags, descriptions,..."
+            "title": "How to Use Social Media to Drive Traffic to Your Website",
+            "url": "https://dev.to/shalendra_singhkhangarot/how-to-use-social-media-to-drive-traffic-to-your-website-2811",
+            "description": "Introduction  Social media is often associated with likes, followers, shares, and comments. While..."
         },
         {
-            "title": "Using AI for marketing automation without losing authenticity",
-            "url": "https://dev.to/mediatwist/using-ai-for-marketing-automation-without-losing-authenticity-32nj",
-            "description": "The marketing landscape has fundamentally shifted. Here's what the smartest brands are doing about ai in marketing."
+            "title": "I shipped a second render engine to make preview match export. It made things worse.",
+            "url": "https://dev.to/anthony_builds/i-shipped-a-second-render-engine-to-make-preview-match-export-it-made-things-worse-23p0",
+            "description": "Katto is an AI video clipper. You drop in a long video, it cuts the good moments into vertical..."
         }
     ]
 }
