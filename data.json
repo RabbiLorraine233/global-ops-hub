@@ -1,30 +1,30 @@
 {
-    "last_updated": "2026-09-24 03:08:02 UTC",
+    "last_updated": "2026-09-25 03:23:40 UTC",
     "articles": [
         {
-            "title": "Static vs dynamic QR codes: which one do you actually need?",
-            "url": "https://dev.to/rehman258/static-vs-dynamic-qr-codes-which-one-do-you-actually-need-onp",
-            "description": "If you have generated a QR code recently, you have probably hit a wall: the tool makes one, then the..."
+            "title": "The Web2App Funnel Where Users Pay on the Web and Open the iOS App Already Logged In, Even Before It's Installed",
+            "url": "https://dev.to/utkarsh4517/the-web2app-funnel-where-users-pay-on-the-web-and-open-the-ios-app-already-logged-in-even-before-456f",
+            "description": "I built this crazy seamless system (Not sure, how its done usually in the industry), Where we are..."
         },
         {
-            "title": "Fast Food Loyalty Through Emotions",
-            "url": "https://dev.to/qivorane/fast-food-loyalty-through-emotions-1onc",
-            "description": "Introduction To Emotional Brand Loyalty   A recent study published in the International..."
+            "title": "The Road to 7 Million: How Balatro Actually Reached the World",
+            "url": "https://dev.to/prince_t_research/the-road-to-7-million-how-balatro-actually-reached-the-world-18mb",
+            "description": "A verified case study of how Balatro reached the world: a solo dev, a human scouting routine, streams, demos, and a documented wishlist curve from 48 to 208,401."
         },
         {
-            "title": "Camping Furniture GEO: 8.3% Citation Share, Yet Only 0.3% AI Mentions",
-            "url": "https://dev.to/dagenoaisearchmarket/camping-furniture-geo-83-citation-share-yet-only-03-ai-mentions-n15",
-            "description": "The structured-evidence task for this 2026 industry study is to validate brand performance across 7..."
+            "title": "How to Implement Snapchat Registration Signal Checks for Audience Segmentation",
+            "url": "https://dev.to/numberchecker/how-to-implement-snapchat-registration-signal-checks-for-audience-segmentation-4jg2",
+            "description": "In modern marketing automation, relying on static data validation is often insufficient. As regional..."
         },
         {
-            "title": "You Released an App. Now What?",
-            "url": "https://dev.to/egor_kabantsov/you-released-an-app-now-what-28jn",
-            "description": "Releasing an app feels amazing for about five minutes.  You hit publish. You refresh the store..."
+            "title": "A homepage SEO punch-list that doesn\u2019t become a three-week rabbit hole",
+            "url": "https://dev.to/kzahiri/a-homepage-seo-punch-list-that-doesnt-become-a-three-week-rabbit-hole-o7",
+            "description": "Most SEO audits dump hundreds of warnings. Owners still don\u2019t know what to fix first.  Before you..."
         },
         {
-            "title": "The easiest way to add liquid glass to your videos",
-            "url": "https://dev.to/codeideal/the-easiest-way-to-add-liquid-glass-to-your-videos-3efb",
-            "description": "Liquid glass looks great. It actually deserves to stay the design trend also in 2027.  And getting..."
+            "title": "What Real Users Made Me Simplify",
+            "url": "https://dev.to/altuntas_gokcer_56ebce63b/what-real-users-made-me-simplify-4id5",
+            "description": "What Real Users Made Me Simplify   There\u2019s a strange thing that happens when real people..."
         }
     ]
 }
