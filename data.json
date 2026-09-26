@@ -1,30 +1,30 @@
 {
-    "last_updated": "2026-09-25 03:23:40 UTC",
+    "last_updated": "2026-09-26 03:29:08 UTC",
     "articles": [
+        {
+            "title": "Automated Competitor Keyword Research Without Losing Your Weekend",
+            "url": "https://dev.to/jan_inteldo/automated-competitor-keyword-research-without-losing-your-weekend-3ki4",
+            "description": "You exported 20,000 keywords from a competitor gap analysis, and about half of them turn out to be..."
+        },
+        {
+            "title": "I read 1,064 \"hire me\" cards. 497 opened with the wrong sentence.",
+            "url": "https://dev.to/noirblackwood/i-read-1064-hire-me-cards-497-opened-with-the-wrong-sentence-1hfk",
+            "description": "Most work that fails isn't badly made. It fails because one claim underneath it was never..."
+        },
+        {
+            "title": "Why Pay for Bitly? Meet Shortee \u2014 The 100% Free URL Shortener with Premium Features",
+            "url": "https://dev.to/prahad_hasan/why-pay-for-bitly-meet-shortee-the-100-free-url-shortener-with-premium-features-olb",
+            "description": "In today\u2019s digital world, links are the digital front door to your business, social profiles, and..."
+        },
         {
             "title": "The Web2App Funnel Where Users Pay on the Web and Open the iOS App Already Logged In, Even Before It's Installed",
             "url": "https://dev.to/utkarsh4517/the-web2app-funnel-where-users-pay-on-the-web-and-open-the-ios-app-already-logged-in-even-before-456f",
             "description": "I built this crazy seamless system (Not sure, how its done usually in the industry), Where we are..."
         },
         {
-            "title": "The Road to 7 Million: How Balatro Actually Reached the World",
-            "url": "https://dev.to/prince_t_research/the-road-to-7-million-how-balatro-actually-reached-the-world-18mb",
-            "description": "A verified case study of how Balatro reached the world: a solo dev, a human scouting routine, streams, demos, and a documented wishlist curve from 48 to 208,401."
-        },
-        {
-            "title": "How to Implement Snapchat Registration Signal Checks for Audience Segmentation",
-            "url": "https://dev.to/numberchecker/how-to-implement-snapchat-registration-signal-checks-for-audience-segmentation-4jg2",
-            "description": "In modern marketing automation, relying on static data validation is often insufficient. As regional..."
-        },
-        {
-            "title": "A homepage SEO punch-list that doesn\u2019t become a three-week rabbit hole",
-            "url": "https://dev.to/kzahiri/a-homepage-seo-punch-list-that-doesnt-become-a-three-week-rabbit-hole-o7",
-            "description": "Most SEO audits dump hundreds of warnings. Owners still don\u2019t know what to fix first.  Before you..."
-        },
-        {
-            "title": "What Real Users Made Me Simplify",
-            "url": "https://dev.to/altuntas_gokcer_56ebce63b/what-real-users-made-me-simplify-4id5",
-            "description": "What Real Users Made Me Simplify   There\u2019s a strange thing that happens when real people..."
+            "title": "We said \"point your links at someone else's reputation.\" Two people measured it and we were half wrong.",
+            "url": "https://dev.to/bananafestdestiny/we-said-point-your-links-at-someone-elses-reputation-two-people-measured-it-and-we-were-half-5f20",
+            "description": "A listing can return HTTP 200 with your title on it and appear in no sitemap, no homepage and no category page \u2014 a live page nobody can reach. Two rea"
         }
     ]
 }
