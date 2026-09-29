@@ -1,30 +1,30 @@
 {
-    "last_updated": "2026-09-28 03:36:17 UTC",
+    "last_updated": "2026-09-29 04:11:28 UTC",
     "articles": [
         {
-            "title": "Zero Google Play Ratings: App Visibility Explained",
-            "url": "https://dev.to/vmzavas/zero-google-play-ratings-app-visibility-explained-4b8i",
-            "description": "Many developers believe passing production review automatically brings search traffic, but a Google..."
+            "title": "Building an AI Content Strategy Agent with Hindsight",
+            "url": "https://dev.to/sai_sreeja_8/building-an-ai-content-strategy-agent-with-hindsight-k3a",
+            "description": "Creating content consistently is not enough for a brand to build a strong online presence. The bigger..."
         },
         {
-            "title": "I cut two dozen free spec trailers for founders. The silence taught me more than the replies.",
-            "url": "https://dev.to/loveoftheai/i-cut-two-dozen-free-spec-trailers-for-founders-the-silence-taught-me-more-than-the-replies-60k",
-            "description": "A few weeks ago I started cutting unsolicited 40\u201360 second trailers for small products and sending..."
+            "title": "Stop Renting Your Distribution",
+            "url": "https://dev.to/goodpa/stop-renting-your-distribution-3m34",
+            "description": "Stop Renting Your Distribution   Read Hacker News for a week and a pattern falls out. \"So..."
         },
         {
-            "title": "Automated Competitor Keyword Research Without Losing Your Weekend",
-            "url": "https://dev.to/jan_inteldo/automated-competitor-keyword-research-without-losing-your-weekend-3ki4",
-            "description": "You exported 20,000 keywords from a competitor gap analysis, and about half of them turn out to be..."
+            "title": "Getting the downloads was the easy part. Retention is the real game.",
+            "url": "https://dev.to/ayotemi_therhymegame/getting-the-downloads-was-the-easy-part-retention-is-the-real-game-3n45",
+            "description": "I'm Ayotemi, co-founder of The Rhyme Game, a freestyle rap training app. In my last post I broke down..."
         },
         {
-            "title": "Owned accounts beat rented reach when teams get busy",
-            "url": "https://dev.to/xiong_849ed1427a2d0e853f9/owned-accounts-beat-rented-reach-when-teams-get-busy-3c88",
-            "description": "When a launch week eats the calendar, the first thing that disappears is often the public trail: the..."
+            "title": "How AI Is Automating Influencer Marketing for SaaS Teams in 2026",
+            "url": "https://dev.to/productwatch/how-ai-is-automating-influencer-marketing-for-saas-teams-in-2026-551k",
+            "description": "For many SaaS engineering and growth teams, the challenge is not just building a great product, but..."
         },
         {
-            "title": "The Numbers Moved. The Next Decision Did Not Get Easier.",
-            "url": "https://dev.to/dl_notes/the-numbers-moved-the-next-decision-did-not-get-easier-57p1",
-            "description": "One public founder post reported more than 35,000 content views and 1,500 visits to the site. Paid..."
+            "title": "Why Does My Email Go to Spam? A Diagnostic Order That Actually Works",
+            "url": "https://dev.to/denys_button/why-does-my-email-go-to-spam-a-diagnostic-order-that-actually-works-2gih",
+            "description": "A step-by-step order for diagnosing why email lands in spam: technical auth first, then reputation..."
         }
     ]
 }
