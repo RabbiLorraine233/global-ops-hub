@@ -1,30 +1,30 @@
 {
-    "last_updated": "2026-09-29 04:11:28 UTC",
+    "last_updated": "2026-09-30 03:56:53 UTC",
     "articles": [
         {
-            "title": "Building an AI Content Strategy Agent with Hindsight",
-            "url": "https://dev.to/sai_sreeja_8/building-an-ai-content-strategy-agent-with-hindsight-k3a",
-            "description": "Creating content consistently is not enough for a brand to build a strong online presence. The bigger..."
+            "title": "How Meta's ad prices moved quarter by quarter (2021\u20132026), from Meta's own earnings reports",
+            "url": "https://dev.to/nacim_lahouioui_8a468ac06/how-metas-ad-prices-moved-quarter-by-quarter-2021-2026-from-metas-own-earnings-reports-29bg",
+            "description": "Meta doesn't publish a CPM or a dollar price per ad. What it does publish, every quarter, is two..."
         },
         {
-            "title": "Stop Renting Your Distribution",
-            "url": "https://dev.to/goodpa/stop-renting-your-distribution-3m34",
-            "description": "Stop Renting Your Distribution   Read Hacker News for a week and a pattern falls out. \"So..."
+            "title": "Cold Email to Local Businesses: Check This Before You Hit Send",
+            "url": "https://dev.to/galactic_outreach/cold-email-to-local-businesses-check-this-before-you-hit-send-2jbp",
+            "description": "Your code doesn't ship without a linter. Here's the sending-domain setup and the pre-send checks that..."
         },
         {
-            "title": "Getting the downloads was the easy part. Retention is the real game.",
-            "url": "https://dev.to/ayotemi_therhymegame/getting-the-downloads-was-the-easy-part-retention-is-the-real-game-3n45",
-            "description": "I'm Ayotemi, co-founder of The Rhyme Game, a freestyle rap training app. In my last post I broke down..."
+            "title": "Search is a door, not a billboard",
+            "url": "https://dev.to/xiong_849ed1427a2d0e853f9/search-is-a-door-not-a-billboard-4cok",
+            "description": "Teams still talk as if the goal were a spike. Buyers behave more like door-checkers: can I verify who..."
         },
         {
-            "title": "How AI Is Automating Influencer Marketing for SaaS Teams in 2026",
-            "url": "https://dev.to/productwatch/how-ai-is-automating-influencer-marketing-for-saas-teams-in-2026-551k",
-            "description": "For many SaaS engineering and growth teams, the challenge is not just building a great product, but..."
+            "title": "A GA4 Event Naming Convention Your Whole Team Can Follow",
+            "url": "https://dev.to/rokya_elbarbary_8e9bbb0da/a-ga4-event-naming-convention-your-whole-team-can-follow-2h68",
+            "description": "Google Analytics 4 lets anyone who can edit a tag create a new event name. That flexibility is useful..."
         },
         {
-            "title": "Why Does My Email Go to Spam? A Diagnostic Order That Actually Works",
-            "url": "https://dev.to/denys_button/why-does-my-email-go-to-spam-a-diagnostic-order-that-actually-works-2gih",
-            "description": "A step-by-step order for diagnosing why email lands in spam: technical auth first, then reputation..."
+            "title": "A Webhook Runbook for Marketing Automation That Never Loses a Lead",
+            "url": "https://dev.to/rokya_elbarbary_8e9bbb0da/a-webhook-runbook-for-marketing-automation-that-never-loses-a-lead-4052",
+            "description": "A typical lead journey now crosses several systems: a website form, an automation tool, a CRM, a..."
         }
     ]
 }
