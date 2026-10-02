@@ -1,30 +1,30 @@
 {
-    "last_updated": "2026-10-01 04:06:51 UTC",
+    "last_updated": "2026-10-02 04:01:11 UTC",
     "articles": [
         {
-            "title": "15-Person Electrical Shop Can't Trace a Single Dollar of Ad Spend to Revenue",
-            "url": "https://dev.to/richard_smith_154156d471ef/15-person-electrical-shop-cant-trace-a-single-dollar-of-ad-spend-to-revenue-e8g",
-            "description": "Ran into an interesting problem while talking to a contractor friend last week. His shop has been..."
+            "title": "How to detect any website's tech stack in bulk (and why a real browser finds 2x more)",
+            "url": "https://dev.to/swiftkit_dev/how-to-detect-any-websites-tech-stack-in-bulk-and-why-a-real-browser-finds-2x-more-4dfb",
+            "description": "How technology fingerprinting works, what you can detect from HTML, headers, cookies and DNS, and what you miss without running JavaScript."
         },
         {
-            "title": "I'm a Solo Founder. An AI Agent Runs My Marketing.",
-            "url": "https://dev.to/vayqube/im-a-solo-founder-an-ai-agent-runs-my-marketing-5b13",
-            "description": "I'm a technical founder. I can build a full SaaS product alone \u2014 backend, frontend, infra, the works...."
+            "title": "From AI Trading Signals to Autonomous DeFi: Building a Risk-Controlled AI Agent",
+            "url": "https://dev.to/_5c75b1d3a1b3628dec81_58/from-ai-trading-signals-to-autonomous-defi-building-a-risk-controlled-ai-agent-590m",
+            "description": "From AI Trading Signals to Autonomous DeFi   Exploring a risk-controlled architecture that..."
         },
         {
-            "title": "I Tried 6 Product Hunt Alternatives. Here's Where Indie Developers Actually Get Traction",
-            "url": "https://dev.to/spran/i-tried-6-product-hunt-alternatives-heres-where-indie-developers-actually-get-traction-1057",
-            "description": "Look, I get it. Product Hunt is the obvious choice when you're launching something. It's the..."
+            "title": "App Store Optimization (ASO) Basics",
+            "url": "https://dev.to/godofgeeks/app-store-optimization-aso-basics-33oo",
+            "description": "Unlock Your App's Potential: A Deep Dive into App Store Optimization (ASO) Basics   Ever..."
         },
         {
-            "title": "My Journey Into Freelancing & Digital Marketing",
-            "url": "https://dev.to/farooq_bibire_763e75e9bf6/my-journey-into-freelancing-digital-marketing-416m",
-            "description": "*Hello everyone! * I\u2019m a freelancer with a growing interest in digital marketing, online business,..."
+            "title": "Our page about a competitor opens by telling you to go and fix their settings",
+            "url": "https://dev.to/daniel_pertu/our-page-about-a-competitor-opens-by-telling-you-to-go-and-fix-their-settings-39nh",
+            "description": "Notifio has fifteen pages about other companies' alert features and five pages comparing itself to..."
         },
         {
-            "title": "Cold Email to Local Businesses: Check This Before You Hit Send",
-            "url": "https://dev.to/galactic_outreach/cold-email-to-local-businesses-check-this-before-you-hit-send-2jbp",
-            "description": "Your code doesn't ship without a linter. Here's the sending-domain setup and the pre-send checks that..."
+            "title": "I Built 14 Free Calculators to Get SEO Traffic \u2014 Here's What Worked",
+            "url": "https://dev.to/bitearcade/i-built-14-free-calculators-to-get-seo-traffic-heres-what-worked-3gg7",
+            "description": "The Problem: Blogging Takes Too Long   Like every indie hacker, I started with a blog. I..."
         }
     ]
 }
