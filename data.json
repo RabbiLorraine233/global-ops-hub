@@ -1,30 +1,30 @@
 {
-    "last_updated": "2026-10-06 04:50:00 UTC",
+    "last_updated": "2026-10-07 04:16:10 UTC",
     "articles": [
         {
-            "title": "How to grow a b2b newsletter",
-            "url": "https://dev.to/batscoutdotcom/how-to-grow-a-b2b-newsletter-3pe2",
-            "description": "How to grow a b2b newsletterSeptember 30, 2026  Building a B2B newsletter that actually generates..."
+            "title": "B2b lead generation guide",
+            "url": "https://dev.to/batscoutdotcom/b2b-lead-generation-guide-51nk",
+            "description": "B2b lead generation guideSeptember 27, 2026  Most B2B companies don't have a lead problem \u2014 they have..."
         },
         {
-            "title": "Linkedin prospecting tips",
-            "url": "https://dev.to/batscoutdotcom/linkedin-prospecting-tips-1c84",
-            "description": "Linkedin prospecting tipsOctober 01, 2026  Most LinkedIn prospecting advice is either outdated or..."
+            "title": "Influencer marketing for b2b",
+            "url": "https://dev.to/batscoutdotcom/influencer-marketing-for-b2b-32a1",
+            "description": "Influencer marketing for b2bSeptember 26, 2026  B2B buyers don't trust ads \u2014 they trust experts. But..."
         },
         {
-            "title": "How to find influencers with contacts",
-            "url": "https://dev.to/batscoutdotcom/how-to-find-influencers-with-contacts-3342",
-            "description": "How to find influencers with contactsSeptember 30, 2026  Finding influencers is easy. Finding their..."
+            "title": "How to find leads for your business",
+            "url": "https://dev.to/batscoutdotcom/how-to-find-leads-for-your-business-3699",
+            "description": "How to find leads for your businessSeptember 27, 2026  Generating consistent, high-quality leads is..."
         },
         {
-            "title": "Social Media Marketing in 2026: A Practical Playbook for Founders, Marketers, and Product Teams",
-            "url": "https://dev.to/softlogicsllc/social-media-marketing-in-2026-a-practical-playbook-for-founders-marketers-and-product-teams-1h5a",
-            "description": "Social media used to be the marketing team's job, and developers stayed out of it. That split doesn't..."
+            "title": "Free SEO Tools for Technical SEO, Keywords, Sitemaps, Schema & More",
+            "url": "https://dev.to/bellal_hossain_057bfd620a/free-seo-tools-for-technical-seo-keywords-sitemaps-schema-more-5chn",
+            "description": "A practical collection of free browser-based SEO tools for checking metadata, sitemaps, robots.txt, canonical URLs, schema markup, redirects, keywords, search intent, and other SEO tasks."
         },
         {
-            "title": "Mailchimp's Peak Contact Billing Is a Trap and I Have the $308 Invoice to Prove It",
-            "url": "https://dev.to/tylerdawsonb/mailchimps-peak-contact-billing-is-a-trap-and-i-have-the-308-invoice-to-prove-it-144d",
-            "description": "Mailchimp does not bill by how many emails you send. It bills by how many contacts you have stored...."
+            "title": "I built a newsletter swap tool, then learned the market had moved",
+            "url": "https://dev.to/arian_gogani1/i-built-a-newsletter-swap-tool-then-learned-the-market-had-moved-2aj7",
+            "description": "I started with a simple picture of a newsletter swap: two publishers agree to feature each other,..."
         }
     ]
 }
