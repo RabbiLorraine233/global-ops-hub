@@ -1,30 +1,30 @@
 {
-    "last_updated": "2026-10-11 03:57:05 UTC",
+    "last_updated": "2026-10-12 04:17:40 UTC",
     "articles": [
         {
-            "title": "The Locked Spec: Why Your Digital Products Look Inconsistent",
-            "url": "https://dev.to/revanzart/the-locked-spec-why-your-digital-products-look-inconsistent-2jg0",
-            "description": "The Locked Spec: Why Your Digital Products Look Inconsistent. Grounded in a real asset pipeline: platform rules, metadata, costs."
+            "title": "Build in Public #2: Where Do Free Tools Get Found? (Still 0 Sales)",
+            "url": "https://dev.to/showayzun/build-in-public-2-where-do-free-tools-get-found-still-0-sales-2kii",
+            "description": "This is post #2 in a build-in-public series. Quick recap: one human plus a small team of AI agents is..."
         },
         {
-            "title": "\u0e08\u0e32\u0e01 SEO \u0e2a\u0e39\u0e48 GEO: 3 \u0e14\u0e48\u0e32\u0e19\u0e17\u0e35\u0e48\u0e17\u0e33\u0e43\u0e2b\u0e49 ChatGPT, Gemini, Perplexity \u0e40\u0e25\u0e37\u0e2d\u0e01\u0e2d\u0e49\u0e32\u0e07\u0e40\u0e27\u0e47\u0e1a\u0e04\u0e38\u0e13",
-            "url": "https://dev.to/sarantoon/cchaak-seo-suu-geo-3-daanthiithamaih-chatgpt-gemini-perplexity-eluuekaangewbkhun-5c21",
-            "description": "\u0e08\u0e32\u0e01 SEO \u0e2a\u0e39\u0e48 GEO: 3 \u0e14\u0e48\u0e32\u0e19\u0e17\u0e35\u0e48\u0e17\u0e33\u0e43\u0e2b\u0e49 ChatGPT, Gemini, Perplexity \u0e40\u0e25\u0e37\u0e2d\u0e01\u0e2d\u0e49\u0e32\u0e07\u0e40\u0e27\u0e47\u0e1a\u0e04\u0e38\u0e13   \u0e42\u0e14\u0e22 Nokka..."
+            "title": "Building a Pay-to-Take Spot with PHP, MySQL and Stripe Manual Capture",
+            "url": "https://dev.to/azettl/building-a-pay-to-take-spot-with-php-mysql-and-stripe-manual-capture-57op",
+            "description": "In this guide, we will walk through the payment flow behind OneLinkWins, a site with a single paid..."
         },
         {
-            "title": "Where to Submit Your Startup for Free (And What to Do After You Hit Submit)",
-            "url": "https://dev.to/spran1/where-to-submit-your-startup-for-free-and-what-to-do-after-you-hit-submit-3gno",
-            "description": "Short answer: submit your startup to free launch boards, startup directories, and the communities..."
+            "title": "800 press reprints, 3 visitors: what 10 recent launch posts on DEV say about getting your first users",
+            "url": "https://dev.to/kevan3010/800-press-reprints-3-visitors-what-10-recent-launch-posts-on-dev-say-about-getting-your-first-3j97",
+            "description": "Every week on DEV, someone writes the post nobody enjoys writing: I launched, and almost nobody..."
         },
         {
-            "title": "I pulled 50 Google ads from monday.com and Asana. Here is what Google's ad library reveals",
-            "url": "https://dev.to/kyungmin_lee_85c597046ee0/i-pulled-50-google-ads-from-mondaycom-and-asana-here-is-what-googles-ad-library-reveals-3a8p",
-            "description": "Google keeps a public ad library: the Ads Transparency Center. Type a company name and you can scroll..."
+            "title": "From One Prompt to 39 Finished Products: What Actually Broke",
+            "url": "https://dev.to/revanzart/from-one-prompt-to-39-finished-products-what-actually-broke-bcg",
+            "description": "From One Prompt to 39 Finished Products: What Actually Broke. Grounded in a real asset pipeline: platform rules, metadata, costs."
         },
         {
-            "title": "I'm tracking what AI engines recommend for AI search visibility \u2014 in public, updated weekly",
-            "url": "https://dev.to/reacherwu/im-tracking-what-ai-engines-recommend-for-ai-search-visibility-in-public-updated-weekly-nhb",
-            "description": "I'm tracking what AI engines recommend for AI search visibility \u2014 in public, updated..."
+            "title": "AI Changing Local Search: What the 6X Growth Means for Local SEO",
+            "url": "https://dev.to/arshina_mariyam_f322e69a2/ai-changing-local-search-what-the-6x-growth-means-for-local-seo-212p",
+            "description": "Introduction Artificial intelligence (AI) is changing how people search for local businesses online...."
         }
     ]
 }
