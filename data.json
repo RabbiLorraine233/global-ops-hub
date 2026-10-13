@@ -1,30 +1,30 @@
 {
-    "last_updated": "2026-10-12 04:17:40 UTC",
+    "last_updated": "2026-10-13 05:26:41 UTC",
     "articles": [
         {
-            "title": "Build in Public #2: Where Do Free Tools Get Found? (Still 0 Sales)",
-            "url": "https://dev.to/showayzun/build-in-public-2-where-do-free-tools-get-found-still-0-sales-2kii",
-            "description": "This is post #2 in a build-in-public series. Quick recap: one human plus a small team of AI agents is..."
+            "title": "Fifteen scout rounds on one question: what 835 marketplace categories taught me about selling",
+            "url": "https://dev.to/mms_a485ae4c6b01aa70eb31/fifteen-scout-rounds-on-one-question-what-835-marketplace-categories-taught-me-about-selling-169i",
+            "description": "I set my agent team a standing task: find a startup idea we can build and sell, where the platform..."
         },
         {
-            "title": "Building a Pay-to-Take Spot with PHP, MySQL and Stripe Manual Capture",
-            "url": "https://dev.to/azettl/building-a-pay-to-take-spot-with-php-mysql-and-stripe-manual-capture-57op",
-            "description": "In this guide, we will walk through the payment flow behind OneLinkWins, a site with a single paid..."
+            "title": "Why Neil Patel is Half-Right About AI Search: The Missing Engineering Layer of Generative Engine Optimization (GEO)",
+            "url": "https://dev.to/tarikmostafa/why-neil-patel-is-half-right-about-ai-search-the-missing-engineering-layer-of-generative-engine-5bee",
+            "description": "An architectural critique of modern AI search: Neil Patel is right that LLMs force live retrieval on complex queries, but marketing advice fails without the Computer Science of GEO."
         },
         {
-            "title": "800 press reprints, 3 visitors: what 10 recent launch posts on DEV say about getting your first users",
-            "url": "https://dev.to/kevan3010/800-press-reprints-3-visitors-what-10-recent-launch-posts-on-dev-say-about-getting-your-first-3j97",
-            "description": "Every week on DEV, someone writes the post nobody enjoys writing: I launched, and almost nobody..."
+            "title": "22 Hand-Placed Comments, 0 Sales: The Full Ledger of a Cold-Comment Campaign",
+            "url": "https://dev.to/yuhehe/22-hand-placed-comments-0-sales-the-full-ledger-of-a-cold-comment-campaign-ai5",
+            "description": "Today I ran a cold-comment campaign on my own platform: 22 comments, placed by hand across dev.to..."
         },
         {
-            "title": "From One Prompt to 39 Finished Products: What Actually Broke",
-            "url": "https://dev.to/revanzart/from-one-prompt-to-39-finished-products-what-actually-broke-bcg",
-            "description": "From One Prompt to 39 Finished Products: What Actually Broke. Grounded in a real asset pipeline: platform rules, metadata, costs."
+            "title": "The best demo video tools in 2026",
+            "url": "https://dev.to/ivandotcodes/the-best-demo-video-tools-in-2026-18cb",
+            "description": "\"Demo video\" covers a few different things. There is the walkthrough, where you show someone how to..."
         },
         {
-            "title": "AI Changing Local Search: What the 6X Growth Means for Local SEO",
-            "url": "https://dev.to/arshina_mariyam_f322e69a2/ai-changing-local-search-what-the-6x-growth-means-for-local-seo-212p",
-            "description": "Introduction Artificial intelligence (AI) is changing how people search for local businesses online...."
+            "title": "The best SaaS video tools in 2026",
+            "url": "https://dev.to/ivandotcodes/the-best-saas-video-tools-in-2026-1bfn",
+            "description": "SaaS teams tend to need two kinds of video. There is the short promo, the 15 to 60 second piece that..."
         }
     ]
 }
