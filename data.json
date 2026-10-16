@@ -1,30 +1,30 @@
 {
-    "last_updated": "2026-10-15 03:09:47 UTC",
+    "last_updated": "2026-10-16 03:05:39 UTC",
     "articles": [
         {
-            "title": "A Practical Guide to Preparing App Store Screenshots Before Launch",
-            "url": "https://dev.to/pearygo/a-practical-guide-to-preparing-app-store-screenshots-before-launch-3215",
-            "description": "A Practical Guide to Preparing App Store Screenshots Before Launch   Publishing a mobile app..."
+            "title": "Writing Ranked Keywords And Title Casing Rules Into A Stock Metadata Generator",
+            "url": "https://dev.to/revanzart/writing-ranked-keywords-and-title-casing-rules-into-a-stock-metadata-generator-3fol",
+            "description": "Writing Ranked Keywords And Title Casing Rules Into A Stock Metadata Generator. Grounded in a real asset pipeline: platform rules, metadata, costs."
         },
         {
-            "title": "How I Cut My AI Image Bill by Half Without Changing the Model",
-            "url": "https://dev.to/revanzart/how-i-cut-my-ai-image-bill-by-half-without-changing-the-model-1ehf",
-            "description": "How I Cut My AI Image Bill by Half Without Changing the Model. Grounded in a real asset pipeline: platform rules, metadata, costs."
+            "title": "Why My Vector Exports Got Rejected On Adobe Stock And How I Fixed The Trace Pipeline",
+            "url": "https://dev.to/revanzart/why-my-vector-exports-got-rejected-on-adobe-stock-and-how-i-fixed-the-trace-pipeline-3ce3",
+            "description": "Why My Vector Exports Got Rejected On Adobe Stock And How I Fixed The Trace Pipeline. Grounded in a real asset pipeline: platform rules, metadata, costs."
         },
         {
-            "title": "A reader asked which channel surprised me most. The answer was my inbox.",
-            "url": "https://dev.to/coachdanielg/a-reader-asked-which-channel-surprised-me-most-the-answer-was-my-inbox-3a7h",
-            "description": "If you have been posting about your product every single day and the graph is still flat, the number..."
+            "title": "Building The Exact Adobe, Vecteezy And Dreamstime Metadata CSVs With One Python Script",
+            "url": "https://dev.to/revanzart/building-the-exact-adobe-vecteezy-and-dreamstime-metadata-csvs-with-one-python-script-3m9h",
+            "description": "Building The Exact Adobe, Vecteezy And Dreamstime Metadata CSVs With One Python Script. Grounded in a real asset pipeline: platform rules, metadata, costs."
         },
         {
-            "title": "Ads scale a channel that already converts. They do not create one.",
-            "url": "https://dev.to/maxxthematepng/ads-scale-a-channel-that-already-converts-they-do-not-create-one-52mp",
-            "description": "The sequence people want is: launch, buy ads, get customers. The sequence that shows up in the..."
+            "title": "How to A/B Test Two Landing Pages Using Campaign Links",
+            "url": "https://dev.to/yutotanaka/how-to-ab-test-two-landing-pages-using-campaign-links-p44",
+            "description": "You have two landing pages and one campaign link. You want to know which page converts better without..."
         },
         {
-            "title": "The Free Tool Stack I Use to Sell Digital Products Without a Design Team",
-            "url": "https://dev.to/revanzart/the-free-tool-stack-i-use-to-sell-digital-products-without-a-design-team-4ob2",
-            "description": "The Free Tool Stack I Use to Sell Digital Products Without a Design Team. Grounded in a real asset pipeline: platform rules, metadata, costs."
+            "title": "Why Adobe Rejects Your Metadata CSV Header Instantly And How To Fix It",
+            "url": "https://dev.to/revanzart/why-adobe-rejects-your-metadata-csv-header-instantly-and-how-to-fix-it-4172",
+            "description": "Why Adobe Rejects Your Metadata CSV Header Instantly And How To Fix It. Grounded in a real asset pipeline: platform rules, metadata, costs."
         }
     ]
 }
