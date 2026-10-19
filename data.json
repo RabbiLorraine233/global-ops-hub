@@ -1,30 +1,30 @@
 {
-    "last_updated": "2026-10-18 02:59:27 UTC",
+    "last_updated": "2026-10-19 03:13:00 UTC",
     "articles": [
         {
-            "title": "Writing Ranked Keywords And Title Casing Rules Into A Stock Metadata Generator",
-            "url": "https://dev.to/revanzart/writing-ranked-keywords-and-title-casing-rules-into-a-stock-metadata-generator-3fol",
-            "description": "Writing Ranked Keywords And Title Casing Rules Into A Stock Metadata Generator. Grounded in a real asset pipeline: platform rules, metadata, costs."
+            "title": "Binarising AI Line Art For Vector Traceability: What Survived The Adobe CSV Test",
+            "url": "https://dev.to/revanzart/binarising-ai-line-art-for-vector-traceability-what-survived-the-adobe-csv-test-1hd4",
+            "description": "Binarising AI Line Art For Vector Traceability: What Survived The Adobe CSV Test. Grounded in a real asset pipeline: platform rules, metadata, costs."
         },
         {
-            "title": "Why My Vector Exports Got Rejected On Adobe Stock And How I Fixed The Trace Pipeline",
-            "url": "https://dev.to/revanzart/why-my-vector-exports-got-rejected-on-adobe-stock-and-how-i-fixed-the-trace-pipeline-3ce3",
-            "description": "Why My Vector Exports Got Rejected On Adobe Stock And How I Fixed The Trace Pipeline. Grounded in a real asset pipeline: platform rules, metadata, costs."
+            "title": "How to Cut AI Image Costs by Reading the Pricing Page",
+            "url": "https://dev.to/revanzart/how-to-cut-ai-image-costs-by-reading-the-pricing-page-2kjj",
+            "description": "How to Cut AI Image Costs by Reading the Pricing Page. Grounded in a real asset pipeline: platform rules, metadata, costs."
         },
         {
-            "title": "Building The Exact Adobe, Vecteezy And Dreamstime Metadata CSVs With One Python Script",
-            "url": "https://dev.to/revanzart/building-the-exact-adobe-vecteezy-and-dreamstime-metadata-csvs-with-one-python-script-3m9h",
-            "description": "Building The Exact Adobe, Vecteezy And Dreamstime Metadata CSVs With One Python Script. Grounded in a real asset pipeline: platform rules, metadata, costs."
+            "title": "How to Get AI Assistants to Describe Your Product Correctly",
+            "url": "https://dev.to/appierun_66/how-to-get-ai-assistants-to-describe-your-product-correctly-51fa",
+            "description": "When an AI assistant gets your pricing wrong or mixes you up with a company that has a similar name,..."
         },
         {
-            "title": "How to A/B Test Two Landing Pages Using Campaign Links",
-            "url": "https://dev.to/yutotanaka/how-to-ab-test-two-landing-pages-using-campaign-links-p44",
-            "description": "You have two landing pages and one campaign link. You want to know which page converts better without..."
+            "title": "WhatsApp Business API Pricing in India (2026): Every Layer of the Bill",
+            "url": "https://dev.to/xreach51/whatsapp-business-api-pricing-in-india-2026-every-layer-of-the-bill-12i7",
+            "description": "Meta charges \u20b90.8631 per marketing message in India. The full bill: Meta rates, BSP markup, platform fees, GST and the October 2026 change."
         },
         {
-            "title": "Why Adobe Rejects Your Metadata CSV Header Instantly And How To Fix It",
-            "url": "https://dev.to/revanzart/why-adobe-rejects-your-metadata-csv-header-instantly-and-how-to-fix-it-4172",
-            "description": "Why Adobe Rejects Your Metadata CSV Header Instantly And How To Fix It. Grounded in a real asset pipeline: platform rules, metadata, costs."
+            "title": "Google's Request Indexing Quota: What I Measured",
+            "url": "https://dev.to/eye_java_420f1faa10ae8b86/googles-request-indexing-quota-what-i-measured-6ce",
+            "description": "Search Console limits, labels, and quotas change without notice \u2014 the quota here is not documented at..."
         }
     ]
 }
