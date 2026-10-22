@@ -1,30 +1,30 @@
 {
-    "last_updated": "2026-10-21 03:16:53 UTC",
+    "last_updated": "2026-10-22 03:15:30 UTC",
     "articles": [
         {
-            "title": "Generative engine optimization (GEO): check if ChatGPT, Perplexity and Gemini cite your brand",
-            "url": "https://dev.to/projectdev/generative-engine-optimization-geo-check-if-chatgpt-perplexity-and-gemini-cite-your-brand-15eh",
-            "description": "Disclosure: I built the Apify Actor used in this tutorial. This post was written with AI..."
+            "title": "How to get search volume and keyword difficulty for 1,000 keywords for $4.09 (no Ahrefs subscription)",
+            "url": "https://dev.to/zander_erwin_88c1da8e5e85/how-to-get-search-volume-and-keyword-difficulty-for-1000-keywords-for-409-no-ahrefs-36i9",
+            "description": "If you only need search volume, CPC and keyword difficulty for a list of keywords, a full SEO..."
         },
         {
-            "title": "Muse, Dots, Instinct, Grok Bot y Tab: agentes que compran",
-            "url": "https://dev.to/genscore/muse-dots-instinct-grok-bot-y-tab-agentes-que-compran-3f06",
-            "description": "Muse (Meta), Dots (OpenAI), Instinct, Grok Bot y Tab son agentes personales de inteligencia..."
+            "title": "23 of 30 Canva Meta ad texts were Indonesian. LinkedIn sells Enterprise",
+            "url": "https://dev.to/adintel_lab/23-of-30-canva-meta-ad-texts-were-indonesian-linkedin-sells-enterprise-2k4a",
+            "description": "Canva's Meta copy talks to students and side hustlers in Indonesian; its LinkedIn copy reminds buyers Canva used to be a \"casual design app\"."
         },
         {
-            "title": "Pricing Digital Asset Kits For Global Buyers: What 39 Products Taught Me About Tiered CSV Channels",
-            "url": "https://dev.to/revanzart/pricing-digital-asset-kits-for-global-buyers-what-39-products-taught-me-about-tiered-csv-channels-4phc",
-            "description": "Pricing Digital Asset Kits For Global Buyers: What 39 Products Taught Me About Tiered CSV Channels. Grounded in a real asset pipeline: platform rules, metadata, costs."
+            "title": "Documenting Your Asset Pipeline: Four Python Scripts That Turned One Batch Into 39 Products",
+            "url": "https://dev.to/revanzart/documenting-your-asset-pipeline-four-python-scripts-that-turned-one-batch-into-39-products-ana",
+            "description": "Documenting Your Asset Pipeline: Four Python Scripts That Turned One Batch Into 39 Products. Grounded in a real asset pipeline: platform rules, metadata, costs."
         },
         {
-            "title": "Setting One Price Across Adobe, Vecteezy And Dreamstime: The Metadata Tradeoffs Nobody Mentions",
-            "url": "https://dev.to/revanzart/setting-one-price-across-adobe-vecteezy-and-dreamstime-the-metadata-tradeoffs-nobody-mentions-2h9m",
-            "description": "Setting One Price Across Adobe, Vecteezy And Dreamstime: The Metadata Tradeoffs Nobody Mentions. Grounded in a real asset pipeline: platform rules, metadata, costs."
+            "title": "The Two-Layer QC Setup That Kept 39 Generated Products Out Of The Reject Pile",
+            "url": "https://dev.to/revanzart/the-two-layer-qc-setup-that-kept-39-generated-products-out-of-the-reject-pile-48ip",
+            "description": "The Two-Layer QC Setup That Kept 39 Generated Products Out Of The Reject Pile. Grounded in a real asset pipeline: platform rules, metadata, costs."
         },
         {
-            "title": "ACP, UCP y AP2: protocolos del comercio ag\u00e9ntico",
-            "url": "https://dev.to/genscore/acp-ucp-y-ap2-protocolos-del-comercio-agentico-eg8",
-            "description": "Los protocolos del comercio ag\u00e9ntico son las reglas comunes con las que un agente de IA descubre..."
+            "title": "Why My Single-Core Server Handles Metadata, PDFs And Covers With Just Pillow And Reportlab",
+            "url": "https://dev.to/revanzart/why-my-single-core-server-handles-metadata-pdfs-and-covers-with-just-pillow-and-reportlab-3dig",
+            "description": "Why My Single-Core Server Handles Metadata, PDFs And Covers With Just Pillow And Reportlab. Grounded in a real asset pipeline: platform rules, metadata, costs."
         }
     ]
 }
