@@ -1,30 +1,30 @@
 {
-    "last_updated": "2026-10-24 03:14:55 UTC",
+    "last_updated": "2026-10-25 03:09:45 UTC",
     "articles": [
         {
-            "title": "How My Metadata Script Skips Bad Files Instead Of Crashing A 300-File Run",
-            "url": "https://dev.to/revanzart/how-my-metadata-script-skips-bad-files-instead-of-crashing-a-300-file-run-3cgc",
-            "description": "How My Metadata Script Skips Bad Files Instead Of Crashing A 300-File Run. Grounded in a real asset pipeline: platform rules, metadata, costs."
+            "title": "My AI agent writes my marketing. Today I made it prove every post is true.",
+            "url": "https://dev.to/daino0416/my-ai-agent-writes-my-marketing-today-i-made-it-prove-every-post-is-true-199g",
+            "description": "I build an app called Scribo by myself. To save time, I let an AI agent write my marketing posts...."
         },
         {
-            "title": "Building A Retry-And-Log Pattern For Python Scripts That Process Hundreds Of Assets",
-            "url": "https://dev.to/revanzart/building-a-retry-and-log-pattern-for-python-scripts-that-process-hundreds-of-assets-2m2b",
-            "description": "Building A Retry-And-Log Pattern For Python Scripts That Process Hundreds Of Assets. Grounded in a real asset pipeline: platform rules, metadata, costs."
+            "title": "How to Track Your Brand in Google AI Overviews Without a Paid API",
+            "url": "https://dev.to/rankvelt/how-to-track-your-brand-in-google-ai-overviews-without-a-paid-api-o0b",
+            "description": "Google AI Overviews now answer a large share of commercial questions before any website gets a click...."
         },
         {
-            "title": "\u041f\u043e\u0432\u0442\u043e\u0440\u043d\u044b\u0439 \u0432\u0435\u0431\u0445\u0443\u043a Telegram: \u043a\u0430\u043a \u043d\u0435 \u0441\u043e\u0437\u0434\u0430\u0442\u044c \u0432\u0442\u043e\u0440\u043e\u0439 \u043b\u0438\u0434 \u0432 CRM [\u043f\u0435\u0440\u0435\u043a\u0440\u0451\u0441\u0442\u043d\u0430\u044f \u043f\u0443\u0431\u043b\u0438\u043a\u0430\u0446\u0438\u044f]",
-            "url": "https://dev.to/dev24pro/povtornyi-viebkhuk-telegram-kak-nie-sozdat-vtoroi-lid-v-crm-pieriekriostnaia-publikatsiia-be8",
-            "description": "\u041f\u043e\u0432\u0442\u043e\u0440\u043d\u044b\u0439 \u0432\u0435\u0431\u0445\u0443\u043a Telegram: \u043a\u0430\u043a \u043d\u0435 \u0441\u043e\u0437\u0434\u0430\u0442\u044c \u0432\u0442\u043e\u0440\u043e\u0439 \u043b\u0438\u0434 \u0432 CRM   \u0415\u0441\u043b\u0438 \u043e\u0434\u043d\u043e \u0441\u043e\u0431\u044b\u0442\u0438\u0435 Telegram..."
+            "title": "CRM'de kapanan sat\u0131\u015f\u0131 Meta Conversions API'ye geri bildirmek: Hash, event_id ve zaman penceresi \u00fczerine geli\u015ftirici notlar\u0131",
+            "url": "https://dev.to/korayyalcin/crmde-kapanan-satisi-meta-conversions-apiye-geri-bildirmek-hash-eventid-ve-zaman-penceresi-2e2g",
+            "description": "Reklam panelinde \"lead\" say\u0131s\u0131 artarken sat\u0131\u015f ekibinin \"bu lead'lerin hi\u00e7biri al\u0131c\u0131 de\u011fil\" demesi,..."
         },
         {
-            "title": "\u041f\u043e\u0432\u0442\u043e\u0440\u043d\u044b\u0439 \u0432\u0435\u0431\u0445\u0443\u043a Telegram: \u043a\u0430\u043a \u043d\u0435 \u0441\u043e\u0437\u0434\u0430\u0442\u044c \u0432\u0442\u043e\u0440\u043e\u0439 \u043b\u0438\u0434 \u0432 CRM [cross-post]",
-            "url": "https://dev.to/dev24pro/povtornyi-viebkhuk-telegram-kak-nie-sozdat-vtoroi-lid-v-crm-cross-post-40i5",
-            "description": "Repeated Telegram Webhooks: Avoiding a Second CRM Lead   If the same Telegram event arrives..."
+            "title": "Two Lines in Requirements.txt: Pillow, Reportlab, and Nothing Else",
+            "url": "https://dev.to/revanzart/two-lines-in-requirementstxt-pillow-reportlab-and-nothing-else-e94",
+            "description": "Two Lines in Requirements.txt: Pillow, Reportlab, and Nothing Else. Grounded in a real asset pipeline: platform rules, metadata, costs."
         },
         {
-            "title": "\u0418\u0441\u0442\u043e\u0447\u043d\u0438\u043a \u0437\u0430\u043f\u0443\u0441\u043a\u0430 Telegram-\u0431\u043e\u0442\u0430: start-\u043c\u0435\u0442\u043a\u0438 \u0438 \u043f\u043e\u0432\u0442\u043e\u0440\u043d\u044b\u0435 \u043e\u0431\u0440\u0430\u0449\u0435\u043d\u0438\u044f [\u043f\u0435\u0440\u0435\u043a\u0440\u0451\u0441\u0442\u043d\u0430\u044f \u043f\u0443\u0431\u043b\u0438\u043a\u0430\u0446\u0438\u044f]",
-            "url": "https://dev.to/dev24pro/istochnik-zapuska-telegram-bota-start-mietki-i-povtornyie-obrashchieniia-pieriekriostnaia-publikatsiia-292a",
-            "description": "\u041a\u0430\u043a \u0443\u0447\u0438\u0442\u044b\u0432\u0430\u0442\u044c \u0438\u0441\u0442\u043e\u0447\u043d\u0438\u043a \u0437\u0430\u043f\u0443\u0441\u043a\u0430 Telegram-\u0431\u043e\u0442\u0430 \u0447\u0435\u0440\u0435\u0437 start   \u0414\u043b\u044f \u043a\u0430\u0436\u0434\u043e\u0433\u043e \u0440\u0430\u0437\u043c\u0435\u0449\u0435\u043d\u0438\u044f \u0437\u0430\u0432\u0435\u0434\u0438\u0442\u0435..."
+            "title": "SEO Is Changing: How to Get Your Brand Recommended by ChatGPT, Gemini & Google AI",
+            "url": "https://dev.to/abhishekjaiswal_4896/seo-is-changing-how-to-get-your-brand-recommended-by-chatgpt-gemini-google-ai-311b",
+            "description": "Imagine someone asks ChatGPT:  \"What are the best digital marketing tools for a small business?\"  Or..."
         }
     ]
 }
