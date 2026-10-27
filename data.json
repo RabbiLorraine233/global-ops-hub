@@ -1,30 +1,30 @@
 {
-    "last_updated": "2026-10-26 03:10:23 UTC",
+    "last_updated": "2026-10-27 03:40:37 UTC",
     "articles": [
         {
-            "title": "My AI agent writes my marketing. Today I made it prove every post is true.",
-            "url": "https://dev.to/daino0416/my-ai-agent-writes-my-marketing-today-i-made-it-prove-every-post-is-true-199g",
-            "description": "I build an app called Scribo by myself. To save time, I let an AI agent write my marketing posts...."
+            "title": "One Prompt Engine, 39 Products: The Scripts That Package Stock, Stickers, Templates",
+            "url": "https://dev.to/revanzart/one-prompt-engine-39-products-the-scripts-that-package-stock-stickers-templates-8hp",
+            "description": "One Prompt Engine, 39 Products: The Scripts That Package Stock, Stickers, Templates. Grounded in a real asset pipeline: platform rules, metadata, costs."
         },
         {
-            "title": "How to Track Your Brand in Google AI Overviews Without a Paid API",
-            "url": "https://dev.to/rankvelt/how-to-track-your-brand-in-google-ai-overviews-without-a-paid-api-o0b",
-            "description": "Google AI Overviews now answer a large share of commercial questions before any website gets a click...."
+            "title": "Crawl Budget for Small Sites: When It Matters and When It Doesn't",
+            "url": "https://dev.to/riichimirza/crawl-budget-for-small-sites-when-it-matters-and-when-it-doesnt-1em4",
+            "description": "Every few months someone on a dev team asks me, \"Should we be worried about crawl budget?\" The site..."
         },
         {
-            "title": "CRM'de kapanan sat\u0131\u015f\u0131 Meta Conversions API'ye geri bildirmek: Hash, event_id ve zaman penceresi \u00fczerine geli\u015ftirici notlar\u0131",
-            "url": "https://dev.to/korayyalcin/crmde-kapanan-satisi-meta-conversions-apiye-geri-bildirmek-hash-eventid-ve-zaman-penceresi-2e2g",
-            "description": "Reklam panelinde \"lead\" say\u0131s\u0131 artarken sat\u0131\u015f ekibinin \"bu lead'lerin hi\u00e7biri al\u0131c\u0131 de\u011fil\" demesi,..."
+            "title": "Automate Your Marketing Workflow With AI Agents",
+            "url": "https://dev.to/abhishekjaiswal_4896/automate-your-marketing-workflow-with-ai-agents-5eh",
+            "description": "Digital marketing involves a surprising amount of repetitive work.  Before launching a campaign, you..."
         },
         {
-            "title": "Two Lines in Requirements.txt: Pillow, Reportlab, and Nothing Else",
-            "url": "https://dev.to/revanzart/two-lines-in-requirementstxt-pillow-reportlab-and-nothing-else-e94",
-            "description": "Two Lines in Requirements.txt: Pillow, Reportlab, and Nothing Else. Grounded in a real asset pipeline: platform rules, metadata, costs."
+            "title": "Bloated requirements.txt Loses Buyers: Ship Four Scripts, Two Packages Instead",
+            "url": "https://dev.to/revanzart/bloated-requirementstxt-loses-buyers-ship-four-scripts-two-packages-instead-42k6",
+            "description": "Bloated requirements.txt Loses Buyers: Ship Four Scripts, Two Packages Instead. Grounded in a real asset pipeline: platform rules, metadata, costs."
         },
         {
-            "title": "SEO Is Changing: How to Get Your Brand Recommended by ChatGPT, Gemini & Google AI",
-            "url": "https://dev.to/abhishekjaiswal_4896/seo-is-changing-how-to-get-your-brand-recommended-by-chatgpt-gemini-google-ai-311b",
-            "description": "Imagine someone asks ChatGPT:  \"What are the best digital marketing tools for a small business?\"  Or..."
+            "title": "Soft 404s Are Quietly Killing Your SEO Fix List",
+            "url": "https://dev.to/riichimirza/soft-404s-are-quietly-killing-your-seo-fix-list-1op0",
+            "description": "You open Google Search Console, scroll to the Pages report, and there it is: a growing pile of URLs..."
         }
     ]
 }
