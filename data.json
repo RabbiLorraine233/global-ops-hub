@@ -1,30 +1,30 @@
 {
-    "last_updated": "2026-10-30 04:20:35 UTC",
+    "last_updated": "2026-10-31 04:00:07 UTC",
     "articles": [
         {
-            "title": "39 Products, One 2 GB Server: What Makes a File 'Finished' When the CSV Header Decides\"**",
-            "url": "https://dev.to/revanzart/39-products-one-2-gb-server-what-makes-a-file-finished-when-the-csv-header-decides-5an1",
-            "description": "39 Products, One 2 GB Server: What Makes a File 'Finished' When the CSV Header Decides\"**. Grounded in a real asset pipeline: platform rules, metadata, costs."
+            "title": "7 Lessons I Learned Building and Marketing a Crypto Tipping Platform",
+            "url": "https://dev.to/shydrablack/7-lessons-i-learned-building-and-marketing-a-crypto-tipping-platform-3lib",
+            "description": "When I started building BuyMePizza, I thought the hardest part would be the technical side.  Build..."
         },
         {
-            "title": "I built a free AI marketing suite because Predis.ai charges $249/month",
-            "url": "https://dev.to/zhbhaider/i-built-a-free-ai-marketing-suite-because-predisai-charges-249month-3jp8",
-            "description": "I am a school teacher from Pakistan, not a software engineer. I build free tools with AI assistance..."
+            "title": "We submitted a Bangla POS app to 50 directories. Here is what actually happened.",
+            "url": "https://dev.to/tukri/we-submitted-a-bangla-pos-app-to-50-directories-here-is-what-actually-happened-5bpa",
+            "description": "Tukri is a point-of-sale, stock and dues-book app for small shops in Bangladesh. It has a free plan..."
         },
         {
-            "title": "# 3 dev.to Article Titles: \"Finished Product\" Beyond the Art File",
-            "url": "https://dev.to/revanzart/-3-devto-article-titles-finished-product-beyond-the-art-file-3o0h",
-            "description": "# 3 dev.to Article Titles: \"Finished Product\" Beyond the Art File. Grounded in a real asset pipeline: platform rules, metadata, costs."
+            "title": "A 7-screen quiz instead of a contact form: lead funnel for a moving company in Ottawa",
+            "url": "https://dev.to/tatianakoval/a-7-screen-quiz-instead-of-a-contact-form-lead-funnel-for-a-moving-company-in-ottawa-2ja9",
+            "description": "Beaver Movers is a moving company in Ottawa. They came to us with a regular website and a regular..."
         },
         {
-            "title": "AI Automation Services for Marketing Agencies: Automating Client Reporting and Campaign Ops",
-            "url": "https://dev.to/affan_tariq_6cd52cd166a22/ai-automation-services-for-marketing-agencies-automating-client-reporting-and-campaign-ops-5aam",
-            "description": "This is  the first Monday of the month. Three account managers are exporting CSVs from Google Ads,..."
+            "title": "A Practical First-Month SEO Plan for a New Website",
+            "url": "https://dev.to/morlixcms/a-practical-first-month-seo-plan-for-a-new-website-4hf1",
+            "description": "A 30-day SEO workflow covering site access, search intent, useful content, internal links, analytics, and realistic expectations."
         },
         {
-            "title": "Which of the Best SEO Link Building Tools Fits a Solo Founder?",
-            "url": "https://dev.to/growganic/which-of-the-best-seo-link-building-tools-fits-a-solo-founder-ffk",
-            "description": "The best SEO link building tools find contacts and audit backlinks. Here is which one fits a solo founder, and why your published pages decide what they can do."
+            "title": "Building a custom GPT or Claude agent for marketing reporting",
+            "url": "https://dev.to/vickylalwani/building-a-custom-gpt-or-claude-agent-for-marketing-reporting-43pe",
+            "description": "TL;DR   A marketing reporting agent should read approved data sources, answer fixed weekly..."
         }
     ]
 }
