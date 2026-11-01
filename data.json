@@ -1,30 +1,30 @@
 {
-    "last_updated": "2026-10-31 04:00:07 UTC",
+    "last_updated": "2026-11-01 04:20:59 UTC",
     "articles": [
         {
-            "title": "7 Lessons I Learned Building and Marketing a Crypto Tipping Platform",
-            "url": "https://dev.to/shydrablack/7-lessons-i-learned-building-and-marketing-a-crypto-tipping-platform-3lib",
-            "description": "When I started building BuyMePizza, I thought the hardest part would be the technical side.  Build..."
+            "title": "md2pdf.py: Turning Markdown Docs Into Premium PDF Add-Ons With Reportlab",
+            "url": "https://dev.to/revanzart/md2pdfpy-turning-markdown-docs-into-premium-pdf-add-ons-with-reportlab-46g9",
+            "description": "md2pdf.py: Turning Markdown Docs Into Premium PDF Add-Ons With Reportlab. Grounded in a real asset pipeline: platform rules, metadata, costs."
         },
         {
-            "title": "We submitted a Bangla POS app to 50 directories. Here is what actually happened.",
-            "url": "https://dev.to/tukri/we-submitted-a-bangla-pos-app-to-50-directories-here-is-what-actually-happened-5bpa",
-            "description": "Tukri is a point-of-sale, stock and dues-book app for small shops in Bangladesh. It has a free plan..."
+            "title": "One Command To Product: Styled PDFs As Paid Add-Ons Using md2pdf.py",
+            "url": "https://dev.to/revanzart/one-command-to-product-styled-pdfs-as-paid-add-ons-using-md2pdfpy-1edo",
+            "description": "One Command To Product: Styled PDFs As Paid Add-Ons Using md2pdf.py. Grounded in a real asset pipeline: platform rules, metadata, costs."
         },
         {
-            "title": "A 7-screen quiz instead of a contact form: lead funnel for a moving company in Ottawa",
-            "url": "https://dev.to/tatianakoval/a-7-screen-quiz-instead-of-a-contact-form-lead-funnel-for-a-moving-company-in-ottawa-2ja9",
-            "description": "Beaver Movers is a moving company in Ottawa. They came to us with a regular website and a regular..."
+            "title": "Transgate: He Said the Desk Spent 11 Hours a Week. He Never Said It Saved 11. Check Your Case Study Claims First",
+            "url": "https://dev.to/robert_breen_d96e41ecd765/transgate-he-said-the-desk-spent-11-hours-a-week-he-never-said-it-saved-11-check-your-case-study-2ngk",
+            "description": "Marketers replay customer interviews for exact words, then one wrong name or stretched number goes out in public. Here is a transcribe, fix and check routine, and the claim the AI analysis got wrong."
         },
         {
-            "title": "A Practical First-Month SEO Plan for a New Website",
-            "url": "https://dev.to/morlixcms/a-practical-first-month-seo-plan-for-a-new-website-4hf1",
-            "description": "A 30-day SEO workflow covering site access, search intent, useful content, internal links, analytics, and realistic expectations."
+            "title": "How to track competitors' Google ads in a Google Sheet automatically",
+            "url": "https://dev.to/rafisiddiq/how-to-track-competitors-google-ads-in-a-google-sheet-automatically-1nnj",
+            "description": "If you run paid search, you've probably opened the Google Ads Transparency Center to see what a..."
         },
         {
-            "title": "Building a custom GPT or Claude agent for marketing reporting",
-            "url": "https://dev.to/vickylalwani/building-a-custom-gpt-or-claude-agent-for-marketing-reporting-43pe",
-            "description": "TL;DR   A marketing reporting agent should read approved data sources, answer fixed weekly..."
+            "title": "Five visits from a country I have never sold to \u2014 three checks before I call them readers",
+            "url": "https://dev.to/coachdanielg/five-visits-from-a-country-i-have-never-sold-to-three-checks-before-i-call-them-readers-45be",
+            "description": "Today my analytics showed something I had not seen in six weeks: five visits from the United States...."
         }
     ]
 }
