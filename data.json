@@ -1,30 +1,30 @@
 {
-    "last_updated": "2026-11-02 04:22:52 UTC",
+    "last_updated": "2026-11-03 05:19:00 UTC",
     "articles": [
         {
-            "title": "md2pdf.py: Turning Markdown Docs Into Premium PDF Add-Ons With Reportlab",
-            "url": "https://dev.to/revanzart/md2pdfpy-turning-markdown-docs-into-premium-pdf-add-ons-with-reportlab-46g9",
-            "description": "md2pdf.py: Turning Markdown Docs Into Premium PDF Add-Ons With Reportlab. Grounded in a real asset pipeline: platform rules, metadata, costs."
+            "title": "Instatools for Instagram Posts",
+            "url": "https://dev.to/nicholasxdavis/instatools-for-instagram-posts-4bm",
+            "description": "I built instatools, an open-source tool for creating Instagram graphics without AI. It comes with..."
         },
         {
-            "title": "One Command To Product: Styled PDFs As Paid Add-Ons Using md2pdf.py",
-            "url": "https://dev.to/revanzart/one-command-to-product-styled-pdfs-as-paid-add-ons-using-md2pdfpy-1edo",
-            "description": "One Command To Product: Styled PDFs As Paid Add-Ons Using md2pdf.py. Grounded in a real asset pipeline: platform rules, metadata, costs."
+            "title": "Keep transactional and marketing streams physically separate",
+            "url": "https://dev.to/volanea/keep-transactional-and-marketing-streams-physically-separate-1pc",
+            "description": "One sending domain for both password resets and newsletters is the most common deliverability mistake..."
         },
         {
-            "title": "Transgate: He Said the Desk Spent 11 Hours a Week. He Never Said It Saved 11. Check Your Case Study Claims First",
-            "url": "https://dev.to/robert_breen_d96e41ecd765/transgate-he-said-the-desk-spent-11-hours-a-week-he-never-said-it-saved-11-check-your-case-study-2ngk",
-            "description": "Marketers replay customer interviews for exact words, then one wrong name or stretched number goes out in public. Here is a transcribe, fix and check routine, and the claim the AI analysis got wrong."
+            "title": "Local SEO for a 29-year-old salon in Rajshahi: what actually moved the needle",
+            "url": "https://dev.to/keyabeautysalon/local-seo-for-a-29-year-old-salon-in-rajshahi-what-actually-moved-the-needle-4312",
+            "description": "Notes from fixing local search presence for a family-run beauty parlour in Bangladesh: NAP consistency, schema, bilingual copy, and why proximity beats everything."
         },
         {
-            "title": "How to track competitors' Google ads in a Google Sheet automatically",
-            "url": "https://dev.to/rafisiddiq/how-to-track-competitors-google-ads-in-a-google-sheet-automatically-1nnj",
-            "description": "If you run paid search, you've probably opened the Google Ads Transparency Center to see what a..."
+            "title": "How Journalists Find Sources on Twitter, and How to Be One",
+            "url": "https://dev.to/shilika/how-journalists-find-sources-on-twitter-and-how-to-be-one-62",
+            "description": "Crypto reporters scan X for sources on deadline. How they find people to quote, what makes a post quotable, and the etiquette that keeps them coming back."
         },
         {
-            "title": "Five visits from a country I have never sold to \u2014 three checks before I call them readers",
-            "url": "https://dev.to/coachdanielg/five-visits-from-a-country-i-have-never-sold-to-three-checks-before-i-call-them-readers-45be",
-            "description": "Today my analytics showed something I had not seen in six weeks: five visits from the United States...."
+            "title": "DMA Codes Explained: Mapping US Visitors to TV Markets",
+            "url": "https://dev.to/abdullah_afzal/dma-codes-explained-mapping-us-visitors-to-tv-markets-3o76",
+            "description": "A DMA code is a three-digit Nielsen identifier for one of 210 US television markets: 501 is New York,..."
         }
     ]
 }
