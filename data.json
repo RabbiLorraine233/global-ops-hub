@@ -1,30 +1,30 @@
 {
-    "last_updated": "2026-11-05 05:03:43 UTC",
+    "last_updated": "2026-11-06 05:03:19 UTC",
     "articles": [
         {
-            "title": "Instatools for Instagram Posts",
-            "url": "https://dev.to/nicholasxdavis/instatools-for-instagram-posts-4bm",
-            "description": "I built instatools, an open-source tool for creating Instagram graphics without AI. It comes with..."
+            "title": "Why Metadata CSVs And Double-Post Tracking Cost More Than Generation In My Stock Pipeline",
+            "url": "https://dev.to/revanzart/why-metadata-csvs-and-double-post-tracking-cost-more-than-generation-in-my-stock-pipeline-m6e",
+            "description": "Why Metadata CSVs And Double-Post Tracking Cost More Than Generation In My Stock Pipeline. Grounded in a real asset pipeline: platform rules, metadata, costs."
         },
         {
-            "title": "Keep transactional and marketing streams physically separate",
-            "url": "https://dev.to/volanea/keep-transactional-and-marketing-streams-physically-separate-1pc",
-            "description": "One sending domain for both password resets and newsletters is the most common deliverability mistake..."
+            "title": "AI Content Phrases Google Flags: Separating the Myth From the Signals",
+            "url": "https://dev.to/growganic/ai-content-phrases-google-flags-separating-the-myth-from-the-signals-4jje",
+            "description": "AI content phrases Google flags are rarely the words themselves. Here is what actually gets penalized and how to fix it before it costs you rankings."
         },
         {
-            "title": "Local SEO for a 29-year-old salon in Rajshahi: what actually moved the needle",
-            "url": "https://dev.to/keyabeautysalon/local-seo-for-a-29-year-old-salon-in-rajshahi-what-actually-moved-the-needle-4312",
-            "description": "Notes from fixing local search presence for a family-run beauty parlour in Bangladesh: NAP consistency, schema, bilingual copy, and why proximity beats everything."
+            "title": "Best Free Chrome Extensions for Pinterest Pin Stats in 2026 (an Honest Comparison From One of the Makers)",
+            "url": "https://dev.to/pinrank/best-free-chrome-extensions-for-pinterest-pin-stats-in-2026-an-honest-comparison-from-one-of-the-4k4l",
+            "description": "Disclosure first: I built one of the extensions below, PinRank. I've tried to compare it fairly with..."
         },
         {
-            "title": "How Journalists Find Sources on Twitter, and How to Be One",
-            "url": "https://dev.to/shilika/how-journalists-find-sources-on-twitter-and-how-to-be-one-62",
-            "description": "Crypto reporters scan X for sources on deadline. How they find people to quote, what makes a post quotable, and the etiquette that keeps them coming back."
+            "title": "A Customer Edited a Telegram Message: Update the CRM Note Safely [cross-post]",
+            "url": "https://dev.to/dev24pro/a-customer-edited-a-telegram-message-update-the-crm-note-safely-cross-post-5gfd",
+            "description": "When a customer edits a Telegram message, do not turn the correction into another lead or replace the..."
         },
         {
-            "title": "DMA Codes Explained: Mapping US Visitors to TV Markets",
-            "url": "https://dev.to/abdullah_afzal/dma-codes-explained-mapping-us-visitors-to-tv-markets-3o76",
-            "description": "A DMA code is a three-digit Nielsen identifier for one of 210 US television markets: 501 is New York,..."
+            "title": "How to find a podcast host's email (and do it for 500 shows at once)",
+            "url": "https://dev.to/cleandata/how-to-find-a-podcast-hosts-email-and-do-it-for-500-shows-at-once-28bm",
+            "description": "If you pitch podcasts (as a guest, for a client, or to buy ad spots), the hardest part is often just..."
         }
     ]
 }
