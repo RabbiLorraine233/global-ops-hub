@@ -1,30 +1,30 @@
 {
-    "last_updated": "2026-11-09 04:38:08 UTC",
+    "last_updated": "2026-11-10 05:54:46 UTC",
     "articles": [
         {
-            "title": "Why Most Developer Referral Links Fail Before Anyone Clicks",
-            "url": "https://dev.to/germey/why-most-developer-referral-links-fail-before-anyone-clicks-14n6",
-            "description": "A practical look at trust, disclosure, attribution, and technical content in developer referral programs."
+            "title": "Your Batch Job Posted Twice and Got the Account Flagged \u2014 Here's the Tracker That Prevents It**",
+            "url": "https://dev.to/revanzart/your-batch-job-posted-twice-and-got-the-account-flagged-heres-the-tracker-that-prevents-it-3ojf",
+            "description": "Your Batch Job Posted Twice and Got the Account Flagged \u2014 Here's the Tracker That Prevents It**. Grounded in a real asset pipeline: platform rules, metadata, costs."
         },
         {
-            "title": "A Single-Core 2 GB Server, Two Packages, and 39 Packaged Products: The Raster Rendering Loop That Made It Work**",
-            "url": "https://dev.to/revanzart/a-single-core-2-gb-server-two-packages-and-39-packaged-products-the-raster-rendering-loop-that-5346",
-            "description": "A Single-Core 2 GB Server, Two Packages, and 39 Packaged Products: The Raster Rendering Loop That Made It Work**. Grounded in a real asset pipeline: platform rules, metadata, costs."
+            "title": "How to Pull a Competitor's Google Ads into Python (Google Ads Transparency Center)",
+            "url": "https://dev.to/upendra_kumar_da0346aa405/how-to-pull-a-competitors-google-ads-into-python-google-ads-transparency-center-1jb4",
+            "description": "Get every Search, YouTube and display ad a competitor runs as JSON, with dates, landing pages and video links, in about 15 lines of Python."
         },
         {
-            "title": "ChatGPT \u0e01\u0e33\u0e25\u0e31\u0e07\u0e08\u0e30\u0e21\u0e35\u0e15\u0e31\u0e27\u0e40\u0e25\u0e02\u0e1a\u0e2d\u0e01\u0e27\u0e48\u0e32\u0e21\u0e31\u0e19\u0e1e\u0e39\u0e14\u0e16\u0e36\u0e07\u0e18\u0e38\u0e23\u0e01\u0e34\u0e08\u0e04\u0e38\u0e13\u0e01\u0e35\u0e48\u0e04\u0e23\u0e31\u0e49\u0e07: GEO \u0e01\u0e33\u0e25\u0e31\u0e07\u0e44\u0e14\u0e49\u0e02\u0e49\u0e2d\u0e21\u0e39\u0e25\u0e08\u0e32\u0e01\u0e40\u0e08\u0e49\u0e32\u0e02\u0e2d\u0e07\u0e42\u0e21\u0e40\u0e14\u0e25",
-            "url": "https://dev.to/sarantoon/chatgpt-kamlangcchamiitawelkhbkwaamanphuudthuengthurkicchkhunkiikhrang-geo-kamlangaidkhmuulcchaakecchaakhngomedl-2jge",
-            "description": "\u0e42\u0e14\u0e22 Nokka (\u0e19\u0e01-\u0e01\u0e32) | 9 \u0e1e\u0e24\u0e28\u0e08\u0e34\u0e01\u0e32\u0e22\u0e19 2026  \u0e1a\u0e17\u0e04\u0e27\u0e32\u0e21\u0e19\u0e35\u0e49\u0e40\u0e02\u0e35\u0e22\u0e19\u0e42\u0e14\u0e22 AI (deepseek-v4.1-flash \u00b7 \u0e1c\u0e39\u0e49\u0e43\u0e2b\u0e49\u0e1a\u0e23\u0e34\u0e01\u0e32\u0e23\u0e42\u0e21\u0e40\u0e14\u0e25:..."
+            "title": "17 of 30 Pinterest Brands Report Exactly 10,000,001 Monthly Views. Etsy Says It Has 955,056,327 Pins",
+            "url": "https://dev.to/matveyg/17-of-30-pinterest-brands-report-exactly-10000001-monthly-views-etsy-says-it-has-955056327-pins-365n",
+            "description": "Pinterest's monthly-views number is the metric every influencer brief asks for, and on 30 well-known brand accounts it is a ceiling 17 times over. Here is what the profile endpoint really returns \u2014 the 10,000,001 cap, the -1 that means \"personal account\", a pin count that is 55,520x too high, and the one field that proves an account is who it claims to be."
         },
         {
-            "title": "The Buyer Wanted Vectors, So We Shipped the 1280 720 Cover Anyway \u2014 Here's Why**",
-            "url": "https://dev.to/revanzart/the-buyer-wanted-vectors-so-we-shipped-the-1280-720-cover-anyway-heres-why-4i40",
-            "description": "The Buyer Wanted Vectors, So We Shipped the 1280\u00d7720 Cover Anyway \u2014 Here's Why**. Grounded in a real asset pipeline: platform rules, metadata, costs."
+            "title": "Products, One Core, 2GB of RAM: How Upload Rejections Became My Most Reliable Build Step**",
+            "url": "https://dev.to/revanzart/products-one-core-2gb-of-ram-how-upload-rejections-became-my-most-reliable-build-step-5649",
+            "description": "Products, One Core, 2GB of RAM: How Upload Rejections Became My Most Reliable Build Step**. Grounded in a real asset pipeline: platform rules, metadata, costs."
         },
         {
-            "title": "SaaS: confianza en el primer email de onboarding",
-            "url": "https://dev.to/hannahdev56/saas-confianza-en-el-primer-email-de-onboarding-3kp1",
-            "description": "SaaS: confianza en el primer email de onboarding   Cuando alguien se registra en un SaaS, el..."
+            "title": "monday.com runs two customer counts at once: 180K+ and 225K+ in live Meta ads",
+            "url": "https://dev.to/adintel_lab/mondaycom-runs-two-customer-counts-at-once-180k-and-225k-in-live-meta-ads-53j6",
+            "description": "monday.com's live Meta ads cite 180K+ and 225K+ customers in the same sentence. 30 texts, 15 distinct, 8 repeats of one Spanish line."
         }
     ]
 }
