@@ -1,30 +1,30 @@
 {
-    "last_updated": "2026-11-11 04:40:46 UTC",
+    "last_updated": "2026-11-12 05:43:23 UTC",
     "articles": [
         {
-            "title": "Your Batch Job Posted Twice and Got the Account Flagged \u2014 Here's the Tracker That Prevents It**",
-            "url": "https://dev.to/revanzart/your-batch-job-posted-twice-and-got-the-account-flagged-heres-the-tracker-that-prevents-it-3ojf",
-            "description": "Your Batch Job Posted Twice and Got the Account Flagged \u2014 Here's the Tracker That Prevents It**. Grounded in a real asset pipeline: platform rules, metadata, costs."
+            "title": "Duplicate Google Ads conversions in GTM: how to find them",
+            "url": "https://dev.to/fireshiftai/duplicate-google-ads-conversions-in-gtm-how-to-find-them-1dai",
+            "description": "Short answer: A conversion counts twice when the same label sits on two tags, or one trigger fires..."
         },
         {
-            "title": "How to Pull a Competitor's Google Ads into Python (Google Ads Transparency Center)",
-            "url": "https://dev.to/upendra_kumar_da0346aa405/how-to-pull-a-competitors-google-ads-into-python-google-ads-transparency-center-1jb4",
-            "description": "Get every Search, YouTube and display ad a competitor runs as JSON, with dates, landing pages and video links, in about 15 lines of Python."
+            "title": "SaaS: un checklist de calidad antes del email",
+            "url": "https://dev.to/hannahdev56/saas-un-checklist-de-calidad-antes-del-email-4jdp",
+            "description": "Un checklist sencillo para revisar emails de activaci\u00f3n en un SaaS antes del lanzamiento, con pruebas, m\u00e9tricas y errores comunes."
         },
         {
-            "title": "17 of 30 Pinterest Brands Report Exactly 10,000,001 Monthly Views. Etsy Says It Has 955,056,327 Pins",
-            "url": "https://dev.to/matveyg/17-of-30-pinterest-brands-report-exactly-10000001-monthly-views-etsy-says-it-has-955056327-pins-365n",
-            "description": "Pinterest's monthly-views number is the metric every influencer brief asks for, and on 30 well-known brand accounts it is a ceiling 17 times over. Here is what the profile endpoint really returns \u2014 the 10,000,001 cap, the -1 that means \"personal account\", a pin count that is 55,520x too high, and the one field that proves an account is who it claims to be."
+            "title": "I checked 30 top websites for AI-crawler readiness. The ones ChatGPT cites most scored worst.",
+            "url": "https://dev.to/dongdongdev/i-checked-30-top-websites-for-ai-crawler-readiness-the-ones-chatgpt-cites-most-scored-worst-327",
+            "description": "Everyone \"knows\" that the web is locking out AI crawlers. Cloudflare flips the default to block,..."
         },
         {
-            "title": "Products, One Core, 2GB of RAM: How Upload Rejections Became My Most Reliable Build Step**",
-            "url": "https://dev.to/revanzart/products-one-core-2gb-of-ram-how-upload-rejections-became-my-most-reliable-build-step-5649",
-            "description": "Products, One Core, 2GB of RAM: How Upload Rejections Became My Most Reliable Build Step**. Grounded in a real asset pipeline: platform rules, metadata, costs."
+            "title": "How to Write a Service Page That Ranks on Google and Gets Enquiries",
+            "url": "https://dev.to/creworktech/how-to-write-a-service-page-that-ranks-on-google-and-gets-enquiries-5931",
+            "description": "Most small business websites have a home page that gets all the attention and a set of service pages..."
         },
         {
-            "title": "monday.com runs two customer counts at once: 180K+ and 225K+ in live Meta ads",
-            "url": "https://dev.to/adintel_lab/mondaycom-runs-two-customer-counts-at-once-180k-and-225k-in-live-meta-ads-53j6",
-            "description": "monday.com's live Meta ads cite 180K+ and 225K+ customers in the same sentence. 30 texts, 15 distinct, 8 repeats of one Spanish line."
+            "title": "How Website Content Helps Build Customer Trust",
+            "url": "https://dev.to/ayshaa_connect_1e59c2519b/how-website-content-helps-build-customer-trust-1e3a",
+            "description": "In today's digital world, having a website is not enough. Businesses also need meaningful content..."
         }
     ]
 }
