@@ -1,30 +1,30 @@
 {
-    "last_updated": "2026-11-14 04:53:48 UTC",
+    "last_updated": "2026-11-15 04:46:21 UTC",
     "articles": [
         {
-            "title": "Duplicate Google Ads conversions in GTM: how to find them",
-            "url": "https://dev.to/fireshiftai/duplicate-google-ads-conversions-in-gtm-how-to-find-them-1dai",
-            "description": "Short answer: A conversion counts twice when the same label sits on two tags, or one trigger fires..."
+            "title": "Login and trial signups as Google Ads conversions (SaaS)",
+            "url": "https://dev.to/fireshiftai/login-and-trial-signups-as-google-ads-conversions-saas-28mh",
+            "description": "Short answer: Count the account created or trial started. A login is a user you already have. On 5..."
         },
         {
-            "title": "SaaS: un checklist de calidad antes del email",
-            "url": "https://dev.to/hannahdev56/saas-un-checklist-de-calidad-antes-del-email-4jdp",
-            "description": "Un checklist sencillo para revisar emails de activaci\u00f3n en un SaaS antes del lanzamiento, con pruebas, m\u00e9tricas y errores comunes."
+            "title": "Meta \u0e40\u0e1b\u0e34\u0e14\u0e40\u0e04\u0e23\u0e37\u0e48\u0e2d\u0e07\u0e21\u0e37\u0e2d\u0e42\u0e06\u0e29\u0e13\u0e32\u0e43\u0e2b\u0e21\u0e48\u0e43\u0e19\u0e44\u0e17\u0e22: \u0e43\u0e04\u0e23\u0e44\u0e14\u0e49\u0e1b\u0e23\u0e30\u0e42\u0e22\u0e0a\u0e19\u0e4c\u0e08\u0e23\u0e34\u0e07",
+            "url": "https://dev.to/sarantoon/meta-epidekhruuengmuueokhsnaaaihmainaithy-aikhraidpraoychncchring-3f6a",
+            "description": "\u0e15\u0e49\u0e19\u0e40\u0e23\u0e37\u0e48\u0e2d\u0e07\u0e02\u0e2d\u0e07\u0e1a\u0e17\u0e04\u0e27\u0e32\u0e21\u0e19\u0e35\u0e49\u0e04\u0e37\u0e2d\u0e02\u0e48\u0e32\u0e27\u0e02\u0e2d\u0e07\u0e01\u0e23\u0e38\u0e07\u0e40\u0e17\u0e1e\u0e18\u0e38\u0e23\u0e01\u0e34\u0e08 \u0e27\u0e31\u0e19\u0e17\u0e35\u0e48 13 \u0e1e\u0e24\u0e28\u0e08\u0e34\u0e01\u0e32\u0e22\u0e19 2569 \u0e17\u0e35\u0e48\u0e23\u0e32\u0e22\u0e07\u0e32\u0e19\u0e27\u0e48\u0e32 Meta..."
         },
         {
-            "title": "I checked 30 top websites for AI-crawler readiness. The ones ChatGPT cites most scored worst.",
-            "url": "https://dev.to/dongdongdev/i-checked-30-top-websites-for-ai-crawler-readiness-the-ones-chatgpt-cites-most-scored-worst-327",
-            "description": "Everyone \"knows\" that the web is locking out AI crawlers. Cloudflare flips the default to block,..."
+            "title": "Chrome Extension Landing Page: 6 Blocks That Drive Installs",
+            "url": "https://dev.to/extensionbooster/chrome-extension-landing-page-6-blocks-that-drive-installs-3f6m",
+            "description": "Build a Chrome extension landing page that converts: six page blocks, per-browser store buttons, installed-state detection and install tracking."
         },
         {
-            "title": "How to Write a Service Page That Ranks on Google and Gets Enquiries",
-            "url": "https://dev.to/creworktech/how-to-write-a-service-page-that-ranks-on-google-and-gets-enquiries-5931",
-            "description": "Most small business websites have a home page that gets all the attention and a set of service pages..."
+            "title": "How to market your app on TikTok without ads or creators",
+            "url": "https://dev.to/vidur_saini/how-to-market-your-app-on-tiktok-without-ads-or-creators-16dg",
+            "description": "An organic TikTok playbook for apps: find posts that beat their account's usual views, copy the structure, post daily across accounts and networks, measure installs, and know when ads or creators are the better choice."
         },
         {
-            "title": "How Website Content Helps Build Customer Trust",
-            "url": "https://dev.to/ayshaa_connect_1e59c2519b/how-website-content-helps-build-customer-trust-1e3a",
-            "description": "In today's digital world, having a website is not enough. Businesses also need meaningful content..."
+            "title": "12 Product Launch Platforms for Indie SaaS, Compared (Prices, Backlinks, Audience)",
+            "url": "https://dev.to/dexter_morgan_ca6f17f0fee/12-product-launch-platforms-for-indie-saas-compared-prices-backlinks-audience-2lgm",
+            "description": "Disclosure: I run Go Publicly, one of the platforms below. I've listed its weak spots too. Every..."
         }
     ]
 }
