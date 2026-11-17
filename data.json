@@ -1,30 +1,30 @@
 {
-    "last_updated": "2026-11-16 04:43:19 UTC",
+    "last_updated": "2026-11-17 06:30:03 UTC",
     "articles": [
         {
-            "title": "Login and trial signups as Google Ads conversions (SaaS)",
-            "url": "https://dev.to/fireshiftai/login-and-trial-signups-as-google-ads-conversions-saas-28mh",
-            "description": "Short answer: Count the account created or trial started. A login is a user you already have. On 5..."
+            "title": "26 Days of One LinkedIn Ad Search Gave Me 603 Different Ads. 322 of 325 Day Pairs Shared Nothing",
+            "url": "https://dev.to/matveyg/26-days-of-one-linkedin-ad-search-gave-me-603-different-ads-322-of-325-day-pairs-shared-nothing-37gi",
+            "description": "A month of identical reads of the LinkedIn Ad Library's 24-ad \"newest\" page for one keyword. Within a day the result is frozen; across days it is almost always completely replaced. Why that happens, why the ad id is not a clock, and what the DSA fields actually contain."
         },
         {
-            "title": "Meta \u0e40\u0e1b\u0e34\u0e14\u0e40\u0e04\u0e23\u0e37\u0e48\u0e2d\u0e07\u0e21\u0e37\u0e2d\u0e42\u0e06\u0e29\u0e13\u0e32\u0e43\u0e2b\u0e21\u0e48\u0e43\u0e19\u0e44\u0e17\u0e22: \u0e43\u0e04\u0e23\u0e44\u0e14\u0e49\u0e1b\u0e23\u0e30\u0e42\u0e22\u0e0a\u0e19\u0e4c\u0e08\u0e23\u0e34\u0e07",
-            "url": "https://dev.to/sarantoon/meta-epidekhruuengmuueokhsnaaaihmainaithy-aikhraidpraoychncchring-3f6a",
-            "description": "\u0e15\u0e49\u0e19\u0e40\u0e23\u0e37\u0e48\u0e2d\u0e07\u0e02\u0e2d\u0e07\u0e1a\u0e17\u0e04\u0e27\u0e32\u0e21\u0e19\u0e35\u0e49\u0e04\u0e37\u0e2d\u0e02\u0e48\u0e32\u0e27\u0e02\u0e2d\u0e07\u0e01\u0e23\u0e38\u0e07\u0e40\u0e17\u0e1e\u0e18\u0e38\u0e23\u0e01\u0e34\u0e08 \u0e27\u0e31\u0e19\u0e17\u0e35\u0e48 13 \u0e1e\u0e24\u0e28\u0e08\u0e34\u0e01\u0e32\u0e22\u0e19 2569 \u0e17\u0e35\u0e48\u0e23\u0e32\u0e22\u0e07\u0e32\u0e19\u0e27\u0e48\u0e32 Meta..."
+            "title": "Three days, $0 budget, zero sales: an AI agent hits every platform's anti-bot wall",
+            "url": "https://dev.to/slotkeep/three-days-0-budget-zero-sales-an-ai-agent-hits-every-platforms-anti-bot-wall-b39",
+            "description": "I'm an AI agent. I run this sales experiment on behalf of the founder of a small dev studio \u2014 he sets..."
         },
         {
-            "title": "Chrome Extension Landing Page: 6 Blocks That Drive Installs",
-            "url": "https://dev.to/extensionbooster/chrome-extension-landing-page-6-blocks-that-drive-installs-3f6m",
-            "description": "Build a Chrome extension landing page that converts: six page blocks, per-browser store buttons, installed-state detection and install tracking."
+            "title": "How do I brief an AI video so the product stays consistent?",
+            "url": "https://dev.to/2pizza/how-do-i-brief-an-ai-video-so-the-product-stays-consistent-370",
+            "description": "Start from a sharp photo, name what must not change, ask for one thing per scene and check every scene against the real item. A practical briefing guide."
         },
         {
-            "title": "How to market your app on TikTok without ads or creators",
-            "url": "https://dev.to/vidur_saini/how-to-market-your-app-on-tiktok-without-ads-or-creators-16dg",
-            "description": "An organic TikTok playbook for apps: find posts that beat their account's usual views, copy the structure, post daily across accounts and networks, measure installs, and know when ads or creators are the better choice."
+            "title": "Google Ads conversion on a demo or pricing page view",
+            "url": "https://dev.to/fireshiftai/google-ads-conversion-on-a-demo-or-pricing-page-view-3agm",
+            "description": "Short answer: A Google Ads conversion on a \"Page URL contains\" rule counts a visit, not a result,..."
         },
         {
-            "title": "12 Product Launch Platforms for Indie SaaS, Compared (Prices, Backlinks, Audience)",
-            "url": "https://dev.to/dexter_morgan_ca6f17f0fee/12-product-launch-platforms-for-indie-saas-compared-prices-backlinks-audience-2lgm",
-            "description": "Disclosure: I run Go Publicly, one of the platforms below. I've listed its weak spots too. Every..."
+            "title": "Auditor\u00eda SEO con IA en 8 fases: qu\u00e9 revisar y por qu\u00e9 no inventar vol\u00famenes de b\u00fasqueda",
+            "url": "https://dev.to/uniamos/auditoria-seo-con-ia-en-8-fases-que-revisar-y-por-que-no-inventar-volumenes-de-busqueda-545i",
+            "description": "Hacer una auditor\u00eda SEO con un asistente de IA suena f\u00e1cil: pegas tu dominio, pides un informe y..."
         }
     ]
 }
