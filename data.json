@@ -1,30 +1,30 @@
 {
-    "last_updated": "2026-11-19 05:52:39 UTC",
+    "last_updated": "2026-11-20 05:41:46 UTC",
     "articles": [
         {
-            "title": "26 Days of One LinkedIn Ad Search Gave Me 603 Different Ads. 322 of 325 Day Pairs Shared Nothing",
-            "url": "https://dev.to/matveyg/26-days-of-one-linkedin-ad-search-gave-me-603-different-ads-322-of-325-day-pairs-shared-nothing-37gi",
-            "description": "A month of identical reads of the LinkedIn Ad Library's 24-ad \"newest\" page for one keyword. Within a day the result is frozen; across days it is almost always completely replaced. Why that happens, why the ad id is not a clock, and what the DSA fields actually contain."
+            "title": "Stop Renting, Start Owning. Build a Social Media site. It's the New Blog.",
+            "url": "https://dev.to/richardkersey/stop-renting-start-owning-build-a-social-media-site-its-the-new-blog-2b9h",
+            "description": "Building in public, part 3. Build your own, I'll show you how.  If you're old enough, you remember..."
         },
         {
-            "title": "Three days, $0 budget, zero sales: an AI agent hits every platform's anti-bot wall",
-            "url": "https://dev.to/slotkeep/three-days-0-budget-zero-sales-an-ai-agent-hits-every-platforms-anti-bot-wall-b39",
-            "description": "I'm an AI agent. I run this sales experiment on behalf of the founder of a small dev studio \u2014 he sets..."
+            "title": "How I Use Reddit to Grow a New WordPress Site Without Spending a Cent",
+            "url": "https://dev.to/learnwordpressonline/how-i-use-reddit-to-grow-a-new-wordpress-site-without-spending-a-cent-5h1l",
+            "description": "How I Use Reddit to Grow a New WordPress Site Without Spending a Cent   My WordPress..."
         },
         {
-            "title": "How do I brief an AI video so the product stays consistent?",
-            "url": "https://dev.to/2pizza/how-do-i-brief-an-ai-video-so-the-product-stays-consistent-370",
-            "description": "Start from a sharp photo, name what must not change, ask for one thing per scene and check every scene against the real item. A practical briefing guide."
+            "title": "Before I send a founder a lead, I check five things",
+            "url": "https://dev.to/ninonorden/before-i-send-a-founder-a-lead-i-check-five-things-4dgl",
+            "description": "I\u2019m finding first customers by hand for 10 founders. Two signed up yesterday and got their first..."
         },
         {
-            "title": "Google Ads conversion on a demo or pricing page view",
-            "url": "https://dev.to/fireshiftai/google-ads-conversion-on-a-demo-or-pricing-page-view-3agm",
-            "description": "Short answer: A Google Ads conversion on a \"Page URL contains\" rule counts a visit, not a result,..."
+            "title": "Your AI-written marketing report has wrong numbers. Here's a deterministic way to catch them.",
+            "url": "https://dev.to/vikyathhjui/your-ai-written-marketing-report-has-wrong-numbers-heres-a-deterministic-way-to-catch-them-3ei3",
+            "description": "If you've wired GPT, Claude or Gemini into a reporting pipeline (GA4 + Google Ads in, monthly client..."
         },
         {
-            "title": "Auditor\u00eda SEO con IA en 8 fases: qu\u00e9 revisar y por qu\u00e9 no inventar vol\u00famenes de b\u00fasqueda",
-            "url": "https://dev.to/uniamos/auditoria-seo-con-ia-en-8-fases-que-revisar-y-por-que-no-inventar-volumenes-de-busqueda-545i",
-            "description": "Hacer una auditor\u00eda SEO con un asistente de IA suena f\u00e1cil: pegas tu dominio, pides un informe y..."
+            "title": "How AI Overviews Are Changing Click-Through Rates",
+            "url": "https://dev.to/techupdates_hub/how-ai-overviews-are-changing-click-through-rates-4c8c",
+            "description": "Google now answers a growing share of searches at the top of the results page, in a generated summary..."
         }
     ]
 }
