@@ -1,30 +1,30 @@
 {
-    "last_updated": "2026-11-20 05:41:46 UTC",
+    "last_updated": "2026-11-21 05:36:35 UTC",
     "articles": [
+        {
+            "title": "One UTM Per Link: A Naming Scheme for a Solo Developer",
+            "url": "https://dev.to/nesimrazon/one-utm-per-link-a-naming-scheme-for-a-solo-developer-1gjn",
+            "description": "A simple UTM naming scheme for a small developer: source, medium and campaign rules, real examples from videos, posts and tweets, and reading GA4."
+        },
+        {
+            "title": "My hit log counted 36 humans. One row came from Google.",
+            "url": "https://dev.to/amazong110/my-hit-log-counted-36-humans-one-row-came-from-google-37d0",
+            "description": "Eleven days of first-party pageview rows, a bot filter that only catches honest bots, and the one visit that actually came from search."
+        },
         {
             "title": "Stop Renting, Start Owning. Build a Social Media site. It's the New Blog.",
             "url": "https://dev.to/richardkersey/stop-renting-start-owning-build-a-social-media-site-its-the-new-blog-2b9h",
             "description": "Building in public, part 3. Build your own, I'll show you how.  If you're old enough, you remember..."
         },
         {
-            "title": "How I Use Reddit to Grow a New WordPress Site Without Spending a Cent",
-            "url": "https://dev.to/learnwordpressonline/how-i-use-reddit-to-grow-a-new-wordpress-site-without-spending-a-cent-5h1l",
-            "description": "How I Use Reddit to Grow a New WordPress Site Without Spending a Cent   My WordPress..."
+            "title": "Best Semrush AI Visibility Toolkit Alternatives in 2026 (prices checked)",
+            "url": "https://dev.to/raphaelaubry/best-semrush-ai-visibility-toolkit-alternatives-in-2026-prices-checked-4a06",
+            "description": "Semrush AI Visibility Toolkit costs $99/mo per domain billed annually. 7 alternatives compared on price, engines and what happens after the report."
         },
         {
-            "title": "Before I send a founder a lead, I check five things",
-            "url": "https://dev.to/ninonorden/before-i-send-a-founder-a-lead-i-check-five-things-4dgl",
-            "description": "I\u2019m finding first customers by hand for 10 founders. Two signed up yesterday and got their first..."
-        },
-        {
-            "title": "Your AI-written marketing report has wrong numbers. Here's a deterministic way to catch them.",
-            "url": "https://dev.to/vikyathhjui/your-ai-written-marketing-report-has-wrong-numbers-heres-a-deterministic-way-to-catch-them-3ei3",
-            "description": "If you've wired GPT, Claude or Gemini into a reporting pipeline (GA4 + Google Ads in, monthly client..."
-        },
-        {
-            "title": "How AI Overviews Are Changing Click-Through Rates",
-            "url": "https://dev.to/techupdates_hub/how-ai-overviews-are-changing-click-through-rates-4c8c",
-            "description": "Google now answers a growing share of searches at the top of the results page, in a generated summary..."
+            "title": "AI Visibility Tools Pricing Compared (November 2026)",
+            "url": "https://dev.to/raphaelaubry/ai-visibility-tools-pricing-compared-november-2026-cll",
+            "description": "Prices of 13 AI visibility tools read on their own pricing pages on November 20, 2026, with price per tracked prompt."
         }
     ]
 }
