@@ -1,30 +1,30 @@
 {
-    "last_updated": "2026-11-23 05:43:44 UTC",
+    "last_updated": "2026-11-24 08:21:35 UTC",
     "articles": [
         {
-            "title": "Do it by hand before you build the system.",
-            "url": "https://dev.to/jan_sytzeheegstra_edb724/do-it-by-hand-before-you-build-the-system-397i",
-            "description": "Everyone wants to talk about scale. How do you reach ten thousand people? Which tool, which sequence,..."
+            "title": "How Long Should Attribution Remember? Lookback Windows vs Sales Cycles in 3,000 Simulated Purchases",
+            "url": "https://dev.to/findutils/how-long-should-attribution-remember-lookback-windows-vs-sales-cycles-in-3000-simulated-purchases-5ckd",
+            "description": "Every first-click report has a setting most people never look at: the lookback window. It decides how..."
         },
         {
-            "title": "How Many Websites Use Google Ads? 3.34M Sites and the Tag Code Developers Inherit",
-            "url": "https://dev.to/webatla/how-many-websites-use-google-ads-334m-sites-and-the-tag-code-developers-inherit-o7d",
-            "description": "As of November 16, 2026, webatla counts 3,341,059 websites running Google Ads, 1.03% of the 325.8..."
+            "title": "I enriched a raw lead list with an open-source AI spreadsheet \u2014 here's the exact workflow (with sources on every cell)",
+            "url": "https://dev.to/sugukavi/i-enriched-a-raw-lead-list-with-an-open-source-ai-spreadsheet-heres-the-exact-workflow-with-12dg",
+            "description": "Last week Context.dev launched Enrichable, an open-source (MIT) AI spreadsheet for data enrichment...."
         },
         {
-            "title": "How to Calculate Conference ROI: Cost Per Qualified Meeting",
-            "url": "https://dev.to/shilika/how-to-calculate-conference-roi-cost-per-qualified-meeting-2mjp",
-            "description": "A cost-per-qualified-meeting model for crypto conferences: what counts as a meeting, what doesn't, how to price team time, and a worked example to copy."
+            "title": "Share of search for 18 US car brands: Tesla up, Jeep down (and how to measure more than 5 brands)",
+            "url": "https://dev.to/granola2/share-of-search-for-18-us-car-brands-tesla-up-jeep-down-and-how-to-measure-more-than-5-brands-5clg",
+            "description": "Share of search is a brand's Google searches as a share of all searches for brands in its category...."
         },
         {
-            "title": "Yellow Pages Scraper GitHub: How to Run a Local Market Saturation Analysis with Python",
-            "url": "https://dev.to/data-scraper/yellow-pages-scraper-github-how-to-run-a-local-market-saturation-analysis-with-python-1nm1",
-            "description": "A reproducible Python workflow that turns public Yellow Pages directory records into a market saturation scorecard, so franchise planners and local marketers can measure competitor density and coverage gaps by city and category."
+            "title": "How to choose a refund maturity window before scaling TikTok Shop ads",
+            "url": "https://dev.to/starwayglobalfz/how-to-choose-a-refund-maturity-window-before-scaling-tiktok-shop-ads-5em7",
+            "description": "A TikTok Shop campaign can look profitable on the day an order arrives and become materially less..."
         },
         {
-            "title": "What broke when I tried using Reddit to find early users (so I built an AutoMod-aware radar instead)",
-            "url": "https://dev.to/haoyuefeiwu/what-broke-when-i-tried-using-reddit-to-find-early-users-so-i-built-an-automod-aware-radar-instead-pcp",
-            "description": "I maintain a couple of small bootstrapped products (an AI search/GEO scanner and an Amazon KDP..."
+            "title": "What three months of testing AI \"buyers\" taught us about synthetic research",
+            "url": "https://dev.to/ayushniroula/what-three-months-of-testing-ai-buyers-taught-us-about-synthetic-research-11cl",
+            "description": "Synthetic respondents are language models answering surveys, reacting to ads or sitting in focus..."
         }
     ]
 }
