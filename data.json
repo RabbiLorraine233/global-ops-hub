@@ -1,30 +1,30 @@
 {
-    "last_updated": "2026-11-24 08:21:35 UTC",
+    "last_updated": "2026-11-25 06:57:52 UTC",
     "articles": [
         {
-            "title": "How Long Should Attribution Remember? Lookback Windows vs Sales Cycles in 3,000 Simulated Purchases",
-            "url": "https://dev.to/findutils/how-long-should-attribution-remember-lookback-windows-vs-sales-cycles-in-3000-simulated-purchases-5ckd",
-            "description": "Every first-click report has a setting most people never look at: the lookback window. It decides how..."
+            "title": "How Click IDs Work on Google, Meta, TikTok, Microsoft and Snapchat",
+            "url": "https://dev.to/hassaanistic/how-click-ids-work-on-google-meta-tiktok-microsoft-and-snapchat-38k",
+            "description": "When someone clicks an ad, the ad network adds a long random value to the landing page address. That..."
         },
         {
-            "title": "I enriched a raw lead list with an open-source AI spreadsheet \u2014 here's the exact workflow (with sources on every cell)",
-            "url": "https://dev.to/sugukavi/i-enriched-a-raw-lead-list-with-an-open-source-ai-spreadsheet-heres-the-exact-workflow-with-12dg",
-            "description": "Last week Context.dev launched Enrichable, an open-source (MIT) AI spreadsheet for data enrichment...."
+            "title": "Transparent Click Tracking: Custom Tracking Domains, Redirects and Postbacks",
+            "url": "https://dev.to/hassaanistic/transparent-click-tracking-custom-tracking-domains-redirects-and-postbacks-34k2",
+            "description": "A click tracker sits between the ad and the landing page. It records the click, gives it an id, and..."
         },
         {
-            "title": "Share of search for 18 US car brands: Tesla up, Jeep down (and how to measure more than 5 brands)",
-            "url": "https://dev.to/granola2/share-of-search-for-18-us-car-brands-tesla-up-jeep-down-and-how-to-measure-more-than-5-brands-5clg",
-            "description": "Share of search is a brand's Google searches as a share of all searches for brands in its category...."
+            "title": "Sending Conversions Back: Meta Conversions API, TikTok Events API and Google's Data Manager API",
+            "url": "https://dev.to/hassaanistic/sending-conversions-back-meta-conversions-api-tiktok-events-api-and-googles-data-manager-api-57c3",
+            "description": "Ad networks bid better when they know which clicks made money. For a lead business, \"made money\"..."
         },
         {
-            "title": "How to choose a refund maturity window before scaling TikTok Shop ads",
-            "url": "https://dev.to/starwayglobalfz/how-to-choose-a-refund-maturity-window-before-scaling-tiktok-shop-ads-5em7",
-            "description": "A TikTok Shop campaign can look profitable on the day an order arrives and become materially less..."
+            "title": "Attribution for AI Founders: Where Did That Signup Come From?",
+            "url": "https://dev.to/aaronkuai/attribution-for-ai-founders-where-did-that-signup-come-from-4ga3",
+            "description": "Multi-touch attribution is overkill for a small team. The practical method for knowing which channel produced a signup, including AI-assistant traffic."
         },
         {
-            "title": "What three months of testing AI \"buyers\" taught us about synthetic research",
-            "url": "https://dev.to/ayushniroula/what-three-months-of-testing-ai-buyers-taught-us-about-synthetic-research-11cl",
-            "description": "Synthetic respondents are language models answering surveys, reacting to ads or sitting in focus..."
+            "title": "Stop Optimizing Google Ads for Form Fills: Send CRM Lead Stages Back as Offline Conversions",
+            "url": "https://dev.to/mohamedkadi/stop-optimizing-google-ads-for-form-fills-send-crm-lead-stages-back-as-offline-conversions-50",
+            "description": "If you build lead forms for B2B companies, you've probably wired a conversion tag to the \"thank you\"..."
         }
     ]
 }
