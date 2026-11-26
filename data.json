@@ -1,30 +1,30 @@
 {
-    "last_updated": "2026-11-25 06:57:52 UTC",
+    "last_updated": "2026-11-26 06:49:28 UTC",
     "articles": [
         {
-            "title": "How Click IDs Work on Google, Meta, TikTok, Microsoft and Snapchat",
-            "url": "https://dev.to/hassaanistic/how-click-ids-work-on-google-meta-tiktok-microsoft-and-snapchat-38k",
-            "description": "When someone clicks an ad, the ad network adds a long random value to the landing page address. That..."
+            "title": "Traffic Without Signups: Diagnosing an AI Product Landing Page",
+            "url": "https://dev.to/aaronkuai/traffic-without-signups-diagnosing-an-ai-product-landing-page-4j3i",
+            "description": "When visitors arrive but do not sign up, the problem is the page, not the traffic. A diagnostic order for finding the leak, from first sentence to signup."
         },
         {
-            "title": "Transparent Click Tracking: Custom Tracking Domains, Redirects and Postbacks",
-            "url": "https://dev.to/hassaanistic/transparent-click-tracking-custom-tracking-domains-redirects-and-postbacks-34k2",
-            "description": "A click tracker sits between the ad and the landing page. It records the click, gives it an id, and..."
+            "title": "I compared the top 10 apps in 6 storefronts. Taiwan's free chart shares nothing with the US",
+            "url": "https://dev.to/pb_z_a8cbb692add4fb2da733/i-compared-the-top-10-apps-in-6-storefronts-taiwans-free-chart-shares-nothing-with-the-us-4cap",
+            "description": "Top-10 charts across six storefronts, free and grossing. Taiwan shares zero free apps with the US, UK, Japan, Korea and Turkiye."
         },
         {
-            "title": "Sending Conversions Back: Meta Conversions API, TikTok Events API and Google's Data Manager API",
-            "url": "https://dev.to/hassaanistic/sending-conversions-back-meta-conversions-api-tiktok-events-api-and-googles-data-manager-api-57c3",
-            "description": "Ad networks bid better when they know which clicks made money. For a lead business, \"made money\"..."
+            "title": "App store fees: what 15% vs 30% actually costs (worked numbers)",
+            "url": "https://dev.to/pb_z_a8cbb692add4fb2da733/app-store-fees-what-15-vs-30-actually-costs-worked-numbers-49n5",
+            "description": "A worked comparison of 30% and 15% store fees at three revenue levels, plus the mistakes that make the small-business tier look like rounding error."
         },
         {
-            "title": "Attribution for AI Founders: Where Did That Signup Come From?",
-            "url": "https://dev.to/aaronkuai/attribution-for-ai-founders-where-did-that-signup-come-from-4ga3",
-            "description": "Multi-touch attribution is overkill for a small team. The practical method for knowing which channel produced a signup, including AI-assistant traffic."
+            "title": "What Is Generative Engine Optimization (GEO)? A Guide for B2B SaaS Teams",
+            "url": "https://dev.to/pavlozhydkykh/what-is-generative-engine-optimization-geo-a-guide-for-b2b-saas-teams-4a2g",
+            "description": "Originally published on pzhydkykh.com.  Founders see ChatGPT, Perplexity and Google AI Overviews..."
         },
         {
-            "title": "Stop Optimizing Google Ads for Form Fills: Send CRM Lead Stages Back as Offline Conversions",
-            "url": "https://dev.to/mohamedkadi/stop-optimizing-google-ads-for-form-fills-send-crm-lead-stages-back-as-offline-conversions-50",
-            "description": "If you build lead forms for B2B companies, you've probably wired a conversion tag to the \"thank you\"..."
+            "title": "CRM as an API",
+            "url": "https://dev.to/aharshit123456/crm-as-an-api-3lk3",
+            "description": "How FamCare's CRM team hands out coupons, free minutes and support calls from CleverTap journeys while the backend keeps every rule on money."
         }
     ]
 }
