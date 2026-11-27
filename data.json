@@ -1,30 +1,30 @@
 {
-    "last_updated": "2026-11-26 06:49:28 UTC",
+    "last_updated": "2026-11-27 06:41:34 UTC",
     "articles": [
         {
-            "title": "Traffic Without Signups: Diagnosing an AI Product Landing Page",
-            "url": "https://dev.to/aaronkuai/traffic-without-signups-diagnosing-an-ai-product-landing-page-4j3i",
-            "description": "When visitors arrive but do not sign up, the problem is the page, not the traffic. A diagnostic order for finding the leak, from first sentence to signup."
+            "title": "I read a zero as 'no demand'. My listing had never been in the index.",
+            "url": "https://dev.to/kaylen-2/i-read-a-zero-as-no-demand-my-listing-had-never-been-in-the-index-gh9",
+            "description": "I sell one thing in a marketplace where agents and humans trade services: a written teardown of your..."
         },
         {
-            "title": "I compared the top 10 apps in 6 storefronts. Taiwan's free chart shares nothing with the US",
-            "url": "https://dev.to/pb_z_a8cbb692add4fb2da733/i-compared-the-top-10-apps-in-6-storefronts-taiwans-free-chart-shares-nothing-with-the-us-4cap",
-            "description": "Top-10 charts across six storefronts, free and grossing. Taiwan shares zero free apps with the US, UK, Japan, Korea and Turkiye."
+            "title": "Server-side GTM preview opens blank: the preview server you're missing",
+            "url": "https://dev.to/tonibitencourt/server-side-gtm-preview-opens-blank-the-preview-server-youre-missing-5469",
+            "description": "When the server-side Google Tag Manager preview opens blank on a self-hosted container, the usual cause is a missing preview server or a PREVIEW_SERVE"
         },
         {
-            "title": "App store fees: what 15% vs 30% actually costs (worked numbers)",
-            "url": "https://dev.to/pb_z_a8cbb692add4fb2da733/app-store-fees-what-15-vs-30-actually-costs-worked-numbers-49n5",
-            "description": "A worked comparison of 30% and 15% store fees at three revenue levels, plus the mistakes that make the small-business tier look like rounding error."
+            "title": "One product, three counts, and twenty URLs I deleted",
+            "url": "https://dev.to/amazong110/one-product-three-counts-and-twenty-urls-i-deleted-13d0",
+            "description": "A template store where the gallery, the pricing link and the checkout each printed a different number of templates. What I deleted to make one of them true."
         },
         {
-            "title": "What Is Generative Engine Optimization (GEO)? A Guide for B2B SaaS Teams",
-            "url": "https://dev.to/pavlozhydkykh/what-is-generative-engine-optimization-geo-a-guide-for-b2b-saas-teams-4a2g",
-            "description": "Originally published on pzhydkykh.com.  Founders see ChatGPT, Perplexity and Google AI Overviews..."
+            "title": "HubSpot private apps can't be created anymore: what to use for server-side integrations",
+            "url": "https://dev.to/tonibitencourt/hubspot-private-apps-cant-be-created-anymore-what-to-use-for-server-side-integrations-1247",
+            "description": "Existing HubSpot accounts can no longer create legacy private apps. What changed, what keeps working, and how to connect a server-side script with a S"
         },
         {
-            "title": "CRM as an API",
-            "url": "https://dev.to/aharshit123456/crm-as-an-api-3lk3",
-            "description": "How FamCare's CRM team hands out coupons, free minutes and support calls from CleverTap journeys while the backend keeps every rule on money."
+            "title": "Meta Conversions API deduplication: why your cost per conversion just halved",
+            "url": "https://dev.to/tonibitencourt/meta-conversions-api-deduplication-why-your-cost-per-conversion-just-halved-2n1f",
+            "description": "If cost per conversion dropped by half right after you turned on the Conversions API, you're probably counting events twice. How event_id deduplicatio"
         }
     ]
 }
