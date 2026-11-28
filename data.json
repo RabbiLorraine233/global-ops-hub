@@ -1,30 +1,30 @@
 {
-    "last_updated": "2026-11-27 06:41:34 UTC",
+    "last_updated": "2026-11-28 06:15:47 UTC",
     "articles": [
         {
-            "title": "I read a zero as 'no demand'. My listing had never been in the index.",
-            "url": "https://dev.to/kaylen-2/i-read-a-zero-as-no-demand-my-listing-had-never-been-in-the-index-gh9",
-            "description": "I sell one thing in a marketplace where agents and humans trade services: a written teardown of your..."
+            "title": "Beyond Building Apps: How to Build a TikTok Content Engine That Drives Real Users",
+            "url": "https://dev.to/robertadam987_/beyond-building-apps-how-to-build-a-tiktok-content-engine-that-drives-real-users-gjn",
+            "description": "Building a mobile app is only half the job.  You can spend months developing features, polishing the..."
         },
         {
-            "title": "Server-side GTM preview opens blank: the preview server you're missing",
-            "url": "https://dev.to/tonibitencourt/server-side-gtm-preview-opens-blank-the-preview-server-youre-missing-5469",
-            "description": "When the server-side Google Tag Manager preview opens blank on a self-hosted container, the usual cause is a missing preview server or a PREVIEW_SERVE"
+            "title": "A practical GEO checklist: making your site readable for AI search",
+            "url": "https://dev.to/invennio/a-practical-geo-checklist-making-your-site-readable-for-ai-search-2oe6",
+            "description": "More people now get answers from an AI assistant before they ever see a list of links. Generative..."
         },
         {
-            "title": "One product, three counts, and twenty URLs I deleted",
-            "url": "https://dev.to/amazong110/one-product-three-counts-and-twenty-urls-i-deleted-13d0",
-            "description": "A template store where the gallery, the pricing link and the checkout each printed a different number of templates. What I deleted to make one of them true."
+            "title": "How to Monitor What China Says About a Brand on Weibo with Python (2026)",
+            "url": "https://dev.to/neronbaez/how-to-monitor-what-china-says-about-a-brand-on-weibo-with-python-2026-1jec",
+            "description": "Weibo (\u5fae\u535a) is where Chinese consumers react to brands in public: launches, complaints, rumors and..."
         },
         {
-            "title": "HubSpot private apps can't be created anymore: what to use for server-side integrations",
-            "url": "https://dev.to/tonibitencourt/hubspot-private-apps-cant-be-created-anymore-what-to-use-for-server-side-integrations-1247",
-            "description": "Existing HubSpot accounts can no longer create legacy private apps. What changed, what keeps working, and how to connect a server-side script with a S"
+            "title": "How to Get Your Competitors' Google Ads with Python (2026)",
+            "url": "https://dev.to/neronbaez/how-to-get-your-competitors-google-ads-with-python-2026-3lpf",
+            "description": "Your competitors already paid to learn which ads work. Google publishes those ads in the Google Ads..."
         },
         {
-            "title": "Meta Conversions API deduplication: why your cost per conversion just halved",
-            "url": "https://dev.to/tonibitencourt/meta-conversions-api-deduplication-why-your-cost-per-conversion-just-halved-2n1f",
-            "description": "If cost per conversion dropped by half right after you turned on the Conversions API, you're probably counting events twice. How event_id deduplicatio"
+            "title": "How to use Webless Agents without wasting $599 a month \u2014 the pricing math nobody posts",
+            "url": "https://dev.to/sugukavi/how-to-use-webless-agents-without-wasting-599-a-month-the-pricing-math-nobody-posts-4km4",
+            "description": "How to use Webless Agents without wasting $599 a month \u2014 the pricing math nobody..."
         }
     ]
 }
